@@ -1,0 +1,6 @@
+# A股风向标 - Python 依赖
+Flask==3.1.1
+mysql-connector-python==9.2.0
+PyMySQL==1.1.1
+python-dotenv==1.0.1
+gunicorn==23.0.0
