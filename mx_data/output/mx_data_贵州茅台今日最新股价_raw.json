@@ -1,0 +1,203 @@
+{
+  "status": 0,
+  "message": "ok",
+  "data": {
+    "requestId": null,
+    "message": "OK",
+    "status": 0,
+    "code": 0,
+    "data": {
+      "protocolType": "SEARCH_DATA",
+      "id": "c869e0b6-6e2a-4d37-81d3-c5e558e0f05a",
+      "refSeq": null,
+      "keyEntityList": null,
+      "searchDataResultDTO": {
+        "questionId": "1336f790-68bf-42f1-b272-1885a2511d13",
+        "dataTableDTOList": [
+          {
+            "code": "600519.SH",
+            "entityName": "贵州茅台(600519.SH)",
+            "table": {
+              "100000000017975": [
+                "1445.0"
+              ],
+              "headName": [
+                "2026-03-20"
+              ]
+            },
+            "rawTable": {
+              "100000000017975": [
+                "1445.0"
+              ],
+              "headName": [
+                "2026-03-20"
+              ]
+            },
+            "truncateRawTable": {},
+            "nameMap": {
+              "100000000017975": "收盘价",
+              "headNameSub": "数据来源"
+            },
+            "headNameMap": {},
+            "field": {
+              "returnCode": "100000000017975",
+              "returnName": "收盘价",
+              "classCode": "007102",
+              "checkedRelatedIndicators": false,
+              "startDate": "2026-03-22 00:00:00",
+              "endDate": "2026-03-22 00:00:00",
+              "fuzzy": false,
+              "dateGranularity": "DAY",
+              "defineType": -1,
+              "isLoopN": false,
+              "fixedParamValue": "Period=1,AdjustFlag=1,CurType=2",
+              "quantType": "2",
+              "isGroup": false,
+              "returnSourceCode": "CLOSE",
+              "returnSourceName": "收盘价",
+              "graph": "2",
+              "unit": "0",
+              "tableType": "1"
+            },
+            "macroAttributeExcelMap": {},
+            "fieldSet": [
+              {
+                "returnCode": "100000000017975",
+                "returnName": "收盘价",
+                "classCode": "007102",
+                "checkedRelatedIndicators": false,
+                "startDate": "2026-03-22 00:00:00",
+                "endDate": "2026-03-22 00:00:00",
+                "fuzzy": false,
+                "dateGranularity": "DAY",
+                "defineType": -1,
+                "isLoopN": false,
+                "fixedParamValue": "Period=1,AdjustFlag=1,CurType=2",
+                "quantType": "2",
+                "isGroup": false,
+                "returnSourceCode": "CLOSE",
+                "returnSourceName": "收盘价",
+                "graph": "2",
+                "unit": "0",
+                "tableType": "1"
+              }
+            ],
+            "dataTableType": "NORM_TABLE",
+            "rowInfo": {},
+            "colInfo": {},
+            "indicatorOrder": [
+              "100000000017975"
+            ],
+            "tipFlags": [],
+            "dataType": "数据浏览器",
+            "title": "贵州茅台(600519.SH)的收盘价",
+            "hasThumbnail": true,
+            "indicatorLimited": false,
+            "dataPositionEnum": "MetricLeftTimeTop",
+            "orderCol": {},
+            "jumpUrlList": [
+              {
+                "choiceUrl": "EM://stockdatacenter?type=browser&modType=STOCK&code=600519.SH&indId=100000000001098",
+                "typeName": "股票数据浏览器"
+              }
+            ],
+            "dataTypeEnum": "DATA_BROWSER",
+            "dateRuleSet": [],
+            "freqConvert": false,
+            "deleteInfo": [],
+            "macroCodeMap": {},
+            "entityTagDTO": {
+              "entityId": "1000002162",
+              "entityType": "SEC",
+              "entityTypeCode": "058001001",
+              "entityTypeName": "A股",
+              "classCode": "002001",
+              "className": "沪深京股票",
+              "publishCode": "",
+              "fullName": "贵州茅台",
+              "shortName": "",
+              "secuCode": "600519",
+              "market": "1",
+              "marketChar": ".SH",
+              "correct": false,
+              "securityName": "贵州茅台",
+              "hasKLine": false,
+              "valuation": false
+            },
+            "entityTagDTOList": [
+              {
+                "entityId": "1000002162",
+                "entityType": "SEC",
+                "entityTypeCode": "058001001",
+                "entityTypeName": "A股",
+                "classCode": "002001",
+                "className": "沪深京股票",
+                "publishCode": "",
+                "fullName": "贵州茅台",
+                "shortName": "",
+                "secuCode": "600519",
+                "market": "1",
+                "marketChar": ".SH",
+                "correct": false,
+                "securityName": "贵州茅台",
+                "hasKLine": true,
+                "valuation": false
+              }
+            ],
+            "indexTable": false,
+            "edbThirdData": false,
+            "dataUpdate": {
+              "2026-03-20": false
+            },
+            "supportsTimeSeries": false,
+            "estimatedTokens": 0,
+            "summaryTips": {
+              "periodicalReport": null
+            },
+            "nestEntityListMap": {},
+            "excelTimeTruncate": false,
+            "frontendEntityName": "",
+            "frontendEntityCode": "",
+            "frontendTitle": "",
+            "frontendDesc": "",
+            "indicatorCount": 0,
+            "fieldParameterStr": "",
+            "tdayEnum": "NORMAL"
+          }
+        ],
+        "condition": {
+          "search_data_task_0": [
+            "贵州茅台",
+            "收盘价",
+            "2026-03-22至2026-03-22"
+          ]
+        },
+        "entityTagDTOList": [
+          {
+            "entityId": "1000002162",
+            "entityType": "SEC",
+            "entityTypeCode": "058001001",
+            "entityTypeName": "A股",
+            "classCode": "002001",
+            "className": "沪深京股票",
+            "publishCode": "",
+            "fullName": "贵州茅台",
+            "shortName": "",
+            "secuCode": "600519",
+            "market": "1",
+            "marketChar": ".SH",
+            "correct": false,
+            "securityName": "贵州茅台",
+            "hasKLine": false,
+            "valuation": false
+          }
+        ]
+      },
+      "entityName": null,
+      "message": null,
+      "tableTruncated": false
+    },
+    "stack": null
+  },
+  "requestId": "5408299fb0a5457184e1f061b5303339"
+}

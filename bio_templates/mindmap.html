@@ -55,6 +55,7 @@ var svg    = document.getElementById('lines');
 
 // ── Build flat list of nodes with unique IDs ──
 var nextId = 1;
+var nodesMap = {};
 function buildNodes(n, pid, depth) {
   var node = {
     id: nextId++,

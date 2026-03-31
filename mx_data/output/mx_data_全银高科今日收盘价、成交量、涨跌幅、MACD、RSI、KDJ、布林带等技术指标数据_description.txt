@@ -1,0 +1,8 @@
+金融数据查询结果说明
+========================================
+查询内容: 全银高科今日收盘价、成交量、涨跌幅、MACD、RSI、KDJ、布林带等技术指标数据
+数据文件路径: /root/.openclaw/workspace/mx_data/output/mx_data_全银高科今日收盘价、成交量、涨跌幅、MACD、RSI、KDJ、布林带等技术指标数据.xlsx
+描述文件路径: /root/.openclaw/workspace/mx_data/output/mx_data_全银高科今日收盘价、成交量、涨跌幅、MACD、RSI、KDJ、布林带等技术指标数据_description.txt
+数据行数: 3
+表数量: 3
+Sheet 列表: 荃银高科(300087.SZ)的区间成交量, 荃银高科(300087.SZ)的BOLL布林线、RSI相对强弱指标等, 荃银高科(300087.SZ)的涨跌幅、收盘价

@@ -1,0 +1,989 @@
+{
+  "status": 0,
+  "message": "ok",
+  "data": {
+    "requestId": null,
+    "message": "OK",
+    "status": 0,
+    "code": 0,
+    "data": {
+      "protocolType": "SEARCH_DATA",
+      "id": "d2998bb3-a22f-476d-b206-101b2c727ede",
+      "refSeq": null,
+      "keyEntityList": null,
+      "searchDataResultDTO": {
+        "questionId": "41d520ef-c4e0-4a27-86e5-d977de51c76a",
+        "dataTableDTOList": [
+          {
+            "code": "001071",
+            "entityName": "全部A股",
+            "table": {
+              "100000000015688": [
+                "13.83"
+              ],
+              "100000000015689": [
+                "1408亿股"
+              ],
+              "100000000021307": [
+                "-1.109%"
+              ],
+              "100000000015690": [
+                "2.303万亿元"
+              ],
+              "100000000019878": [
+                "662"
+              ],
+              "100000000019879": [
+                "4786"
+              ],
+              "100000000020763": [
+                "33"
+              ],
+              "headName": [
+                "2026-03-20"
+              ]
+            },
+            "rawTable": {
+              "100000000015688": [
+                "13.827869373841386"
+              ],
+              "100000000015689": [
+                "140765897118"
+              ],
+              "100000000021307": [
+                "-1.109411721992"
+              ],
+              "100000000015690": [
+                "2302824611785.41"
+              ],
+              "100000000019878": [
+                "662"
+              ],
+              "100000000019879": [
+                "4786"
+              ],
+              "100000000020763": [
+                "33"
+              ],
+              "headName": [
+                "2026-03-20"
+              ]
+            },
+            "truncateRawTable": {},
+            "nameMap": {
+              "100000000015688": "收盘价(流通股本加权平均)",
+              "headNameSub": "数据来源",
+              "100000000015689": "成交量(合计)",
+              "100000000021307": "涨跌幅(总市值加权平均)",
+              "100000000015690": "成交金额(合计)",
+              "100000000019878": "上涨家数",
+              "100000000019879": "下跌家数",
+              "100000000020763": "平盘家数"
+            },
+            "headNameMap": {},
+            "field": {
+              "returnCode": "100000000015688",
+              "returnName": "收盘价(流通股本加权平均)",
+              "classCode": "007109",
+              "checkedRelatedIndicators": true,
+              "startDate": "2026-03-22 00:00:00",
+              "endDate": "2026-03-22 00:00:00",
+              "fuzzy": false,
+              "dateGranularity": "DAY",
+              "defineType": 0,
+              "isLoopN": false,
+              "fixedParamValue": "IsHistory=0",
+              "quantType": "9",
+              "isGroup": false,
+              "returnSourceCode": "CSCLOSE",
+              "returnSourceName": "收盘价(流通股本加权平均)",
+              "graph": "2",
+              "unit": "1",
+              "tableType": "1"
+            },
+            "entityCodes": [
+              "001071"
+            ],
+            "macroAttributeExcelMap": {},
+            "fieldSet": [
+              {
+                "returnCode": "100000000015690",
+                "returnName": "成交金额(合计)",
+                "classCode": "007109",
+                "checkedRelatedIndicators": true,
+                "startDate": "2026-03-22 00:00:00",
+                "endDate": "2026-03-22 00:00:00",
+                "fuzzy": false,
+                "dateGranularity": "DAY",
+                "defineType": 0,
+                "isLoopN": false,
+                "fixedParamValue": "IsHistory=0",
+                "quantType": "9",
+                "isGroup": false,
+                "returnSourceCode": "TVALCNY",
+                "returnSourceName": "成交金额(合计)",
+                "graph": "1",
+                "unit": "1",
+                "tableType": "1",
+                "unitName": "元",
+                "unitDesc": "101:元:元"
+              },
+              {
+                "returnCode": "100000000019879",
+                "returnName": "下跌家数",
+                "classCode": "007109",
+                "checkedRelatedIndicators": true,
+                "startDate": "2026-03-22 00:00:00",
+                "endDate": "2026-03-22 00:00:00",
+                "fuzzy": false,
+                "dateGranularity": "DAY",
+                "defineType": 0,
+                "isLoopN": false,
+                "fixedParamValue": "IsHistory=0",
+                "quantType": "9",
+                "isGroup": false,
+                "returnSourceCode": "LOWS",
+                "returnSourceName": "下跌家数",
+                "graph": "1",
+                "unit": "0",
+                "tableType": "1"
+              },
+              {
+                "returnCode": "100000000019878",
+                "returnName": "上涨家数",
+                "classCode": "007109",
+                "checkedRelatedIndicators": true,
+                "startDate": "2026-03-22 00:00:00",
+                "endDate": "2026-03-22 00:00:00",
+                "fuzzy": false,
+                "dateGranularity": "DAY",
+                "defineType": 0,
+                "isLoopN": false,
+                "fixedParamValue": "IsHistory=0",
+                "quantType": "9",
+                "isGroup": false,
+                "returnSourceCode": "HIGHS",
+                "returnSourceName": "上涨家数",
+                "graph": "1",
+                "unit": "0",
+                "tableType": "1"
+              },
+              {
+                "returnCode": "100000000021307",
+                "returnName": "涨跌幅(总市值加权平均)",
+                "classCode": "007109",
+                "checkedRelatedIndicators": true,
+                "startDate": "2026-03-22 00:00:00",
+                "endDate": "2026-03-22 00:00:00",
+                "fuzzy": false,
+                "dateGranularity": "DAY",
+                "defineType": 0,
+                "isLoopN": false,
+                "fixedParamValue": "IsHistory=0",
+                "quantType": "9",
+                "isGroup": false,
+                "returnSourceCode": "ZDFZSZJQPJ",
+                "returnSourceName": "涨跌幅(总市值加权平均)",
+                "graph": "2",
+                "unit": "1",
+                "tableType": "1",
+                "unitName": "%",
+                "unitDesc": "108:%:%"
+              },
+              {
+                "returnCode": "100000000020763",
+                "returnName": "平盘家数",
+                "classCode": "007109",
+                "checkedRelatedIndicators": true,
+                "startDate": "2026-03-22 00:00:00",
+                "endDate": "2026-03-22 00:00:00",
+                "fuzzy": false,
+                "dateGranularity": "DAY",
+                "defineType": 0,
+                "isLoopN": false,
+                "fixedParamValue": "IsHistory=0",
+                "quantType": "9",
+                "isGroup": false,
+                "returnSourceCode": "NOCHANGES",
+                "returnSourceName": "平盘家数",
+                "graph": "1",
+                "unit": "0",
+                "tableType": "1"
+              },
+              {
+                "returnCode": "100000000015688",
+                "returnName": "收盘价(流通股本加权平均)",
+                "classCode": "007109",
+                "checkedRelatedIndicators": true,
+                "startDate": "2026-03-22 00:00:00",
+                "endDate": "2026-03-22 00:00:00",
+                "fuzzy": false,
+                "dateGranularity": "DAY",
+                "defineType": 0,
+                "isLoopN": false,
+                "fixedParamValue": "IsHistory=0",
+                "quantType": "9",
+                "isGroup": false,
+                "returnSourceCode": "CSCLOSE",
+                "returnSourceName": "收盘价(流通股本加权平均)",
+                "graph": "2",
+                "unit": "1",
+                "tableType": "1"
+              },
+              {
+                "returnCode": "100000000015689",
+                "returnName": "成交量(合计)",
+                "classCode": "007109",
+                "checkedRelatedIndicators": true,
+                "startDate": "2026-03-22 00:00:00",
+                "endDate": "2026-03-22 00:00:00",
+                "fuzzy": false,
+                "dateGranularity": "DAY",
+                "defineType": 0,
+                "isLoopN": false,
+                "fixedParamValue": "IsHistory=0",
+                "quantType": "9",
+                "isGroup": false,
+                "returnSourceCode": "TVOL",
+                "returnSourceName": "成交量(合计)",
+                "graph": "1",
+                "unit": "1",
+                "tableType": "1",
+                "unitName": "股",
+                "unitDesc": "102:股:股"
+              }
+            ],
+            "dataTableType": "NORM_TABLE",
+            "rowInfo": {},
+            "colInfo": {},
+            "indicatorOrder": [
+              "100000000015688",
+              "100000000015689",
+              "100000000021307",
+              "100000000015690",
+              "100000000019878",
+              "100000000019879",
+              "100000000020763"
+            ],
+            "tipFlags": [],
+            "dataType": "数据浏览器",
+            "title": "全部A股的收盘价(流通股本加权平均)、成交量(合计)等",
+            "hasThumbnail": true,
+            "indicatorLimited": false,
+            "dataPositionEnum": "MetricLeftTimeTop",
+            "orderCol": {},
+            "jumpUrlList": [
+              {
+                "choiceUrl": "EM://stockdatacenter?type=browser&modType=BLOCK&code=001071&indId=100000000015688|121:2026-03-20,100000000015689|121:2026-03-20,100000000021307|121:2026-03-20,100000000015690|121:2026-03-20,100000000019878|121:2026-03-20,100000000019879|121:2026-03-20,100000000020763|121:2026-03-20",
+                "typeName": "板块数据浏览器"
+              }
+            ],
+            "dataTypeEnum": "DATA_BROWSER",
+            "dateRuleSet": [],
+            "freqConvert": false,
+            "deleteInfo": [],
+            "macroCodeMap": {},
+            "entityTagDTO": {
+              "entityId": "001071",
+              "entityType": "BLOCK",
+              "entityTypeCode": "BLOCK",
+              "entityTypeName": "BLOCK",
+              "classCode": "005202",
+              "className": "市场类(沪深京)",
+              "publishCode": "",
+              "fullName": "全部A股",
+              "shortName": "",
+              "secuCode": "",
+              "market": "",
+              "correct": false,
+              "securityName": "全部A股",
+              "hasKLine": false,
+              "valuation": false
+            },
+            "entityTagDTOList": [
+              {
+                "entityId": "001071",
+                "entityType": "BLOCK",
+                "entityTypeCode": "BLOCK",
+                "entityTypeName": "BLOCK",
+                "classCode": "005202",
+                "className": "市场类(沪深京)",
+                "publishCode": "",
+                "fullName": "全部A股",
+                "shortName": "",
+                "secuCode": "",
+                "market": "",
+                "correct": false,
+                "securityName": "全部A股",
+                "hasKLine": false,
+                "valuation": false
+              }
+            ],
+            "indexTable": false,
+            "edbThirdData": false,
+            "dataUpdate": {
+              "2026-03-20": false
+            },
+            "supportsTimeSeries": false,
+            "estimatedTokens": 0,
+            "summaryTips": {
+              "periodicalReport": null
+            },
+            "nestEntityListMap": {},
+            "excelTimeTruncate": false,
+            "frontendEntityName": "",
+            "frontendEntityCode": "",
+            "frontendTitle": "",
+            "frontendDesc": "",
+            "indicatorCount": 0,
+            "fieldParameterStr": "",
+            "tdayEnum": "NORMAL"
+          },
+          {
+            "code": "001071",
+            "entityName": "全部A股",
+            "table": {
+              "100000000015694": [
+                "-1.109%"
+              ],
+              "100000000015696": [
+                "1408亿股"
+              ],
+              "100000000019236": [
+                "0.1261%"
+              ],
+              "100000000046094": [
+                "2.303万亿元"
+              ],
+              "headName": [
+                "2026-03-20"
+              ]
+            },
+            "rawTable": {
+              "100000000015694": [
+                "-1.109412"
+              ],
+              "100000000015696": [
+                "140765897118"
+              ],
+              "100000000019236": [
+                "0.12605421368199998"
+              ],
+              "100000000046094": [
+                "2302824611785.41"
+              ],
+              "headName": [
+                "2026-03-20"
+              ]
+            },
+            "truncateRawTable": {},
+            "nameMap": {
+              "100000000015694": "成份区间涨跌幅(总市值加权平均)",
+              "headNameSub": "数据来源",
+              "100000000015696": "成份区间成交量(合计)",
+              "100000000019236": "区间相对大盘涨跌幅(总市值加权平均)",
+              "100000000046094": "日均成交额"
+            },
+            "headNameMap": {},
+            "field": {
+              "returnCode": "100000000015694",
+              "returnName": "成份区间涨跌幅(总市值加权平均)",
+              "classCode": "007109",
+              "checkedRelatedIndicators": true,
+              "startDate": "2026-03-22 00:00:00",
+              "endDate": "2026-03-22 00:00:00",
+              "fuzzy": false,
+              "dateGranularity": "DAY",
+              "defineType": 0,
+              "isLoopN": false,
+              "fixedParamValue": "IsHistory=0",
+              "quantType": "9",
+              "isGroup": false,
+              "returnSourceCode": "TVCHG",
+              "returnSourceName": "成份区间涨跌幅(总市值加权平均)",
+              "graph": "2",
+              "unit": "1",
+              "tableType": "1",
+              "unitName": "%",
+              "unitDesc": "108:%:%"
+            },
+            "entityCodes": [
+              "001071"
+            ],
+            "macroAttributeExcelMap": {},
+            "fieldSet": [
+              {
+                "returnCode": "100000000046094",
+                "returnName": "日均成交额",
+                "classCode": "007109",
+                "checkedRelatedIndicators": true,
+                "startDate": "2026-03-22 00:00:00",
+                "endDate": "2026-03-22 00:00:00",
+                "fuzzy": false,
+                "dateGranularity": "DAY",
+                "defineType": 0,
+                "isLoopN": false,
+                "fixedParamValue": "CurType=2,IsHistory=0",
+                "quantType": "9",
+                "isGroup": false,
+                "returnSourceCode": "QJRJCJE",
+                "returnSourceName": "区间日均成交额",
+                "graph": "0",
+                "unit": "1",
+                "tableType": "1",
+                "unitName": "元",
+                "unitDesc": "101:元:元"
+              },
+              {
+                "returnCode": "100000000015694",
+                "returnName": "成份区间涨跌幅(总市值加权平均)",
+                "classCode": "007109",
+                "checkedRelatedIndicators": true,
+                "startDate": "2026-03-22 00:00:00",
+                "endDate": "2026-03-22 00:00:00",
+                "fuzzy": false,
+                "dateGranularity": "DAY",
+                "defineType": 0,
+                "isLoopN": false,
+                "fixedParamValue": "IsHistory=0",
+                "quantType": "9",
+                "isGroup": false,
+                "returnSourceCode": "TVCHG",
+                "returnSourceName": "成份区间涨跌幅(总市值加权平均)",
+                "graph": "2",
+                "unit": "1",
+                "tableType": "1",
+                "unitName": "%",
+                "unitDesc": "108:%:%"
+              },
+              {
+                "returnCode": "100000000019236",
+                "returnName": "区间相对大盘涨跌幅(总市值加权平均)",
+                "classCode": "007109",
+                "checkedRelatedIndicators": true,
+                "startDate": "2026-03-22 00:00:00",
+                "endDate": "2026-03-22 00:00:00",
+                "fuzzy": false,
+                "dateGranularity": "DAY",
+                "defineType": 0,
+                "isLoopN": false,
+                "fixedParamValue": "IndexCode=000001.SH,IsHistory=0",
+                "quantType": "9",
+                "isGroup": false,
+                "returnSourceCode": "CHGTOINDTOL",
+                "returnSourceName": "区间相对大盘涨跌幅(总市值加权平均)",
+                "graph": "2",
+                "unit": "1",
+                "tableType": "1",
+                "unitName": "%",
+                "unitDesc": "108:%:%"
+              },
+              {
+                "returnCode": "100000000015696",
+                "returnName": "成份区间成交量(合计)",
+                "classCode": "007109",
+                "checkedRelatedIndicators": true,
+                "startDate": "2026-03-22 00:00:00",
+                "endDate": "2026-03-22 00:00:00",
+                "fuzzy": false,
+                "dateGranularity": "DAY",
+                "defineType": 0,
+                "isLoopN": false,
+                "fixedParamValue": "IsHistory=0",
+                "quantType": "9",
+                "isGroup": false,
+                "returnSourceCode": "TVOL",
+                "returnSourceName": "成份区间成交量(合计)",
+                "graph": "1",
+                "unit": "1",
+                "tableType": "1",
+                "unitName": "股",
+                "unitDesc": "102:股:股"
+              }
+            ],
+            "dataTableType": "NORM_TABLE",
+            "rowInfo": {},
+            "colInfo": {},
+            "indicatorOrder": [
+              "100000000015694",
+              "100000000015696",
+              "100000000019236",
+              "100000000046094"
+            ],
+            "tipFlags": [],
+            "dataType": "数据浏览器",
+            "title": "全部A股的成份区间涨跌幅(总市值加权平均)、成份区间成交量(合计)等",
+            "hasThumbnail": true,
+            "indicatorLimited": false,
+            "dataPositionEnum": "MetricLeftTimeTop",
+            "orderCol": {},
+            "jumpUrlList": [
+              {
+                "choiceUrl": "EM://stockdatacenter?type=browser&modType=BLOCK&code=001071&indId=100000000015694|102:2026-03-20|283:2026-03-20,100000000015696|102:2026-03-20|283:2026-03-20,100000000019236|102:2026-03-20|523:000001.SH|283:2026-03-20,100000000046094|102:2026-03-20|453:2|283:2026-03-20",
+                "typeName": "板块数据浏览器"
+              }
+            ],
+            "dataTypeEnum": "DATA_BROWSER",
+            "dateRuleSet": [],
+            "freqConvert": false,
+            "deleteInfo": [],
+            "macroCodeMap": {},
+            "entityTagDTO": {
+              "entityId": "001071",
+              "entityType": "BLOCK",
+              "entityTypeCode": "BLOCK",
+              "entityTypeName": "BLOCK",
+              "classCode": "005202",
+              "className": "市场类(沪深京)",
+              "publishCode": "",
+              "fullName": "全部A股",
+              "shortName": "",
+              "secuCode": "",
+              "market": "",
+              "correct": false,
+              "securityName": "全部A股",
+              "hasKLine": false,
+              "valuation": false
+            },
+            "entityTagDTOList": [
+              {
+                "entityId": "001071",
+                "entityType": "BLOCK",
+                "entityTypeCode": "BLOCK",
+                "entityTypeName": "BLOCK",
+                "classCode": "005202",
+                "className": "市场类(沪深京)",
+                "publishCode": "",
+                "fullName": "全部A股",
+                "shortName": "",
+                "secuCode": "",
+                "market": "",
+                "correct": false,
+                "securityName": "全部A股",
+                "hasKLine": false,
+                "valuation": false
+              }
+            ],
+            "indexTable": false,
+            "edbThirdData": false,
+            "dataUpdate": {
+              "2026-03-20": false
+            },
+            "supportsTimeSeries": false,
+            "estimatedTokens": 0,
+            "summaryTips": {
+              "periodicalReport": null
+            },
+            "nestEntityListMap": {},
+            "excelTimeTruncate": false,
+            "frontendEntityName": "",
+            "frontendEntityCode": "",
+            "frontendTitle": "",
+            "frontendDesc": "",
+            "indicatorCount": 0,
+            "fieldParameterStr": "",
+            "tdayEnum": "NORMAL"
+          },
+          {
+            "code": "001071",
+            "entityName": "全部A股",
+            "table": {
+              "100000000016980": [
+                "-0.03993%"
+              ],
+              "100000000016981": [
+                "-3.239%"
+              ],
+              "headName": [
+                " "
+              ]
+            },
+            "rawTable": {
+              "100000000016980": [
+                "-0.039927"
+              ],
+              "100000000016981": [
+                "-3.238998"
+              ],
+              "headName": [
+                " "
+              ]
+            },
+            "truncateRawTable": {},
+            "nameMap": {
+              "100000000016980": "上周涨跌幅",
+              "headNameSub": "数据来源",
+              "100000000016981": "本周涨跌幅"
+            },
+            "headNameMap": {},
+            "field": {
+              "returnCode": "100000000016980",
+              "returnName": "上周涨跌幅",
+              "classCode": "007109",
+              "checkedRelatedIndicators": true,
+              "startDate": "2026-03-22 00:00:00",
+              "endDate": "2026-03-22 00:00:00",
+              "fuzzy": false,
+              "dateGranularity": "UNKNOWN",
+              "defineType": 0,
+              "isLoopN": false,
+              "fixedParamValue": "IsHistory=0",
+              "quantType": "9",
+              "isGroup": false,
+              "returnSourceCode": "LZCHG",
+              "returnSourceName": "上周涨跌幅",
+              "graph": "2",
+              "unit": "1",
+              "tableType": "1",
+              "unitName": "%",
+              "unitDesc": "108:%:%"
+            },
+            "entityCodes": [
+              "001071"
+            ],
+            "macroAttributeExcelMap": {},
+            "fieldSet": [
+              {
+                "returnCode": "100000000016980",
+                "returnName": "上周涨跌幅",
+                "classCode": "007109",
+                "checkedRelatedIndicators": true,
+                "startDate": "2026-03-22 00:00:00",
+                "endDate": "2026-03-22 00:00:00",
+                "fuzzy": false,
+                "dateGranularity": "UNKNOWN",
+                "defineType": 0,
+                "isLoopN": false,
+                "fixedParamValue": "IsHistory=0",
+                "quantType": "9",
+                "isGroup": false,
+                "returnSourceCode": "LZCHG",
+                "returnSourceName": "上周涨跌幅",
+                "graph": "2",
+                "unit": "1",
+                "tableType": "1",
+                "unitName": "%",
+                "unitDesc": "108:%:%"
+              },
+              {
+                "returnCode": "100000000016981",
+                "returnName": "本周涨跌幅",
+                "classCode": "007109",
+                "checkedRelatedIndicators": true,
+                "startDate": "2026-03-22 00:00:00",
+                "endDate": "2026-03-22 00:00:00",
+                "fuzzy": false,
+                "dateGranularity": "UNKNOWN",
+                "defineType": 0,
+                "isLoopN": false,
+                "fixedParamValue": "IsHistory=0",
+                "quantType": "9",
+                "isGroup": false,
+                "returnSourceCode": "BZCHG",
+                "returnSourceName": "本周涨跌幅",
+                "graph": "2",
+                "unit": "1",
+                "tableType": "1",
+                "unitName": "%",
+                "unitDesc": "108:%:%"
+              }
+            ],
+            "dataTableType": "NORM_TABLE",
+            "rowInfo": {},
+            "colInfo": {},
+            "indicatorOrder": [
+              "100000000016980",
+              "100000000016981"
+            ],
+            "tipFlags": [],
+            "dataType": "数据浏览器",
+            "title": "全部A股的上周涨跌幅、本周涨跌幅",
+            "hasThumbnail": true,
+            "indicatorLimited": false,
+            "dataPositionEnum": "MetricLeftTimeTop",
+            "orderCol": {},
+            "jumpUrlList": [
+              {
+                "choiceUrl": "EM://stockdatacenter?type=browser&modType=BLOCK&code=001071&indId=100000000016980,100000000016981",
+                "typeName": "板块数据浏览器"
+              }
+            ],
+            "dataTypeEnum": "DATA_BROWSER",
+            "dateRuleSet": [],
+            "freqConvert": false,
+            "deleteInfo": [],
+            "macroCodeMap": {},
+            "entityTagDTO": {
+              "entityId": "001071",
+              "entityType": "BLOCK",
+              "entityTypeCode": "BLOCK",
+              "entityTypeName": "BLOCK",
+              "classCode": "005202",
+              "className": "市场类(沪深京)",
+              "publishCode": "",
+              "fullName": "全部A股",
+              "shortName": "",
+              "secuCode": "",
+              "market": "",
+              "correct": false,
+              "securityName": "全部A股",
+              "hasKLine": false,
+              "valuation": false
+            },
+            "entityTagDTOList": [
+              {
+                "entityId": "001071",
+                "entityType": "BLOCK",
+                "entityTypeCode": "BLOCK",
+                "entityTypeName": "BLOCK",
+                "classCode": "005202",
+                "className": "市场类(沪深京)",
+                "publishCode": "",
+                "fullName": "全部A股",
+                "shortName": "",
+                "secuCode": "",
+                "market": "",
+                "correct": false,
+                "securityName": "全部A股",
+                "hasKLine": false,
+                "valuation": false
+              }
+            ],
+            "indexTable": false,
+            "edbThirdData": false,
+            "dataUpdate": {
+              " ": false
+            },
+            "supportsTimeSeries": false,
+            "estimatedTokens": 0,
+            "summaryTips": {
+              "periodicalReport": null
+            },
+            "nestEntityListMap": {},
+            "excelTimeTruncate": false,
+            "frontendEntityName": "",
+            "frontendEntityCode": "",
+            "frontendTitle": "",
+            "frontendDesc": "",
+            "indicatorCount": 0,
+            "fieldParameterStr": "",
+            "tdayEnum": "NORMAL"
+          },
+          {
+            "code": "001071",
+            "entityName": "全部A股",
+            "table": {
+              "100000000046093": [
+                "146.2万亿元"
+              ],
+              "100000000046096": [
+                "0.02099%"
+              ],
+              "headName": [
+                "2025-12-22至2026-03-20"
+              ]
+            },
+            "rawTable": {
+              "100000000046093": [
+                "146228170338306.94"
+              ],
+              "100000000046096": [
+                "0.02099382578"
+              ],
+              "headName": [
+                "2025-12-22至2026-03-20"
+              ]
+            },
+            "truncateRawTable": {},
+            "nameMap": {
+              "100000000046093": "区间成交额",
+              "headNameSub": "数据来源",
+              "100000000046096": "区间日均换手率(整体法)"
+            },
+            "headNameMap": {},
+            "field": {
+              "returnCode": "100000000046093",
+              "returnName": "区间成交额",
+              "classCode": "007109",
+              "checkedRelatedIndicators": true,
+              "startDate": "2025-12-22 00:00:00",
+              "endDate": "2026-03-22 00:00:00",
+              "fuzzy": false,
+              "defineType": 0,
+              "isLoopN": false,
+              "fixedParamValue": "CurType=2,IsHistory=0",
+              "quantType": "9",
+              "isGroup": false,
+              "returnSourceCode": "QJCJE",
+              "returnSourceName": "区间成交额",
+              "graph": "0",
+              "unit": "1",
+              "tableType": "1",
+              "unitName": "元",
+              "unitDesc": "101:元:元"
+            },
+            "entityCodes": [
+              "001071"
+            ],
+            "macroAttributeExcelMap": {},
+            "fieldSet": [
+              {
+                "returnCode": "100000000046096",
+                "returnName": "区间日均换手率(整体法)",
+                "classCode": "007109",
+                "checkedRelatedIndicators": true,
+                "startDate": "2025-12-22 00:00:00",
+                "endDate": "2026-03-22 00:00:00",
+                "fuzzy": false,
+                "defineType": 0,
+                "isLoopN": false,
+                "fixedParamValue": "IsHistory=0",
+                "quantType": "9",
+                "isGroup": false,
+                "returnSourceCode": "QJRJHSL",
+                "returnSourceName": "区间日均换手率(整体法)",
+                "graph": "0",
+                "unit": "1",
+                "tableType": "1",
+                "unitName": "%",
+                "unitDesc": "108:%:%"
+              },
+              {
+                "returnCode": "100000000046093",
+                "returnName": "区间成交额",
+                "classCode": "007109",
+                "checkedRelatedIndicators": true,
+                "startDate": "2025-12-22 00:00:00",
+                "endDate": "2026-03-22 00:00:00",
+                "fuzzy": false,
+                "defineType": 0,
+                "isLoopN": false,
+                "fixedParamValue": "CurType=2,IsHistory=0",
+                "quantType": "9",
+                "isGroup": false,
+                "returnSourceCode": "QJCJE",
+                "returnSourceName": "区间成交额",
+                "graph": "0",
+                "unit": "1",
+                "tableType": "1",
+                "unitName": "元",
+                "unitDesc": "101:元:元"
+              }
+            ],
+            "dataTableType": "NORM_TABLE",
+            "rowInfo": {},
+            "colInfo": {},
+            "indicatorOrder": [
+              "100000000046093",
+              "100000000046096"
+            ],
+            "tipFlags": [],
+            "dataType": "数据浏览器",
+            "title": "全部A股的区间成交额、区间日均换手率(整体法)",
+            "hasThumbnail": true,
+            "indicatorLimited": false,
+            "dataPositionEnum": "MetricLeftTimeTop",
+            "orderCol": {},
+            "jumpUrlList": [
+              {
+                "choiceUrl": "EM://stockdatacenter?type=browser&modType=BLOCK&code=001071&indId=100000000046093|102:2026-03-20|453:2|283:2025-12-22,100000000046096|102:2026-03-20|283:2025-12-22",
+                "typeName": "板块数据浏览器"
+              }
+            ],
+            "dataTypeEnum": "DATA_BROWSER",
+            "dateRuleSet": [],
+            "freqConvert": false,
+            "deleteInfo": [],
+            "macroCodeMap": {},
+            "entityTagDTO": {
+              "entityId": "001071",
+              "entityType": "BLOCK",
+              "entityTypeCode": "BLOCK",
+              "entityTypeName": "BLOCK",
+              "classCode": "005202",
+              "className": "市场类(沪深京)",
+              "publishCode": "",
+              "fullName": "全部A股",
+              "shortName": "",
+              "secuCode": "",
+              "market": "",
+              "correct": false,
+              "securityName": "全部A股",
+              "hasKLine": false,
+              "valuation": false
+            },
+            "entityTagDTOList": [
+              {
+                "entityId": "001071",
+                "entityType": "BLOCK",
+                "entityTypeCode": "BLOCK",
+                "entityTypeName": "BLOCK",
+                "classCode": "005202",
+                "className": "市场类(沪深京)",
+                "publishCode": "",
+                "fullName": "全部A股",
+                "shortName": "",
+                "secuCode": "",
+                "market": "",
+                "correct": false,
+                "securityName": "全部A股",
+                "hasKLine": false,
+                "valuation": false
+              }
+            ],
+            "indexTable": false,
+            "edbThirdData": false,
+            "dataUpdate": {
+              "2025-12-22至2026-03-20": false
+            },
+            "supportsTimeSeries": false,
+            "estimatedTokens": 0,
+            "summaryTips": {
+              "periodicalReport": null
+            },
+            "nestEntityListMap": {},
+            "excelTimeTruncate": false,
+            "frontendEntityName": "",
+            "frontendEntityCode": "",
+            "frontendTitle": "",
+            "frontendDesc": "",
+            "indicatorCount": 0,
+            "fieldParameterStr": "",
+            "tdayEnum": "NORMAL"
+          }
+        ],
+        "condition": {
+          "search_data_task_0": [
+            "全部A股",
+            "收盘价(流通股本加权平均)成交量(合计)成份区间涨跌幅(总市值加权平均)成份区间成交量(合计)区间相对大盘涨跌幅(总市值加权平均)涨跌幅(总市值加权平均)成交金额(合计)上周涨跌幅本周涨跌幅上涨家数下跌家数平盘家数区间成交额日均成交额区间日均换手率(整体法)",
+            "2026-03-22至2026-03-22"
+          ]
+        },
+        "entityTagDTOList": [
+          {
+            "entityId": "001071",
+            "entityType": "BLOCK",
+            "entityTypeCode": "BLOCK",
+            "entityTypeName": "BLOCK",
+            "classCode": "005202",
+            "className": "市场类(沪深京)",
+            "publishCode": "",
+            "fullName": "全部A股",
+            "shortName": "",
+            "secuCode": "",
+            "market": "",
+            "correct": false,
+            "securityName": "全部A股",
+            "hasKLine": false,
+            "valuation": false
+          }
+        ]
+      },
+      "entityName": null,
+      "message": null,
+      "tableTruncated": false
+    },
+    "stack": null
+  },
+  "requestId": "8693ec6b1e4f4d2c9fb69758a9430286"
+}

@@ -1,0 +1,8 @@
+金融数据查询结果说明
+========================================
+查询内容: 荃银高科300087近20日涨跌额和涨跌幅
+数据文件路径: /root/.openclaw/workspace/mx_data/output/mx_data_荃银高科300087近20日涨跌额和涨跌幅.xlsx
+描述文件路径: /root/.openclaw/workspace/mx_data/output/mx_data_荃银高科300087近20日涨跌额和涨跌幅_description.txt
+数据行数: 15
+表数量: 1
+Sheet 列表: 荃银高科(300087.SZ)的涨跌幅

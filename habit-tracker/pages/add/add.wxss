@@ -1,0 +1,80 @@
+.section-title {
+  font-size: 28rpx;
+  color: #333;
+  font-weight: bold;
+  margin-bottom: 24rpx;
+}
+
+.name-input {
+  background: #f8f8f8;
+  border-radius: 12rpx;
+  padding: 24rpx;
+  font-size: 30rpx;
+}
+
+.emoji-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16rpx;
+}
+
+.emoji-item {
+  width: 100rpx;
+  height: 100rpx;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #f5f5f5;
+  border-radius: 16rpx;
+  border: 4rpx solid transparent;
+  transition: all 0.2s;
+}
+
+.emoji-item.selected {
+  border-color: #4A90E2;
+  background: #EBF5FF;
+}
+
+.emoji-text {
+  font-size: 48rpx;
+}
+
+.preview-card {
+  background: #f8fafc;
+}
+
+.preview-box {
+  display: flex;
+  align-items: center;
+  background: #fff;
+  border-radius: 16rpx;
+  padding: 30rpx;
+  box-shadow: 0 2rpx 8rpx rgba(0, 0, 0, 0.06);
+}
+
+.preview-emoji {
+  font-size: 64rpx;
+  margin-right: 24rpx;
+}
+
+.preview-name {
+  display: block;
+  font-size: 32rpx;
+  font-weight: bold;
+  color: #333;
+}
+
+.preview-desc {
+  display: block;
+  font-size: 22rpx;
+  color: #999;
+  margin-top: 8rpx;
+}
+
+.bottom-area {
+  padding: 40rpx 20rpx;
+}
+
+.bottom-area .btn-primary {
+  width: 100%;
+}

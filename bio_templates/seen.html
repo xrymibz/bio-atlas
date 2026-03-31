@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no"><title>我见过的</title>
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:-apple-system,BlinkMacSystemFont,sans-serif;background:#f0f7f4;min-height:100vh}
+.hd{background:linear-gradient(135deg,#2d6a4f,#1b4332);color:white;padding:14px 16px;display:flex;justify-content:space-between;align-items:center;position:sticky;top:0;z-index:100;box-shadow:0 2px 8px rgba(0,0,0,0.15);flex-wrap:wrap;gap:8px}
+.hd h1{flex-shrink:0;font-size:15px;font-weight:600}
+.bk{padding:8px 14px;background:rgba(255,255,255,0.2);color:white;border:none;border-radius:20px;font-size:13px;text-decoration:none}
+.tr{padding:12px}
+.nd{margin-bottom:4px}
+.nh{display:flex;align-items:center;padding:9px 12px;background:white;border-radius:10px;cursor:pointer;box-shadow:0 1px 3px rgba(0,0,0,0.06);user-select:none;font-size:14px}
+.nh:hover{background:#f8f9fa}
+.ar{font-size:10px;margin-right:8px;transition:transform .2s;display:inline-block;color:#999;min-width:8px}
+.ar.o{transform:rotate(90deg);color:#2d6a4f}
+.lb{flex:1;font-weight:600;color:#1a1a1a;font-size:14px}
+.cnt{background:#e8f5e9;color:#2d6a4f;padding:2px 9px;border-radius:12px;font-size:11px;font-weight:600}
+.nb{margin-left:4px;padding:1px 6px;background:#f0f0f0;color:#888;border-radius:8px;font-size:11px}
+.kw{display:flex;align-items:center;padding:8px 12px;background:#f8f9fa;border-radius:8px;font-size:13px;color:#555}
+.kw.ko{color:#2d6a4f;font-weight:700}
+.ch{margin-top:4px;margin-left:12px;display:none}
+.ch.o{display:block}
+.sub{display:flex;align-items:center;padding:8px 12px;background:#fafafa;border-radius:8px;margin-bottom:3px;cursor:pointer;font-size:14px;transition:background .15s}
+.sub:hover{background:#eee}
+.dot{width:7px;height:7px;border-radius:50%;margin-right:9px;flex-shrink:0;background:#4caf50;display:inline-block}
+.dot.no{background:#ccc}
+.nm{flex:1;font-size:13px;color:#333}
+.has{margin-left:6px;font-size:12px;color:#4caf50}
+.tm{font-size:11px;color:#999;margin-left:6px}
+.det{display:none;padding:16px;background:white;border-radius:12px;margin-bottom:8px;box-shadow:0 2px 8px rgba(0,0,0,0.1);margin-top:8px}
+.det.o{display:block}
+.dn{font-size:16px;font-weight:600;color:#1a1a1a;margin-bottom:4px}
+.dlt{font-size:12px;color:#999;font-style:italic;margin-top:2px}
+.dnt{font-size:14px;color:#555;margin:8px 0;line-height:1.5;padding:8px;background:#f8f9fa;border-radius:8px}
+.dph{width:100%;border-radius:8px;margin-top:8px;cursor:pointer;max-height:300px;object-fit:cover}
+.dac{display:flex;gap:10px;margin-top:12px}
+.dab{flex:1;padding:10px;border:1px solid #ddd;border-radius:8px;background:white;font-size:13px;cursor:pointer;text-align:center}
+.dab.dl{color:#c62828;border-color:#ffcdd2;background:#fff5f5}
+.x{font-size:22px;color:#999;cursor:pointer;padding:5px;float:right}
+.empty{text-align:center;padding:60px 20px;color:#999}
+#viewer{position:fixed;inset:0;background:rgba(0,0,0,0.9);z-index:300;display:none;align-items:center;justify-content:center;flex-direction:column}
+#viewer img{max-width:95%;max-height:80vh;border-radius:8px}
+#viewer .xv{position:absolute;top:15px;right:20px;color:white;font-size:32px;cursor:pointer}
+.kw-label{margin-right:6px;color:#888;font-size:12px}
+@media(min-width:768px){.wrap{max-width:600px;margin:0 auto;background:#f0f7f4;min-height:100vh}}
+</style></head>
+<body>
+<div class="wrap">
+<div class="hd"><h1>📋 我见过的 ({{total}})</h1><div style="display:flex;gap:8px"><a href="/mindmap" class="bk" style="background:#1b4332">🧠 脑图</a><a href="/" class="bk">返回</a></div></div>
+
+{%if tree%}
+<div class="tr">
+{%for kw_item in tree%}
+<div class="nd">
+<div class="nh" onclick="t(this)"><span class="ar">▶</span><span class="lb">{{kw_item.icon}} {{kw_item.name}}</span><span class="cnt">{{kw_item.count}}</span></div>
+<div class="ch">
+{%for phylum_item in kw_item.children%}
+<div class="nd">
+<div class="nh" onclick="t(this)"><span class="ar">▶</span><span class="lb">{{phylum_item.name}}</span><span class="cnt">{{phylum_item.count}}</span></div>
+<div class="ch">
+{%for cls_item in phylum_item.children%}
+<div class="nd">
+<div class="nh" onclick="t(this)"><span class="ar">▶</span><span class="lb kw">{{cls_item.name}}</span><span class="cnt">{{cls_item.count}}</span></div>
+<div class="ch">
+{%for order_item in cls_item.children%}
+<div class="nd">
+<div class="nh" onclick="t(this)"><span class="ar">▶</span><span class="lb kw kw-ko">{{order_item.name}}</span><span class="nb">{{order_item.children|length}}科</span><span class="cnt">{{order_item.count}}</span></div>
+<div class="ch">
+{%for family_item in order_item.children%}
+<div class="nd">
+<div class="nh" onclick="t(this)"><span class="ar">▶</span><span class="lb" style="color:#666">{{family_item.name}}</span><span class="cnt">{{family_item.count}}</span></div>
+<div class="ch">
+{%for genus_item in family_item.children%}
+<div class="nd">
+<div class="nh" onclick="t(this)" style="padding:7px 12px;font-size:13px"><span class="ar">▶</span><span class="lb" style="color:#888">{{genus_item.name}}</span><span class="cnt">{{genus_item.count}}</span></div>
+<div class="ch">
+{%for sp in genus_item.children%}
+<div class="sub" onclick="show({{sp.sid}})">
+  <span class="dot{{' no' if not sp.photo else ''}}"></span>
+  <div class="th" style="width:28px;height:28px;border-radius:50%;flex-shrink:0;border:1px solid #e0e0e0;display:flex;align-items:center;justify-content:center;font-size:14px;background:#f0f7f4;margin-right:6px"><span class="emoji">{{ICONS.get(sp.category, '🌱') if sp.org_type=='plant' else ICONS.get(sp.category, '🐾')}}</span></div><span class="nm">{{sp.name}}</span>
+  {%if sp.photo%}<span class="has">📷</span>{%endif%}
+  <span class="tm">{{sp.seen_at}}</span>
+</div>
+{%endfor%}
+</div>
+</div>
+{%endfor%}
+</div>
+</div>
+{%endfor%}
+</div>
+</div>
+{%endfor%}
+</div>
+</div>
+{%endfor%}
+</div>
+</div>
+{%endfor%}
+</div>
+</div>
+{%endfor%}
+</div>
+{%else%}
+<div class="empty"><div style="font-size:48px;margin-bottom:14px">🌿</div><div>还没有见过记录</div><div style="font-size:13px;margin-top:8px">去图鉴首页标记吧～</div></div>
+{%endif%}
+</div>
+
+<div id="det" class="det"></div>
+<div id="viewer" onclick="clV()"><span class="xv">×</span><img id="vImg" src=""></div>
+<script>
+var s={{sjs | safe}};
+// Toggle expand/collapse
+function t(el){
+  var ar = el.querySelector('.ar');
+  var sib = el.nextElementSibling;
+  while(sib && !sib.classList.contains('ch')) sib = sib.nextElementSibling;
+  if(sib){
+    ar.classList.toggle('o');
+    sib.classList.toggle('o');
+  }
+}
+function show(id){
+  var x=s[id];
+  var h='<img id="detImg" src="" style="display:none;width:100%;max-height:220px;object-fit:cover;border-radius:10px;margin-bottom:12px;background:#f0f0f0">';
+  h+='<span class="x" onclick="clDet()">×</span>';
+  h+='<div class="dn">'+x.name_cn+'</div>';
+  if(x.scientific_name)h+='<div class="dlt">'+x.scientific_name+'</div>';
+  h+='<div style="font-size:12px;color:#666;margin-top:6px">'+x.seen_at+'</div>';
+  if(x.note)h+='<div class="dnt">'+x.note+'</div>';
+  if(x.photo)h+='<img class="dph" src="/photos/'+id+'" onclick="v(\'/photos/\'+id+\'\')">';
+  h+='<div class="dac"><button class="dab dl" onclick="del('+id+')">🗑️ 删除</button></div>';
+  document.getElementById('det').innerHTML=h;
+  document.getElementById('det').classList.add('o');
+  document.getElementById('det').scrollIntoView();
+  var imgEl=document.getElementById('detImg');
+  fetch('/api/thumb/'+encodeURIComponent(x.scientific_name||x.name_cn||''))
+    .then(function(r){return r.json();})
+    .then(function(d){if(d.url){imgEl.src=d.url;imgEl.style.display='block';}})
+    .catch(function(){});
+}
+function clDet(){document.getElementById('det').classList.remove('o');}
+function v(src){document.getElementById('vImg').src=src;document.getElementById('viewer').style.display='flex';}
+function clV(){document.getElementById('viewer').style.display='none';}
+function del(id){if(confirm('删除这条记录？'))fetch('/api/sighting/'+id,{method:'DELETE'}).then(r=>r.json()).then(d=>{if(d.ok)location.reload();else alert('失败')});}
+
+(function(){
+  function loadThumbs(){
+    document.querySelectorAll('img.th[src=""]').forEach(function(img){
+      var id=img.id;
+      var name=img.getAttribute('data-name');
+      if(!name)return;
+      fetch('/api/thumb/'+encodeURIComponent(name||''))
+        .then(function(r){return r.json();})
+        .then(function(d){if(d.url){img.src=d.url;img.onerror=function(){img.style.display='none';}}else{img.style.display='none';}})
+        .catch(function(){img.style.display='none';});
+    });
+  }
+  setTimeout(loadThumbs,300);
+})();
+</script><script>// Auto-expand kingdoms on load
+document.querySelectorAll('.nh').forEach(function(nh){
+  var ch = nh.nextElementSibling;
+  if(ch && ch.classList.contains('ch')){
+    ch.classList.add('o');
+    nh.querySelector('.ar').classList.add('o');
+  }
+});</script>
+</body></html>

@@ -1,0 +1,146 @@
+.header-card {
+  background: linear-gradient(135deg, #4A90E2, #67B3E8);
+  color: #fff;
+}
+
+.date-box {
+  margin-bottom: 30rpx;
+}
+
+.date-text {
+  font-size: 40rpx;
+  font-weight: bold;
+}
+
+.week-text {
+  font-size: 24rpx;
+  margin-left: 20rpx;
+  opacity: 0.9;
+}
+
+.stats-box {
+  background: rgba(255, 255, 255, 0.2);
+  border-radius: 16rpx;
+  padding: 30rpx;
+}
+
+.stat-item {
+  flex: 1;
+}
+
+.stat-num {
+  display: block;
+  font-size: 48rpx;
+  font-weight: bold;
+}
+
+.stat-label {
+  display: block;
+  font-size: 22rpx;
+  opacity: 0.85;
+  margin-top: 8rpx;
+}
+
+.habit-card {
+  padding: 30rpx;
+}
+
+.habit-main {
+  align-items: center;
+}
+
+.habit-info {
+  display: flex;
+  align-items: center;
+}
+
+.habit-emoji {
+  font-size: 56rpx;
+  margin-right: 24rpx;
+}
+
+.habit-name {
+  display: block;
+  font-size: 32rpx;
+  font-weight: bold;
+  color: #333;
+}
+
+.habit-streak {
+  display: block;
+  font-size: 22rpx;
+  color: #FF9500;
+  margin-top: 6rpx;
+}
+
+.habit-actions {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
+
+.check-btn {
+  background: #4A90E2;
+  color: #fff;
+  font-size: 26rpx;
+  padding: 16rpx 40rpx;
+  border-radius: 40rpx;
+  border: none;
+  line-height: 1.5;
+}
+
+.check-btn::after {
+  border: none;
+}
+
+.check-btn.checked {
+  background: #52C41A;
+}
+
+.delete-btn {
+  font-size: 22rpx;
+  color: #999;
+  margin-top: 12rpx;
+}
+
+.calendar-row {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 24rpx;
+  padding-top: 24rpx;
+  border-top: 1rpx solid #f0f0f0;
+}
+
+.calendar-day {
+  text-align: center;
+}
+
+.day-dot {
+  display: block;
+  width: 32rpx;
+  height: 32rpx;
+  border-radius: 50%;
+  background: #f0f0f0;
+  margin: 0 auto;
+}
+
+.day-dot.active {
+  background: #52C41A;
+}
+
+.empty-state {
+  padding: 100rpx 0;
+}
+
+.empty-emoji {
+  display: block;
+  font-size: 100rpx;
+  margin-bottom: 30rpx;
+}
+
+.empty-text {
+  display: block;
+  color: #999;
+  font-size: 28rpx;
+  line-height: 1.8;
+}

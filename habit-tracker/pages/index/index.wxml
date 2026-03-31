@@ -1,0 +1,61 @@
+<view class="container">
+  <!-- 头部统计 -->
+  <view class="card header-card">
+    <view class="date-box text-center">
+      <text class="date-text">{{today}}</text>
+      <text class="week-text">周{{weekDays[date.getDay()]}}</text>
+    </view>
+    <view class="stats-box flex-between">
+      <view class="stat-item text-center">
+        <text class="stat-num">{{habits.length}}</text>
+        <text class="stat-label">习惯数</text>
+      </view>
+      <view class="stat-item text-center">
+        <text class="stat-num">{{habits.filter(h => h.checkedToday).length}}</text>
+        <text class="stat-label">今日完成</text>
+      </view>
+      <view class="stat-item text-center">
+        <text class="stat-num">{{habits.filter(h => h.checkedToday).length}}/{{habits.length}}</text>
+        <text class="stat-label">完成率</text>
+      </view>
+    </view>
+  </view>
+
+  <!-- 习惯列表 -->
+  <view class="habits-list">
+    <view class="card habit-card" wx:for="{{habits}}" wx:key="id">
+      <view class="habit-main flex-between">
+        <view class="habit-info">
+          <text class="habit-emoji">{{item.emoji}}</text>
+          <view class="habit-detail">
+            <text class="habit-name">{{item.name}}</text>
+            <text class="habit-streak">🔥 连续 {{item.streak}} 天</text>
+          </view>
+        </view>
+        <view class="habit-actions">
+          <button
+            class="check-btn {{item.checkedToday ? 'checked' : ''}}"
+            bindtap="checkIn"
+            data-id="{{item.id}}"
+          >
+            {{item.checkedToday ? '✓ 已打卡' : '打卡'}}
+          </button>
+          <text class="delete-btn" bindtap="deleteHabit" data-id="{{item.id}}">删除</text>
+        </view>
+      </view>
+
+      <!-- 打卡日历（最近7天） -->
+      <view class="calendar-row">
+        <view class="calendar-day {{item.records.includes(today) ? 'done' : ''}}" wx:for="{{[0,1,2,3,4,5,6]}}" wx:for-item="diff">
+          <text class="day-dot {{item.records.includes(formatDateBack(diff)) ? 'active' : ''}}"></text>
+        </view>
+      </view>
+    </view>
+  </view>
+
+  <!-- 空状态 -->
+  <view class="empty-state text-center" wx:if="{{habits.length === 0}}">
+    <text class="empty-emoji">📝</text>
+    <text class="empty-text">还没有习惯，\n去添加一个吧~</text>
+  </view>
+</view>

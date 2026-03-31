@@ -1,0 +1,44 @@
+<view class="container">
+  <view class="card">
+    <view class="section-title">习惯名称</view>
+    <input
+      class="name-input"
+      type="text"
+      placeholder="例如：早起、喝水、运动"
+      value="{{name}}"
+      bindinput="onNameInput"
+      maxlength="20"
+    />
+  </view>
+
+  <view class="card">
+    <view class="section-title">选择图标</view>
+    <view class="emoji-grid">
+      <view
+        class="emoji-item {{emoji === item ? 'selected' : ''}}"
+        wx:for="{{emojis}}"
+        wx:key="*this"
+        bindtap="onEmojiSelect"
+        data-emoji="{{item}}"
+      >
+        <text class="emoji-text">{{item}}</text>
+      </view>
+    </view>
+  </view>
+
+  <!-- 预览 -->
+  <view class="card preview-card" wx:if="{{name}}">
+    <view class="section-title">预览</view>
+    <view class="preview-box">
+      <text class="preview-emoji">{{emoji}}</text>
+      <view class="preview-info">
+        <text class="preview-name">{{name}}</text>
+        <text class="preview-desc">习惯将在下方显示</text>
+      </view>
+    </view>
+  </view>
+
+  <view class="bottom-area">
+    <button class="btn-primary" bindtap="addHabit">添加习惯</button>
+  </view>
+</view>

@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no"><title>动植物图鉴</title>
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:-apple-system,BlinkMacSystemFont,sans-serif;background:#f0f7f4;min-height:100vh}
+a{text-decoration:none}
+.hd{background:linear-gradient(135deg,#2d6a4f,#1b4332);color:white;padding:14px 16px;display:flex;justify-content:space-between;align-items:center;position:sticky;top:0;z-index:100;box-shadow:0 2px 8px rgba(0,0,0,0.15)}
+.hd h1{font-weight:600;font-size:17px}
+.abtn{padding:8px 14px;background:rgba(255,255,255,0.2);color:white;border:none;border-radius:20px;font-size:13px}
+.tabs{padding:10px 12px 0;background:white;display:flex;gap:6px}
+.tab{flex:1;padding:10px 0;text-align:center;border-radius:12px 12px 0 0;font-size:14px;font-weight:600;color:#666;background:#e8f5e9;border:1px solid #c8e6c9;border-bottom:none;cursor:pointer}
+.tab.active{background:#2d6a4f;color:white;border-color:#2d6a4f}
+.sch{padding:10px 12px;background:white}
+.sch input{width:100%;padding:10px 16px;border:1px solid #ddd;border-radius:24px;font-size:14px;outline:none;background:#f8f9fa}
+.fil{display:flex;gap:6px;padding:8px 12px;overflow-x:auto;background:white;-webkit-overflow-scrolling:touch;flex-wrap:wrap}
+.fil::-webkit-scrollbar{display:none}
+.tag{flex-shrink:0;padding:6px 14px;border-radius:20px;font-size:12px;border:1px solid #ddd;background:white;color:#333;cursor:pointer}
+.tag.active{background:#2d6a4f;color:white;border-color:#2d6a4f}
+.lst{padding:10px 12px}
+.card{background:white;border-radius:12px;padding:14px;margin-bottom:10px;box-shadow:0 1px 3px rgba(0,0,0,0.06)}
+.cn{font-size:15px;font-weight:600;color:#1a1a1a;display:flex;align-items:center;gap:8px}
+.th{width:36px;height:36px;border-radius:50%;object-fit:cover;flex-shrink:0;border:1.5px solid #e0e0e0;display:flex;align-items:center;justify-content:center;font-size:18px;overflow:hidden;background:#f0f7f4;flex-shrink:0}
+.th img{width:100%;height:100%;object-fit:cover;border-radius:50%;}
+.lt{font-size:12px;color:#999;font-style:italic;margin:2px 0 4px}
+.bd{display:flex;gap:5px;margin-top:4px;flex-wrap:wrap}
+.bl{padding:3px 9px;border-radius:10px;font-size:11px}
+.bl-seen{background:#fff3e0;color:#e65100}
+.bl-safe{background:#e8f5e9;color:#2e7d32}
+.bl-end{background:#ffebee;color:#c62828}
+.bl-cat{background:#e3f2fd;color:#1565c0}
+.info{display:grid;grid-template-columns:1fr 1fr;gap:5px;font-size:12px;color:#666;margin-top:8px}
+.info span{color:#333;font-weight:500}
+.ft{margin-top:8px;padding-top:8px;border-top:1px solid #f0f0f0;font-size:12px;color:#666}
+.btns{display:flex;gap:8px;margin-top:10px}
+.btn1{flex:1;padding:9px;background:#2d6a4f;color:white;border:none;border-radius:20px;font-size:13px;cursor:pointer;display:flex;align-items:center;justify-content:center;gap:5px}
+.btn1:hover{background:#1b4332}
+.btn2{flex:1;padding:9px;background:#4caf50;color:white;border:none;border-radius:20px;font-size:13px;cursor:pointer}
+.pg{display:flex;justify-content:center;gap:6px;padding:14px;flex-wrap:wrap}
+.pg a{min-width:40px;height:34px;display:flex;align-items:center;justify-content:center;background:white;border-radius:8px;font-size:13px;color:#333;text-decoration:none;box-shadow:0 1px 3px rgba(0,0,0,0.08)}
+.pg a.cur{background:#2d6a4f;color:white}
+.pg a.off{opacity:0.4;pointer-events:none}
+.empty{text-align:center;padding:50px 20px;color:#999}
+@media(min-width:768px){.wrap{max-width:600px;margin:0 auto;background:#f0f7f4;min-height:100vh}}
+</style></head>
+<body>
+<div class="wrap">
+<div class="hd"><h1>🌿 动植物图鉴</h1><a href="/my-sightings" class="abtn">📋 我见过({{sc}})</a></div>
+
+<div class="tabs">
+<div class="tab {{'active' if org_type=='animal' else ''}}" onclick="location.href='/?p=1&kw={{kw}}&ct={{ct}}&ed={{ed}}&org=animal'">🐾 动物</div>
+<div class="tab {{'active' if org_type=='plant' else ''}}" onclick="location.href='/?p=1&kw={{kw}}&ct={{ct}}&ed={{ed}}&org=plant'">🌱 植物</div>
+</div>
+
+<div class="sch"><input id="kw" placeholder="搜索名称或学名..." value="{{kw or ''}}"></div>
+
+<div class="fil">
+<span class="tag {{'active' if not ct else ''}}" onclick="location.href='/?p=1&kw={{kw}}&ct=&ed={{ed}}&org={{org_type}}'">全部</span>
+{%for cat in cats%}
+<span class="tag {{'active' if ct==cat else ''}}" onclick="location.href='/?p=1&kw={{kw}}&ct={{cat}}&ed={{ed}}&org={{org_type}}'">{{ICONS.get(cat,'')}}{{cat}}</span>
+{%endfor%}
+<span class="tag {{'active' if ed=='1' else ''}}" onclick="location.href='/?p=1&kw={{kw}}&ct={{ct}}&ed={{'0' if ed=='1' else '1'}}&org={{org_type}}'">⚠️{{'濒危' if ed!='1' else '全部'}}</span>
+</div>
+
+<div class="lst">
+{%if items%}
+{%for it in items%}
+<div class="card">
+<div class="cn"><div class="th"><span class="emoji">{{ICONS.get(it.category,'🐾')}}</span></div>{{it.name_cn}}</div>
+<div class="lt">{{it.scientific_name or ''}}</div>
+<div class="bd">
+{%if it.is_seen%}<span class="bl bl-seen">✓已见过</span>{%endif%}
+<span class="bl {{'bl-end' if it.is_endangered else 'bl-safe'}}">{{'⚠️濒危' if it.is_endangered else '✅安全'}}</span>
+<span class="bl bl-cat">{{it.category}}</span>
+</div>
+<div class="info">
+{%if it.org_type=='animal'%}
+<div>纲：<span>{{it.class or '-'}}</span></div><div>目：<span>{{it.order_name or '-'}}</span></div>
+<div>科：<span>{{it.family or '-'}}</span></div><div>属：<span>{{it.genus or '-'}}</span></div>
+{%else%}
+<div>科：<span>{{it.family or '-'}}</span></div><div>属：<span>{{it.genus or '-'}}</span></div>
+<div>花色：<span>{{it.flower_color or '-'}}</span></div><div>叶性：<span>{{it.leaf_type or '-'}}</span></div>
+{%endif%}
+</div>
+<div class="ft">📍 {{it.region or '分布未知'}}</div>
+<div class="btns">
+<button class="btn1" onclick="showDetail('{{it.id}}','{{it.name_cn}}','{{it.scientific_name or ''}}','{{it.category}}','{{it.feature or ''}}','{{it.region or ''}}','{{it.description or ''}}','{{it.org_type}}')">🔍 详情</button>
+<button class="{{'btn2' if it.is_seen else 'btn1'}}" onclick="toggleSeen('{{it.id}}','{{it.name_cn}}',this,'{{it.org_type}}')">{{'✓ 已见过' if it.is_seen else '📍 标记见过'}}</button>
+</div>
+</div>
+{%endfor%}
+{%else%}
+<div class="empty" style="text-align:center;padding:50px 20px;color:#999">
+<div style="font-size:48px;margin-bottom:14px">🔍</div>
+<div>没查到"{{kw or ''}}"相关的{{'动物' if org_type=='animal' else '植物'}}</div>
+<div style="font-size:13px;margin-top:8px;color:#bbb">试试其他关键词</div>
+</div>
+{%endif%}
+</div>
+
+{%if pg>1%}
+<div class="pg">
+<a class="{{'off' if p<=1 else ''}}" href="/?p={{p-1 if p>1 else 1}}&kw={{kw}}&ct={{ct}}&ed={{ed}}&org={{org_type}}">‹</a>
+{%for i in range(1,pg+1)%}{%if i>=p-2 and i<=p+2%}<a class="{{'cur' if i==p else ''}}" href="/?p={{i}}&kw={{kw}}&ct={{ct}}&ed={{ed}}&org={{org_type}}">{{i}}</a>{%endif%}{%endfor%}
+<a class="{{'off' if p>=pg else ''}}" href="/?p={{p+1 if p<pg else pg}}&kw={{kw}}&ct={{ct}}&ed={{ed}}&org={{org_type}}">›</a>
+</div>
+{%endif%}
+</div>
+
+<div id="detailModal" style="display:none;position:fixed;inset:0;background:rgba(0,0,0,0.6);z-index:200;align-items:center;justify-content:center;padding:20px;">
+<div style="background:white;border-radius:16px;padding:24px;width:100%;max-width:480px;max-height:90vh;overflow-y:auto;">
+<div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:16px;">
+<h3 id="detTitle" style="font-size:18px;font-weight:600;color:#1a1a1a"></h3>
+<span onclick="closeDetail()" style="font-size:24px;color:#999;cursor:pointer;padding:5px;">×</span>
+</div>
+<div id="detBody" style="font-size:14px;color:#333;line-height:1.8;"></div>
+</div></div>
+
+<div id="upModal" style="display:none;position:fixed;inset:0;background:rgba(0,0,0,0.6);z-index:200;align-items:center;justify-content:center;">
+<div style="background:white;border-radius:16px;padding:24px;width:90%;max-width:400px;">
+<h3 id="upTitle" style="margin-bottom:16px;font-size:17px;">📸 标记见过</h3>
+<form id="upForm" enctype="multipart/form-data">
+<div style="margin-bottom:16px;">
+<label style="display:block;padding:20px;border:2px dashed #ddd;border-radius:12px;text-align:center;cursor:pointer;background:#f8f9fa;">
+<input type="file" id="upPhoto" name="photo" accept="image/*" style="display:none;">
+<span id="upLabel" style="font-size:14px;color:#666;">📷 点击选择照片</span>
+</label></div>
+<textarea name="note" placeholder="写点什么..." style="width:100%;height:60px;border:1px solid #ddd;border-radius:8px;padding:10px;font-size:14px;resize:none;margin-bottom:12px;box-sizing:border-box;"></textarea>
+<input type="hidden" id="upId" name="organism_id" value="">
+<input type="hidden" id="upOrgType" name="organism_type" value="">
+<div style="display:flex;gap:10px;">
+<button type="button" onclick="closeUp()" style="flex:1;padding:12px;border:1px solid #ddd;border-radius:8px;background:white;cursor:pointer;">取消</button>
+<button type="submit" style="flex:1;padding:12px;background:#2d6a4f;color:white;border:none;border-radius:8px;cursor:pointer;">确认</button>
+</div></form>
+</div></div>
+
+<script>
+var searchInput=document.getElementById('kw');
+var st;
+searchInput.addEventListener('input',function(){
+  var v=this.value;clearTimeout(st);
+  st=setTimeout(function(){
+    location.href='/?p=1&kw='+encodeURIComponent(v)+'&ct={{ct}}&ed={{ed}}&org={{org_type}}';
+  },600);
+  searchInput.value=v;
+});
+document.getElementById('upPhoto').addEventListener('change',function(){
+  var f=this.files[0];
+  document.getElementById('upLabel').textContent=f?'✓ '+f.name:'📷 点击选择照片';
+});
+function esc(s){if(!s)return'';return String(s).replace(/'/g,"\\'").replace(/\n/g,' ');}
+function showDetail(id,cn,ln,cat,ft,rg,ds,org){
+  var ico=org=='animal'?'🐾':'🌱';
+  var h='<div id="userPhotoWrap" style="display:none;margin-bottom:14px;"><img id="detailImg" src="" style="width:100%;max-height:250px;object-fit:cover;border-radius:10px;"></div>';
+  h+='<div style="margin-bottom:12px;"><span style="font-size:22px;font-weight:600">'+ico+' '+esc(cn)+'</span></div>';
+  h+='<div style="font-size:13px;color:#999;font-style:italic;margin-bottom:12px;">'+esc(ln)+'</div>';
+  h+='<div style="background:#f8f9fa;border-radius:10px;padding:14px;margin-bottom:12px;">';
+  h+='<div style="font-size:13px;"><b>分类：</b>'+esc(cat)+'</div></div>';
+  if(ft)h+='<div style="margin-bottom:10px;"><b style="color:#2d6a4f">特征：</b>'+esc(ft)+'</div>';
+  if(rg)h+='<div style="margin-bottom:10px;"><b style="color:#2d6a4f">分布：</b>'+esc(rg)+'</div>';
+  if(ds)h+='<div style="margin-bottom:10px;"><b style="color:#2d6a4f">描述：</b>'+esc(ds)+'</div>';
+  document.getElementById('detTitle').textContent=ico+' '+esc(cn);
+  document.getElementById('detBody').innerHTML=h;
+  document.getElementById('detailModal').style.display='flex';
+  // Fetch user's own photo for this species
+  var wrap=document.getElementById('userPhotoWrap');
+  var imgEl=document.getElementById('detailImg');
+  fetch('/api/sighting-photo/'+encodeURIComponent(id)+'/'+org)
+    .then(function(r){return r.json();})
+    .then(function(d){
+      if(d.photo){
+        imgEl.src='/p/'+d.photo;
+        wrap.style.display='block';
+      }
+    })
+    .catch(function(){});
+}
+function closeDetail(){document.getElementById('detailModal').style.display='none';}
+function toggleSeen(id,cn,btn,org){
+  if(btn.classList.contains('btn2')){
+    if(confirm('取消见过标记？')){
+      fetch('/api/unseen/'+encodeURIComponent(id)+'/'+org,{method:'POST'}).then(r=>r.json()).then(d=>{if(d.ok)location.reload()});
+    }
+  } else {
+    document.getElementById('upTitle').textContent='📸 标记见过 "'+esc(cn)+'"';
+    document.getElementById('upId').value=id;
+    document.getElementById('upOrgType').value=org;
+    document.getElementById('upLabel').textContent='📷 点击选择照片';
+    document.getElementById('upModal').style.display='flex';
+  }
+}
+function closeUp(){document.getElementById('upModal').style.display='none';}
+document.getElementById('upForm').addEventListener('submit',function(e){
+  e.preventDefault();
+  var fd=new FormData(this);
+  fetch('/api/seen',{method:'POST',body:fd}).then(r=>r.json()).then(d=>{
+    if(d.ok){alert('已记录！');location.reload();}else alert(d.error||'失败');
+  });
+});
+
+</script></body></html>

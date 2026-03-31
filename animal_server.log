@@ -1,0 +1,335 @@
+ * Serving Flask app 'animal_server'
+ * Debug mode: off
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.1.0.10:5000
+Press CTRL+C to quit
+117.136.0.106 - - [23/Mar/2026 08:58:56] "GET / HTTP/1.1" 200 -
+117.136.0.106 - - [23/Mar/2026 08:58:56] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [23/Mar/2026 09:00:27] "GET / HTTP/1.1" 302 -
+117.136.0.106 - - [23/Mar/2026 09:06:12] "GET /?page=1&kw=&ct=哺乳动物&ed= HTTP/1.1" 200 -
+117.136.0.106 - - [23/Mar/2026 09:06:13] "GET /?page=1&kw=&ct=鸟类&ed= HTTP/1.1" 200 -
+117.136.0.106 - - [23/Mar/2026 09:06:14] "GET /?page=1&kw=&ct=爬行动物&ed= HTTP/1.1" 200 -
+117.136.0.106 - - [23/Mar/2026 09:06:26] "GET /?page=1&kw=&ct=爬行动物&ed=1 HTTP/1.1" 200 -
+117.136.0.106 - - [23/Mar/2026 09:06:29] "GET /?page=1&kw=&ct=&ed=1 HTTP/1.1" 200 -
+ * Serving Flask app 'animal_server'
+ * Debug mode: off
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.1.0.10:5000
+Press CTRL+C to quit
+117.136.0.106 - - [23/Mar/2026 09:17:27] "GET / HTTP/1.1" 200 -
+117.136.0.106 - - [23/Mar/2026 09:17:27] "GET /favicon.ico HTTP/1.1" 404 -
+117.136.0.106 - - [23/Mar/2026 09:18:19] "GET /?page=1&kw=&ct=哺乳动物&ed= HTTP/1.1" 200 -
+117.136.0.106 - - [23/Mar/2026 09:18:20] "GET /?page=1&kw=&ct=鸟类&ed= HTTP/1.1" 200 -
+117.136.0.106 - - [23/Mar/2026 09:18:21] "GET /?page=1&kw=&ct=爬行动物&ed= HTTP/1.1" 200 -
+117.136.0.106 - - [23/Mar/2026 09:18:23] "GET /?page=1&kw=&ct=&ed= HTTP/1.1" 200 -
+180.101.244.13 - - [23/Mar/2026 09:30:01] "GET /?page=1&kw=&ct=鸟类&ed= HTTP/1.1" 302 -
+59.83.208.105 - - [23/Mar/2026 09:30:01] "GET /login?page=1&ct=鸟类 HTTP/1.1" 200 -
+59.83.208.103 - - [23/Mar/2026 09:31:33] "GET /?page=1&kw=&ct=哺乳动物&ed= HTTP/1.1" 302 -
+59.83.208.105 - - [23/Mar/2026 09:31:33] "GET /login?page=1&ct=哺乳动物 HTTP/1.1" 200 -
+205.210.31.251 - - [23/Mar/2026 11:36:52] "GET / HTTP/1.1" 302 -
+205.210.31.251 - - [23/Mar/2026 11:36:53] "GET /login HTTP/1.1" 200 -
+106.52.109.61 - - [23/Mar/2026 12:01:25] "GET / HTTP/1.1" 302 -
+106.52.109.61 - - [23/Mar/2026 12:01:25] "GET /login HTTP/1.1" 200 -
+117.136.0.106 - - [23/Mar/2026 12:06:07] "GET / HTTP/1.1" 200 -
+117.136.0.106 - - [23/Mar/2026 12:06:08] "GET /favicon.ico HTTP/1.1" 404 -
+117.136.0.106 - - [23/Mar/2026 12:06:13] "GET /my-sightings HTTP/1.1" 200 -
+117.136.0.106 - - [23/Mar/2026 12:06:15] "GET / HTTP/1.1" 200 -
+ * Serving Flask app 'animal_server'
+ * Debug mode: off
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.1.0.10:5000
+Press CTRL+C to quit
+172.105.128.12 - - [23/Mar/2026 14:07:07] "GET / HTTP/1.1" 302 -
+172.105.128.12 - - [23/Mar/2026 14:07:08] "GET /login HTTP/1.1" 200 -
+204.76.203.51 - - [23/Mar/2026 15:25:20] "GET http://azenv.net/ HTTP/1.1" 302 -
+204.76.203.51 - - [23/Mar/2026 15:25:21] "CONNECT dnspod.qcloud.com:443 HTTP/1.1" 404 -
+65.49.1.24 - - [23/Mar/2026 16:45:57] "GET / HTTP/1.1" 302 -
+65.49.1.33 - - [23/Mar/2026 16:46:25] "GET / HTTP/1.1" 302 -
+65.49.1.29 - - [23/Mar/2026 16:46:26] "GET /login HTTP/1.1" 200 -
+65.49.1.24 - - [23/Mar/2026 16:46:30] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00ò\x01\x00\x00î\x03\x03ªÇ\x18U±\x91\x14½\x03CÖª\x02ªëÃÿÌiC\x9f=É´\x8dT«üXUØE')
+65.49.1.24 - - [23/Mar/2026 16:46:30] "\x16\x03\x01\x00ò\x01\x00\x00î\x03\x03ªÇ\x18U±\x91\x14½\x03CÖª\x02ªëÃÿÌiC\x9f=É´\x8dT«üXUØE en-©ËI(¯\x94\x96Y½à\x92?Â\x02\x06[î\x05±" 400 -
+65.49.1.24 - - [23/Mar/2026 16:46:30] "GET /login HTTP/1.1" 200 -
+65.49.1.30 - - [23/Mar/2026 16:46:41] "GET /favicon.ico HTTP/1.1" 404 -
+114.247.88.29 - - [23/Mar/2026 19:06:06] "GET / HTTP/1.1" 200 -
+114.247.88.29 - - [23/Mar/2026 19:06:06] "GET /favicon.ico HTTP/1.1" 404 -
+180.163.29.217 - - [23/Mar/2026 19:09:53] "GET / HTTP/1.1" 302 -
+180.101.244.13 - - [23/Mar/2026 19:09:53] "GET / HTTP/1.1" 302 -
+180.163.28.114 - - [23/Mar/2026 19:09:53] "GET /login HTTP/1.1" 200 -
+59.83.208.107 - - [23/Mar/2026 19:09:53] "GET /login HTTP/1.1" 200 -
+117.136.0.106 - - [23/Mar/2026 19:39:20] "GET / HTTP/1.1" 200 -
+117.136.0.106 - - [23/Mar/2026 19:39:20] "GET /favicon.ico HTTP/1.1" 404 -
+117.136.0.106 - - [23/Mar/2026 19:39:23] "GET /?page=1&kw=&ct=哺乳动物&ed= HTTP/1.1" 200 -
+18.116.101.220 - - [23/Mar/2026 20:33:04] "GET / HTTP/1.1" 302 -
+18.116.101.220 - - [23/Mar/2026 20:33:05] "GET /login HTTP/1.1" 200 -
+18.116.101.220 - - [23/Mar/2026 20:34:50] "GET / HTTP/1.1" 302 -
+18.116.101.220 - - [23/Mar/2026 20:37:01] code 400, message Bad request version ('À\x14À')
+18.116.101.220 - - [23/Mar/2026 20:37:01] "\x16\x03\x01\x00{\x01\x00\x00w\x03\x03\x84V=\x01ÅÉ3è\x0d\\1%Çe\x08~éä¿Fø=5õ\x1dÉôâç\x15Nr\x00\x00\x1aÀ/À+À\x11À\x07À\x13À\x09À\x14À" 400 -
+18.116.101.220 - - [23/Mar/2026 20:39:02] code 400, message Bad request syntax ('SSH-2.0-Go')
+18.116.101.220 - - [23/Mar/2026 20:39:02] "SSH-2.0-Go" 400 -
+18.116.101.220 - - [23/Mar/2026 20:40:18] code 400, message Bad request version ('À\x14À')
+18.116.101.220 - - [23/Mar/2026 20:40:18] "\x16\x03\x01\x00{\x01\x00\x00w\x03\x03ËuâzÎ\x0cÞ7{Ït\x7f}\x12¼?®\x0bÉÕÙ=´'\x8fÿ\x95\x15\x8c¹JN\x00\x00\x1aÀ/À+À\x11À\x07À\x13À\x09À\x14À" 400 -
+204.76.203.51 - - [23/Mar/2026 21:15:21] "GET http://azenv.net/ HTTP/1.1" 302 -
+204.76.203.51 - - [23/Mar/2026 21:15:24] "CONNECT dnspod.qcloud.com:443 HTTP/1.1" 404 -
+204.76.203.51 - - [24/Mar/2026 01:59:27] "GET http://azenv.net/ HTTP/1.1" 302 -
+204.76.203.51 - - [24/Mar/2026 01:59:30] "CONNECT dnspod.qcloud.com:443 HTTP/1.1" 404 -
+80.66.83.43 - - [24/Mar/2026 05:34:32] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+80.66.83.43 - - [24/Mar/2026 05:34:32] "\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr" 400 -
+39.98.52.217 - - [24/Mar/2026 05:48:23] code 400, message Bad request syntax ('{\x01\x00\x1613911391139À¨\x01\x01\x13\x90{')
+39.98.52.217 - - [24/Mar/2026 05:48:23] "{\x01\x00\x1613911391139À¨\x01\x01\x13\x90{" 400 -
+39.98.52.217 - - [24/Mar/2026 05:48:23] "GET / HTTP/1.1" 302 -
+39.98.52.217 - - [24/Mar/2026 05:48:24] "GET /login HTTP/1.1" 200 -
+39.98.52.217 - - [24/Mar/2026 05:48:24] "GET /favicon.ico HTTP/1.1" 404 -
+82.147.84.38 - - [24/Mar/2026 05:48:44] code 400, message Bad request syntax ('\x03\x00\x00\x13\x0eà\x00\x00\x00\x00\x00\x01\x00\x08\x00\x02\x00\x00\x00')
+82.147.84.38 - - [24/Mar/2026 05:48:44] "\x03\x00\x00\x13\x0eà\x00\x00\x00\x00\x00\x01\x00\x08\x00\x02\x00\x00\x00" 400 -
+204.76.203.51 - - [24/Mar/2026 05:58:34] "GET http://azenv.net/ HTTP/1.1" 302 -
+204.76.203.51 - - [24/Mar/2026 05:58:36] "CONNECT dnspod.qcloud.com:443 HTTP/1.1" 404 -
+36.250.220.58 - - [24/Mar/2026 05:58:47] "HEAD http://110.242.68.4/ HTTP/1.1" 302 -
+175.30.48.253 - - [24/Mar/2026 05:58:47] "HEAD http://110.242.68.4/login HTTP/1.1" 200 -
+118.212.120.11 - - [24/Mar/2026 05:58:48] "GET http://www.soso.com/ HTTP/1.1" 302 -
+118.212.120.11 - - [24/Mar/2026 05:58:48] "GET http://www.epochtimes.com/ HTTP/1.1" 302 -
+118.212.120.11 - - [24/Mar/2026 05:58:48] "GET http://www.soso.com/login HTTP/1.1" 200 -
+118.212.120.11 - - [24/Mar/2026 05:58:48] "CONNECT dnspod.qcloud.com:443 HTTP/1.1" 404 -
+118.212.120.11 - - [24/Mar/2026 05:58:48] "GET http://dongtaiwang.com/ HTTP/1.1" 302 -
+118.212.120.11 - - [24/Mar/2026 05:58:48] "CONNECT dnspod.qcloud.com:443 HTTP/1.1" 404 -
+118.212.120.11 - - [24/Mar/2026 05:58:49] "CONNECT cn.bing.com:443 HTTP/1.1" 404 -
+118.212.120.11 - - [24/Mar/2026 05:58:49] "GET http://www.minghui.org/ HTTP/1.1" 302 -
+118.212.120.11 - - [24/Mar/2026 05:58:49] "GET http://www.wujieliulan.com/ HTTP/1.1" 302 -
+118.212.120.11 - - [24/Mar/2026 05:58:49] "CONNECT dnspod.qcloud.com:443 HTTP/1.1" 404 -
+118.212.120.11 - - [24/Mar/2026 05:58:49] "CONNECT dnspod.qcloud.com:443 HTTP/1.1" 404 -
+118.212.120.11 - - [24/Mar/2026 05:58:49] "CONNECT www.so.com:443 HTTP/1.1" 404 -
+118.212.120.11 - - [24/Mar/2026 05:58:50] "CONNECT www.baidu.com:443 HTTP/1.1" 404 -
+118.212.120.11 - - [24/Mar/2026 05:58:50] "GET http://www.rfa.org/english/ HTTP/1.1" 404 -
+118.212.120.11 - - [24/Mar/2026 05:58:51] "CONNECT dnspod.qcloud.com:443 HTTP/1.1" 404 -
+118.212.120.11 - - [24/Mar/2026 05:58:51] "CONNECT www.voanews.com:443 HTTP/1.1" 404 -
+147.185.132.120 - - [24/Mar/2026 06:48:21] "GET / HTTP/1.0" 302 -
+178.159.37.70 - - [24/Mar/2026 08:28:56] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+178.159.37.70 - - [24/Mar/2026 08:28:56] "\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr" 400 -
+20.14.78.26 - - [24/Mar/2026 08:35:12] "GET /v2/ HTTP/1.1" 404 -
+178.159.37.112 - - [24/Mar/2026 08:41:21] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+178.159.37.112 - - [24/Mar/2026 08:41:21] "\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr" 400 -
+204.76.203.51 - - [24/Mar/2026 09:59:35] "GET http://azenv.net/ HTTP/1.1" 302 -
+204.76.203.51 - - [24/Mar/2026 09:59:38] "CONNECT dnspod.qcloud.com:443 HTTP/1.1" 404 -
+137.184.174.49 - - [24/Mar/2026 10:06:04] "GET / HTTP/1.1" 302 -
+137.184.174.49 - - [24/Mar/2026 10:06:04] "GET /login HTTP/1.1" 200 -
+137.184.174.49 - - [24/Mar/2026 10:06:05] "GET /favicon.ico HTTP/1.1" 404 -
+178.159.37.112 - - [24/Mar/2026 10:15:13] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+178.159.37.112 - - [24/Mar/2026 10:15:13] "\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr" 400 -
+205.210.31.38 - - [24/Mar/2026 10:17:24] "GET / HTTP/1.1" 302 -
+205.210.31.38 - - [24/Mar/2026 10:17:24] "GET /login HTTP/1.1" 200 -
+178.159.37.70 - - [24/Mar/2026 10:36:29] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+178.159.37.70 - - [24/Mar/2026 10:36:29] "\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr" 400 -
+86.54.25.186 - - [24/Mar/2026 10:51:28] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+86.54.25.186 - - [24/Mar/2026 10:51:28] "\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr" 400 -
+86.54.25.186 - - [24/Mar/2026 11:13:59] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+86.54.25.186 - - [24/Mar/2026 11:13:59] "\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr" 400 -
+65.49.1.192 - - [24/Mar/2026 11:56:20] "GET / HTTP/1.1" 302 -
+65.49.1.195 - - [24/Mar/2026 11:56:52] "GET / HTTP/1.1" 302 -
+65.49.1.200 - - [24/Mar/2026 11:56:52] "GET /login HTTP/1.1" 200 -
+65.49.1.192 - - [24/Mar/2026 11:57:03] code 400, message Bad request version ('À\x13À')
+65.49.1.192 - - [24/Mar/2026 11:57:03] "\x16\x03\x01\x00ò\x01\x00\x00î\x03\x03\x96\x9fÌ\x04\x91Ñ¾Ï\x9c|Qzh\x04\x01¦½§µr«j\x81p\x83'_)ª\x0d=´ o\x9e{=3ÝÚ=­ÖÀ\x93zÿm\x0d+?\x1d«Û½\x87\x82;\x84j¾`\x90~Â\x00&À+À/À,À0Ì©Ì¨À\x09À\x13À" 400 -
+65.49.1.192 - - [24/Mar/2026 11:57:04] "GET /login HTTP/1.1" 200 -
+65.49.1.200 - - [24/Mar/2026 11:57:16] "GET /favicon.ico HTTP/1.1" 404 -
+91.196.152.37 - - [24/Mar/2026 13:34:18] code 400, message Bad request version ('À#À¬À®À+À')
+91.196.152.37 - - [24/Mar/2026 13:34:18] "\x16\x03\x03\x01§\x01\x00\x01£\x03\x03\x19ú»\x19a³¿Ì|bëèÁ{\x17ÃÔ­Ú,\x8dÓÎ\x18\x82«/ß{/\x82\x83 ò4\x10\x9c¼\x9e0*\x11âª\x0c&ã\x12ùmRÏ4GÌ1-ÿÃ\x18\x0f\x0b(*\x0c\x00\x8a\x00\x16\x003\x00gÀ\x9eÀ¢\x00\x9e\x009\x00kÀ\x9fÀ£\x00\x9f\x00E\x00¾\x00\x88\x00Ä\x00\x9aÀ\x08À\x09À#À¬À®À+À" 400 -
+91.196.152.124 - - [24/Mar/2026 13:34:21] "GET / HTTP/1.1" 302 -
+91.231.89.70 - - [24/Mar/2026 13:36:17] "GET /favicon.ico HTTP/1.1" 404 -
+91.231.89.169 - - [24/Mar/2026 13:36:17] "GET /login HTTP/1.1" 200 -
+91.231.89.10 - - [24/Mar/2026 13:38:36] "GET /favicon.ico HTTP/1.1" 404 -
+204.76.203.51 - - [24/Mar/2026 13:57:30] "GET http://azenv.net/ HTTP/1.1" 302 -
+204.76.203.51 - - [24/Mar/2026 13:57:30] "CONNECT dnspod.qcloud.com:443 HTTP/1.1" 404 -
+204.76.203.51 - - [24/Mar/2026 17:54:19] "GET http://azenv.net/ HTTP/1.1" 302 -
+204.76.203.51 - - [24/Mar/2026 17:54:23] "CONNECT dnspod.qcloud.com:443 HTTP/1.1" 404 -
+18.116.101.220 - - [24/Mar/2026 20:18:32] "GET / HTTP/1.1" 302 -
+18.116.101.220 - - [24/Mar/2026 20:18:32] "GET /login HTTP/1.1" 200 -
+18.116.101.220 - - [24/Mar/2026 20:19:39] "GET / HTTP/1.1" 302 -
+18.116.101.220 - - [24/Mar/2026 20:21:01] code 400, message Bad request version ('À\x14À')
+18.116.101.220 - - [24/Mar/2026 20:21:01] "\x16\x03\x01\x00{\x01\x00\x00w\x03\x032\x05Ã\x99|ïüI\x09,øÕ[QÎ/\x8aa\x05uÊÂBú~0\x8f\x9f\x9aD¾æ\x00\x00\x1aÀ/À+À\x11À\x07À\x13À\x09À\x14À" 400 -
+18.218.118.203 - - [24/Mar/2026 22:58:43] "GET / HTTP/1.1" 302 -
+18.218.118.203 - - [24/Mar/2026 22:58:44] "GET /login HTTP/1.1" 200 -
+18.218.118.203 - - [24/Mar/2026 23:00:19] "GET / HTTP/1.1" 302 -
+18.218.118.203 - - [24/Mar/2026 23:02:33] code 400, message Bad request syntax ('\x16\x03\x01\x00{\x01\x00\x00w\x03\x03û\x8aÜ\x10ë\x93ÏRdùüO\x8eA\x97geA\x88\x97½Òp\x7f\x92\x17')
+18.218.118.203 - - [24/Mar/2026 23:02:33] "\x16\x03\x01\x00{\x01\x00\x00w\x03\x03û\x8aÜ\x10ë\x93ÏRdùüO\x8eA\x97geA\x88\x97½Òp\x7f\x92\x17" 400 -
+18.218.118.203 - - [24/Mar/2026 23:04:21] code 400, message Bad request syntax ('SSH-2.0-Go')
+18.218.118.203 - - [24/Mar/2026 23:04:21] "SSH-2.0-Go" 400 -
+18.218.118.203 - - [24/Mar/2026 23:06:08] code 400, message Bad request version ('Þ\x98l/')
+18.218.118.203 - - [24/Mar/2026 23:06:08] "\x16\x03\x01\x00{\x01\x00\x00w\x03\x03ð¶¿\x9d]"èeý\x1e»-íz\x1d\x11I¢*Óó1\x7f\x1cÞ\x98l/" 400 -
+152.32.133.102 - - [25/Mar/2026 01:41:05] code 400, message Bad request syntax ('ÿ\x00\x00\x00\x00\x00\x00\x00\x00\x7f\x03\x01NULL\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00')
+152.32.133.102 - - [25/Mar/2026 01:41:05] "ÿ\x00\x00\x00\x00\x00\x00\x00\x00\x7f\x03\x01NULL\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00" 400 -
+152.32.133.102 - - [25/Mar/2026 01:41:22] code 400, message Bad request syntax ('ÿ\x00\x00\x00\x00\x00\x00\x00\x00\x7f\x03\x01NULL\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00')
+152.32.133.102 - - [25/Mar/2026 01:41:22] "ÿ\x00\x00\x00\x00\x00\x00\x00\x00\x7f\x03\x01NULL\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00" 400 -
+152.32.133.102 - - [25/Mar/2026 01:41:40] code 400, message Bad request syntax ('ÿ\x00\x00\x00\x00\x00\x00\x00\x00\x7f\x03\x01NULL\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00')
+152.32.133.102 - - [25/Mar/2026 01:41:40] "ÿ\x00\x00\x00\x00\x00\x00\x00\x00\x7f\x03\x01NULL\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00" 400 -
+152.32.133.102 - - [25/Mar/2026 01:41:48] "GET / HTTP/1.1" 302 -
+152.32.133.102 - - [25/Mar/2026 01:41:48] "GET / HTTP/1.1" 302 -
+152.32.133.102 - - [25/Mar/2026 01:41:48] "GET /login HTTP/1.1" 200 -
+152.32.133.102 - - [25/Mar/2026 01:41:49] "GET /favicon.ico HTTP/1.1" 404 -
+85.217.140.23 - - [25/Mar/2026 02:28:32] code 400, message Bad request version ('À\x14À')
+85.217.140.23 - - [25/Mar/2026 02:28:32] "\x16\x03\x01\x00î\x01\x00\x00ê\x03\x03¥¼u\x1bã!IÙcY\x92\x0d\x168²±!\x9eöíC£\x121$\x17rV\x1c\x10ÅM \x1dª¢²LÍì(¡\x1aO¦\x8e\x08äl\x87_\x9dÕ\x0bõÕ\x0d\x19DÂûA\x93ÄÀ\x00&Ì¨Ì©À/À0À+À,À\x13À\x09À\x14À" 400 -
+85.217.140.29 - - [25/Mar/2026 02:40:21] "'GET / HTTP/1.1" 405 -
+212.73.148.12 - - [25/Mar/2026 02:43:43] "GET / HTTP/1.1" 302 -
+213.209.159.227 - - [25/Mar/2026 03:45:29] code 400, message Bad request syntax ('SSH-2.0-Go')
+213.209.159.227 - - [25/Mar/2026 03:45:29] "SSH-2.0-Go" 400 -
+27.155.172.120 - - [25/Mar/2026 04:41:25] "GET / HTTP/1.1" 302 -
+59.173.111.74 - - [25/Mar/2026 04:42:43] "GET / HTTP/1.1" 302 -
+42.48.38.218 - - [25/Mar/2026 04:42:43] "GET /login HTTP/1.1" 200 -
+106.4.161.186 - - [25/Mar/2026 04:42:43] "GET /favicon.ico HTTP/1.1" 404 -
+220.196.160.51 - - [25/Mar/2026 04:48:23] "GET / HTTP/1.1" 302 -
+220.196.160.51 - - [25/Mar/2026 04:48:23] "GET / HTTP/1.1" 302 -
+59.83.208.104 - - [25/Mar/2026 04:48:23] "GET /login HTTP/1.1" 200 -
+59.83.208.108 - - [25/Mar/2026 04:48:23] "GET /login HTTP/1.1" 200 -
+59.83.208.104 - - [25/Mar/2026 04:48:24] "GET / HTTP/1.1" 302 -
+59.83.208.104 - - [25/Mar/2026 04:48:24] "GET /login HTTP/1.1" 200 -
+167.94.146.58 - - [25/Mar/2026 05:41:32] code 400, message Bad request version ('À\x14À')
+167.94.146.58 - - [25/Mar/2026 05:41:32] "\x16\x03\x01\x00î\x01\x00\x00ê\x03\x03h+h÷¬ô\x02Á\x11+\x1bUÃüt´\x93\x1a^,n¸t#9Õ'÷V*öj ¶·EVÎðS\x04bMõÜØ/\\Ö\x80\x96\x1d8\x09Ã6\x91¬1\x1bóìÏ\x82ß\x00&Ì¨Ì©À/À0À+À,À\x13À\x09À\x14À" 400 -
+167.94.146.58 - - [25/Mar/2026 05:41:36] "GET / HTTP/1.1" 302 -
+167.94.146.58 - - [25/Mar/2026 05:41:39] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00î\x01\x00\x00ê\x03\x034')
+167.94.146.58 - - [25/Mar/2026 05:41:39] "\x16\x03\x01\x00î\x01\x00\x00ê\x03\x034\x1e\x8f\x9f\x9a\x87\x17ÍP`\x84Q\x91+\x8c\x1a%Ý^ìÇE8\x9cÈ¶¦-\x89¹u" 400 -
+167.94.146.58 - - [25/Mar/2026 05:41:40] "GET / HTTP/1.1" 302 -
+167.94.146.58 - - [25/Mar/2026 05:41:40] code 505, message Invalid HTTP version (2.0)
+167.94.146.58 - - [25/Mar/2026 05:41:40] "PRI * HTTP/2.0" 505 -
+167.94.146.58 - - [25/Mar/2026 05:41:41] "GET /login HTTP/1.1" 200 -
+167.94.146.58 - - [25/Mar/2026 05:41:41] "GET /favicon.ico HTTP/1.1" 404 -
+167.94.146.58 - - [25/Mar/2026 05:41:45] code 400, message Bad request version (':\x9a¦\x17f\x14O\x18f$\x80¬X¬')
+167.94.146.58 - - [25/Mar/2026 05:41:45] "\x16\x03\x01\x00î\x01\x00\x00ê\x03\x03\x84n¸C;Ð:NÍ\x9b¹±o¿¼¼ÜQ\x0fÐ\x97ð\x8dP\x05EÊ0Ä7îL ¶E\x13J\x85:\x9a¦\x17f\x14O\x18f$\x80¬X¬\x85" 400 -
+167.94.146.58 - - [25/Mar/2026 05:41:45] "GET /security.txt HTTP/1.1" 404 -
+205.210.31.207 - - [25/Mar/2026 06:09:32] "GET / HTTP/1.1" 302 -
+205.210.31.207 - - [25/Mar/2026 06:09:33] "GET /login HTTP/1.1" 200 -
+193.32.162.25 - - [25/Mar/2026 07:15:57] code 400, message Bad request syntax ('SSH-2.0-Go')
+193.32.162.25 - - [25/Mar/2026 07:15:57] "SSH-2.0-Go" 400 -
+80.94.95.43 - - [25/Mar/2026 09:31:25] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+80.94.95.43 - - [25/Mar/2026 09:31:25] "\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr" 400 -
+101.200.151.101 - - [25/Mar/2026 09:57:38] code 400, message Bad request version ('::\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x00\x7f\x00\x05\x00\x05\x01\x00\x00\x00\x00\x00')
+101.200.151.101 - - [25/Mar/2026 09:57:38] "\x16\x03\x01\x00ì\x01\x00\x00è\x03\x03>úàä7M\x94®<Ê=\x80\x13\x85\x17é2\x1f"Ï\x8aæ\x17P\x8b\x1d£MºÁÇ\x09 ®©\x18-¹Æ\x9d§æý×49ÄÕzQ²¿©Å²\x14-Ô\x06nÉv\x89\x0c¢\x00 ::\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x00\x7f\x00\x05\x00\x05\x01\x00\x00\x00\x00\x00" 400 -
+101.200.151.101 - - [25/Mar/2026 10:13:05] "GET / HTTP/1.1" 302 -
+101.200.151.101 - - [25/Mar/2026 10:13:06] "GET /login HTTP/1.1" 200 -
+101.200.151.101 - - [25/Mar/2026 10:13:38] "GET /favicon.ico HTTP/1.1" 404 -
+37.60.241.154 - - [25/Mar/2026 10:17:10] code 400, message Bad request syntax ('SSH-2.0-OpenSSH')
+37.60.241.154 - - [25/Mar/2026 10:17:10] "SSH-2.0-OpenSSH" 400 -
+80.94.95.43 - - [25/Mar/2026 12:21:45] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+80.94.95.43 - - [25/Mar/2026 12:21:45] "\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr" 400 -
+204.76.203.51 - - [25/Mar/2026 13:12:27] "GET http://azenv.net/ HTTP/1.1" 302 -
+204.76.203.51 - - [25/Mar/2026 13:12:30] "CONNECT dnspod.qcloud.com:443 HTTP/1.1" 404 -
+152.32.255.94 - - [25/Mar/2026 13:38:52] code 400, message Bad request version ('\x00\x9eÌ¨Ìª\x003\x00=\x00\x16À')
+152.32.255.94 - - [25/Mar/2026 13:38:52] "\x16\x03\x01\x00ü\x01\x00\x00ø\x03\x03%Q\x81y\x94;?÷ôË\x91záR7LfÃ2Ûñr\x98+ Æw¬BÄq\x10 \x8bÕ\x15|°Ï\x96\x0dEà_)àå\x86{ñ°"\x94èrV\x1d\x89\x8di-¯¢·±\x004Ì¨Ì©À/À0À+À,À\x09\x00\x9eÌ¨Ìª\x003\x00=\x00\x16À" 400 -
+152.32.255.94 - - [25/Mar/2026 13:39:03] "GET / HTTP/1.1" 302 -
+152.32.255.94 - - [25/Mar/2026 13:39:04] "GET /login HTTP/1.1" 200 -
+152.32.255.94 - - [25/Mar/2026 13:39:04] "GET /favicon.ico HTTP/1.1" 404 -
+152.32.255.94 - - [25/Mar/2026 13:39:05] "GET /robots.txt HTTP/1.1" 404 -
+152.32.255.94 - - [25/Mar/2026 13:39:05] "GET /sitemap.xml HTTP/1.1" 404 -
+152.32.255.94 - - [25/Mar/2026 13:39:06] "GET /config.json HTTP/1.1" 404 -
+205.210.31.107 - - [25/Mar/2026 14:01:01] "GET / HTTP/1.0" 302 -
+160.119.76.58 - - [25/Mar/2026 14:44:37] code 400, message Bad request syntax ('\x03\x00\x00\x13\x0eà\x00\x00\x00\x00\x00\x01\x00\x08\x00\x02\x00\x00\x00')
+160.119.76.58 - - [25/Mar/2026 14:44:37] "\x03\x00\x00\x13\x0eà\x00\x00\x00\x00\x00\x01\x00\x08\x00\x02\x00\x00\x00" 400 -
+3.134.216.108 - - [25/Mar/2026 19:25:52] "GET / HTTP/1.1" 302 -
+3.134.216.108 - - [25/Mar/2026 19:25:52] "GET / HTTP/1.1" 302 -
+3.134.216.108 - - [25/Mar/2026 19:25:52] "GET /login HTTP/1.1" 200 -
+3.129.187.38 - - [25/Mar/2026 21:12:51] "GET / HTTP/1.1" 302 -
+3.129.187.38 - - [25/Mar/2026 21:12:51] "GET /login HTTP/1.1" 200 -
+3.129.187.38 - - [25/Mar/2026 21:16:40] code 400, message Bad request version ('À\x14À')
+3.129.187.38 - - [25/Mar/2026 21:16:40] "\x16\x03\x01\x00{\x01\x00\x00w\x03\x03s\x99\x05Ø¬Ä¿\x08 \x08Y®\x04\x05í®\x91\x17¸ý_²nþìf\x11\x84sbB¬\x00\x00\x1aÀ/À+À\x11À\x07À\x13À\x09À\x14À" 400 -
+3.129.187.38 - - [25/Mar/2026 21:17:54] code 400, message Bad request syntax ('SSH-2.0-Go')
+3.129.187.38 - - [25/Mar/2026 21:17:54] "SSH-2.0-Go" 400 -
+3.129.187.38 - - [25/Mar/2026 21:19:23] code 400, message Bad request version ('À\x14À')
+3.129.187.38 - - [25/Mar/2026 21:19:23] "\x16\x03\x01\x00{\x01\x00\x00w\x03\x03\x0dbG\x08~­\x1f£,\x12æ7,[$¼tèVÚÚT§C@Ý+\x0fÜÖ±Z\x00\x00\x1aÀ/À+À\x11À\x07À\x13À\x09À\x14À" 400 -
+204.76.203.51 - - [25/Mar/2026 23:55:25] "GET http://azenv.net/ HTTP/1.1" 302 -
+204.76.203.51 - - [25/Mar/2026 23:55:27] "CONNECT dnspod.qcloud.com:443 HTTP/1.1" 404 -
+204.76.203.51 - - [26/Mar/2026 00:20:02] "GET http://azenv.net/ HTTP/1.1" 302 -
+204.76.203.51 - - [26/Mar/2026 00:20:05] "CONNECT dnspod.qcloud.com:443 HTTP/1.1" 404 -
+198.235.24.41 - - [26/Mar/2026 03:59:41] "GET / HTTP/1.0" 302 -
+204.76.203.51 - - [26/Mar/2026 04:18:34] "GET http://azenv.net/ HTTP/1.1" 302 -
+204.76.203.51 - - [26/Mar/2026 04:18:38] "CONNECT dnspod.qcloud.com:443 HTTP/1.1" 404 -
+112.94.191.204 - - [26/Mar/2026 04:27:18] "HEAD http://110.242.68.4/ HTTP/1.1" 302 -
+112.94.191.204 - - [26/Mar/2026 04:27:18] "HEAD http://110.242.68.4/login HTTP/1.1" 200 -
+66.132.172.109 - - [26/Mar/2026 05:56:51] code 400, message Bad request version ('À\x14À')
+66.132.172.109 - - [26/Mar/2026 05:56:51] "\x16\x03\x01\x00î\x01\x00\x00ê\x03\x03A9+Õ:îüwUç\x91À\x91K®1\x13Ïb·ø¼öâ¥·âx@´\x06; °=BøÏXÎ\x10BQ¤»¬×É\x1eE\x12\x91Í\\\x01\x9bl6\x01z\x01¥´üU\x00&Ì¨Ì©À/À0À+À,À\x13À\x09À\x14À" 400 -
+66.132.172.109 - - [26/Mar/2026 05:57:00] "GET / HTTP/1.1" 302 -
+66.132.172.109 - - [26/Mar/2026 05:57:03] code 505, message Invalid HTTP version (2.0)
+66.132.172.109 - - [26/Mar/2026 05:57:03] "PRI * HTTP/2.0" 505 -
+66.132.172.109 - - [26/Mar/2026 05:57:07] "GET /login HTTP/1.1" 200 -
+66.132.172.109 - - [26/Mar/2026 05:57:10] "GET /favicon.ico HTTP/1.1" 404 -
+66.132.172.109 - - [26/Mar/2026 05:58:57] code 400, message Bad request version ('À\x14À')
+66.132.172.109 - - [26/Mar/2026 05:58:57] "\x16\x03\x01\x00î\x01\x00\x00ê\x03\x03³!Û:É\x0fîß´â\x134Îý9\x19`XÆS\x9c!Á¦µt\x94U1Ï\x8e÷ ^ô\x84ÿ_\x12Ï\x9dÇ\x00m\x1c\x06oýrZ~X¹í\x13\x05\x06É]_ø}DÚ#\x00&Ì¨Ì©À/À0À+À,À\x13À\x09À\x14À" 400 -
+66.132.172.109 - - [26/Mar/2026 05:59:04] "GET /.well-known/security.txt HTTP/1.1" 404 -
+66.132.172.140 - - [26/Mar/2026 08:09:57] code 400, message Bad request version ('À\x14À')
+66.132.172.140 - - [26/Mar/2026 08:09:57] "\x16\x03\x01\x00î\x01\x00\x00ê\x03\x03qKÞÕÙm@µ\x85\x06i\x86C\x8e\x0bÁ¦\\\x05W\x84P\x93ñf*¿È\x93Cb_ Ç\x0e9\x93\x1a\x88¹V;\x04z£Oåt\x0b²(ÈÐ{ÄÔÊ#?E\x03\x91Q¯M\x00&Ì¨Ì©À/À0À+À,À\x13À\x09À\x14À" 400 -
+66.132.172.140 - - [26/Mar/2026 08:10:01] "GET / HTTP/1.1" 302 -
+66.132.172.140 - - [26/Mar/2026 08:10:04] code 400, message Bad request version ('À\x14À')
+66.132.172.140 - - [26/Mar/2026 08:10:04] "\x16\x03\x01\x00î\x01\x00\x00ê\x03\x03°i°ºÃz\x07©Ö|Ð×\x0dËçºÜ[cL£B\x95ØÌ«ÿ\x9eÒÍF% ¸\x91\x9aµr@bââ\x9açU·\x91®\x82\x1eIUÇ»U]â5`\x19ÃZÈ\x9e(\x00&Ì¨Ì©À/À0À+À,À\x13À\x09À\x14À" 400 -
+66.132.172.140 - - [26/Mar/2026 08:10:05] "GET / HTTP/1.1" 302 -
+66.132.172.140 - - [26/Mar/2026 08:10:05] code 505, message Invalid HTTP version (2.0)
+66.132.172.140 - - [26/Mar/2026 08:10:05] "PRI * HTTP/2.0" 505 -
+66.132.172.140 - - [26/Mar/2026 08:10:06] "GET /login HTTP/1.1" 200 -
+66.132.172.140 - - [26/Mar/2026 08:10:15] code 400, message Bad request version ('À\x14À')
+66.132.172.140 - - [26/Mar/2026 08:10:15] "\x16\x03\x01\x00î\x01\x00\x00ê\x03\x03QE_\x1b\x18ðNqcNÒö,4\x98Wq\x06\x9aÃs{~üÑ\x0bA\x0f\x9ediÖ \x13¬O\x9f6ÝºV2Cò\x8c_¹\x01¿÷Ú\x0b\x13Ö\x95«eþSY\x93¡Î6\x9b\x00&Ì¨Ì©À/À0À+À,À\x13À\x09À\x14À" 400 -
+66.132.172.140 - - [26/Mar/2026 08:10:15] "GET /sitemap.xml HTTP/1.1" 404 -
+204.76.203.51 - - [26/Mar/2026 08:16:46] "GET http://azenv.net/ HTTP/1.1" 302 -
+204.76.203.51 - - [26/Mar/2026 08:16:50] "CONNECT dnspod.qcloud.com:443 HTTP/1.1" 404 -
+223.104.3.198 - - [26/Mar/2026 08:52:27] "GET / HTTP/1.1" 200 -
+223.104.3.198 - - [26/Mar/2026 08:52:27] "GET /favicon.ico HTTP/1.1" 404 -
+178.159.37.70 - - [26/Mar/2026 09:00:34] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+178.159.37.70 - - [26/Mar/2026 09:00:34] "\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr" 400 -
+180.101.244.12 - - [26/Mar/2026 09:00:48] "GET / HTTP/1.1" 302 -
+220.196.160.101 - - [26/Mar/2026 09:00:48] "GET / HTTP/1.1" 302 -
+180.101.244.14 - - [26/Mar/2026 09:00:48] "GET /login HTTP/1.1" 200 -
+220.196.160.151 - - [26/Mar/2026 09:00:48] "GET /login HTTP/1.1" 200 -
+220.196.160.154 - - [26/Mar/2026 09:00:50] "GET / HTTP/1.1" 302 -
+220.196.160.154 - - [26/Mar/2026 09:00:50] "GET /login HTTP/1.1" 200 -
+205.210.31.209 - - [26/Mar/2026 09:20:33] "GET / HTTP/1.1" 302 -
+[2026-03-26 09:22:45,476] ERROR in app: Exception on / [GET]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.12/dist-packages/flask/app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/dist-packages/flask/app.py", line 919, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/dist-packages/flask/app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/dist-packages/flask/app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/.openclaw/workspace/animal_server.py", line 366, in index
+    cur.execute("SELECT animal_id FROM user_sightings WHERE user_id=%s",(uid,))
+  File "/usr/local/lib/python3.12/dist-packages/pymysql/cursors.py", line 153, in execute
+    result = self._query(query)
+             ^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/dist-packages/pymysql/cursors.py", line 322, in _query
+    conn.query(q)
+  File "/usr/local/lib/python3.12/dist-packages/pymysql/connections.py", line 575, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/dist-packages/pymysql/connections.py", line 826, in _read_query_result
+    result.read()
+  File "/usr/local/lib/python3.12/dist-packages/pymysql/connections.py", line 1203, in read
+    first_packet = self.connection._read_packet()
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/dist-packages/pymysql/connections.py", line 782, in _read_packet
+    packet.raise_for_error()
+  File "/usr/local/lib/python3.12/dist-packages/pymysql/protocol.py", line 219, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "/usr/local/lib/python3.12/dist-packages/pymysql/err.py", line 150, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.OperationalError: (1054, "Unknown column 'animal_id' in 'field list'")
+223.104.3.198 - - [26/Mar/2026 09:22:45] "GET / HTTP/1.1" 500 -
+223.104.3.198 - - [26/Mar/2026 09:22:45] "GET /favicon.ico HTTP/1.1" 404 -
+ * Serving Flask app 'animal_server'
+ * Debug mode: off
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.1.0.10:5000
+Press CTRL+C to quit
+ * Serving Flask app 'animal_server'
+ * Debug mode: off
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.1.0.10:5000
+Press CTRL+C to quit

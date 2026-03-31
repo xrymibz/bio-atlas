@@ -1,0 +1,8 @@
+金融数据查询结果说明
+========================================
+查询内容: 贵州茅台今日最新股价
+数据文件路径: /root/.openclaw/workspace/mx_data/output/mx_data_贵州茅台今日最新股价.xlsx
+描述文件路径: /root/.openclaw/workspace/mx_data/output/mx_data_贵州茅台今日最新股价_description.txt
+数据行数: 1
+表数量: 1
+Sheet 列表: 贵州茅台(600519.SH)的收盘价

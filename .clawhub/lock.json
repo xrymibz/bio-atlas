@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "skills": {
+    "openclaw-tavily-search": {
+      "version": "0.1.0",
+      "installedAt": 1774109334571
+    },
+    "summarize": {
+      "version": "1.0.0",
+      "installedAt": 1774109335951
+    },
+    "agent-browser": {
+      "version": "0.2.0",
+      "installedAt": 1774109337362
+    },
+    "github": {
+      "version": "1.0.0",
+      "installedAt": 1774109338802
+    },
+    "obsidian": {
+      "version": "1.0.0",
+      "installedAt": 1774109340566
+    },
+    "weather": {
+      "version": "1.0.0",
+      "installedAt": 1774109342048
+    },
+    "tencentcloud-lighthouse-skill": {
+      "version": "1.0.0",
+      "installedAt": 1774109344093
+    },
+    "tencent-docs": {
+      "version": "1.0.18",
+      "installedAt": 1774109347404
+    },
+    "tencent-cos-skill": {
+      "version": "1.0.6",
+      "installedAt": 1774109349848
+    },
+    "video-frames": {
+      "version": "1.0.0",
+      "installedAt": 1774171862167
+    },
+    "tmux": {
+      "version": "1.0.0",
+      "installedAt": 1774171922248
+    },
+    "eastmoney-financial-data": {
+      "version": "1.0.5",
+      "installedAt": 1774172882253
+    }
+  }
+}

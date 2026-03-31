@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>登录 - 动植物图鉴</title>
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:-apple-system,BlinkMacSystemFont,sans-serif;background:linear-gradient(135deg,#2d6a4f,#1b4332);min-height:100vh;display:flex;align-items:center;justify-content:center}
+.b{background:white;border-radius:20px;padding:40px;width:90%;max-width:360px;box-shadow:0 20px 60px rgba(0,0,0,0.3)}
+.b h1{text-align:center;color:#2d6a4f;font-size:24px;margin-bottom:8px}
+.b>p{text-align:center;color:#666;font-size:14px;margin-bottom:30px}
+.g{margin-bottom:20px}
+.g label{display:block;font-size:14px;color:#333;margin-bottom:8px;font-weight:500}
+.g input{width:100%;padding:14px 16px;border:1px solid #ddd;border-radius:12px;font-size:15px}
+.g input:focus{outline:none;border-color:#2d6a4f}
+.btn{width:100%;padding:14px;background:#2d6a4f;color:white;border:none;border-radius:12px;font-size:16px;font-weight:600;cursor:pointer}
+.btn:hover{background:#1b4332}
+.e{color:#d32f2f;font-size:13px;text-align:center;margin-bottom:15px}
+</style></head>
+<body>
+<div class="b"><h1>🌿 动植物图鉴</h1><p>认识身边的生命</p>
+{%if e%}<div class="e">{{e}}</div>{%endif%}
+<form method="POST">
+<div class="g"><label>用户名</label><input name="username" placeholder="请输入用户名" required></div>
+<div class="g"><label>密码</label><input type="password" name="password" placeholder="请输入密码" required></div>
+<button type="submit" class="btn">登 录</button>
+</form>
+</div></body></html>

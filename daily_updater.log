@@ -1,0 +1,4688 @@
+nohup: ignoring input
+Exception in thread Thread-1 (auto_daily):
+Traceback (most recent call last):
+  File "/usr/lib/python3.12/threading.py", line 1073, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.12/threading.py", line 1010, in run
+    self._target(*self._args, **self._kwargs)
+  File "/root/.openclaw/workspace/daily_updater.py", line 307, in auto_daily
+    import schedule
+ModuleNotFoundError: No module named 'schedule'
+nohup: ignoring input
+Traceback (most recent call last):
+  File "/root/.openclaw/workspace/daily_updater.py", line 346, in <module>
+    server = HTTPServer(("0.0.0.0", PORT), Handler)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/socketserver.py", line 457, in __init__
+    self.server_bind()
+  File "/usr/lib/python3.12/http/server.py", line 136, in server_bind
+    socketserver.TCPServer.server_bind(self)
+  File "/usr/lib/python3.12/socketserver.py", line 473, in server_bind
+    self.socket.bind(self.server_address)
+OSError: [Errno 98] Address already in use
+nohup: ignoring input
+Exception in thread Thread-1 (auto_daily):
+Traceback (most recent call last):
+  File "/usr/lib/python3.12/threading.py", line 1073, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.12/threading.py", line 1010, in run
+    self._target(*self._args, **self._kwargs)
+  File "/root/.openclaw/workspace/daily_updater.py", line 312, in auto_daily
+    _scheduler = _sched.Scheduler()
+                 ^^^^^^^^^^^^^^^^
+AttributeError: module 'sched' has no attribute 'Scheduler'. Did you mean: 'scheduler'?
+nohup: ignoring input
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+用法：
+  python3 daily_updater.py --daemon   # 启动常驻服务（含定时每天6点）
+  python3 daily_updater.py --once      # 单次执行（供cron调用）
+🌅 A股每日更新服务启动，监听 http://0.0.0.0:5002
+⏰ 每日自动更新已启动，每天 06:00 执行
+[2026-03-26 08:57:03] 🚀 启动每日A股数据更新（10线程并发）...
+  📲 微信通知已入队: 📡 【A股数据更新开始】
+日期：2026-03-26
+状态：...
+  共 5496 只股票，开始并发抓取...
+  抓取进度: 500/5496
+  抓取进度: 1000/5496
+  抓取进度: 1500/5496
+  抓取进度: 2000/5496
+  抓取进度: 2500/5496
+  抓取进度: 3000/5496
+  抓取进度: 3500/5496
+  抓取进度: 4000/5496
+  抓取进度: 4500/5496
+  抓取进度: 5000/5496
+  抓取完成 ✅ 成功 5074，失败 422，共 25360 条记录
+  开始写入数据库...
+  写入 [1/51] +500条
+  写入 [2/51] +500条
+  写入 [3/51] +500条
+  写入 [4/51] +500条
+  写入 [5/51] +500条
+  写入 [6/51] +500条
+  写入 [7/51] +500条
+  写入 [8/51] +500条
+  写入 [9/51] +500条
+  写入 [10/51] +500条
+  写入 [11/51] +500条
+  写入 [12/51] +500条
+  写入 [13/51] +500条
+  写入 [14/51] +500条
+  写入 [15/51] +500条
+  写入 [16/51] +500条
+  写入 [17/51] +500条
+  写入 [18/51] +500条
+  写入 [19/51] +500条
+  写入 [20/51] +500条
+  写入 [21/51] +500条
+  写入 [22/51] +500条
+  写入 [23/51] +500条
+  写入 [24/51] +500条
+  写入 [25/51] +500条
+  写入 [26/51] +500条
+  写入 [27/51] +500条
+  写入 [28/51] +500条
+  写入 [29/51] +500条
+  写入 [30/51] +500条
+  写入 [31/51] +500条
+  写入 [32/51] +500条
+  写入 [33/51] +500条
+  写入 [34/51] +500条
+  写入 [35/51] +500条
+  写入 [36/51] +500条
+  写入 [37/51] +500条
+  写入 [38/51] +500条
+  写入 [39/51] +500条
+  写入 [40/51] +500条
+  写入 [41/51] +500条
+  写入 [42/51] +500条
+  写入 [43/51] +500条
+  写入 [44/51] +500条
+  写入 [45/51] +500条
+  写入 [46/51] +500条
+  写入 [47/51] +500条
+  写入 [48/51] +500条
+  写入 [49/51] +500条
+  写入 [50/51] +500条
+  写入 [51/51] +360条
+[2026-03-26 08:57:03] 完成！成功 5074 只，失败 422 只，写入 25360 条
+  📲 微信通知已入队: ✅ 【A股数据更新完成】
+日期：2026-03-26
+成功：...
+
+==================================================
+  🌅 定时任务：每日A股数据更新
+==================================================
+[2026-03-27 06:00:00] 🚀 启动每日A股数据更新（10线程并发）...
+  📲 微信通知已入队: 📡 【A股数据更新开始】
+日期：2026-03-27
+状态：...
+  共 5496 只股票，开始并发抓取...
+  抓取进度: 500/5496
+  抓取进度: 1000/5496
+  抓取进度: 1500/5496
+  抓取进度: 2000/5496
+  抓取进度: 2500/5496
+  抓取进度: 3000/5496
+  抓取进度: 3500/5496
+  抓取进度: 4000/5496
+  抓取进度: 4500/5496
+  抓取进度: 5000/5496
+  抓取完成 ✅ 成功 5073，失败 423，共 25361 条记录
+  开始写入数据库...
+  写入 [1/51] +500条
+  写入 [2/51] +500条
+  写入 [3/51] +500条
+  写入 [4/51] +500条
+  写入 [5/51] +500条
+  写入 [6/51] +500条
+  写入 [7/51] +500条
+  写入 [8/51] +500条
+  写入 [9/51] +500条
+  写入 [10/51] +500条
+  写入 [11/51] +500条
+  写入 [12/51] +500条
+  写入 [13/51] +500条
+  写入 [14/51] +500条
+  写入 [15/51] +500条
+  写入 [16/51] +500条
+  写入 [17/51] +500条
+  写入 [18/51] +500条
+  写入 [19/51] +500条
+  写入 [20/51] +500条
+  写入 [21/51] +500条
+  写入 [22/51] +500条
+  写入 [23/51] +500条
+  写入 [24/51] +500条
+  写入 [25/51] +500条
+  写入 [26/51] +500条
+  写入 [27/51] +500条
+  写入 [28/51] +500条
+  写入 [29/51] +500条
+  写入 [30/51] +500条
+  写入 [31/51] +500条
+  写入 [32/51] +500条
+  写入 [33/51] +500条
+  写入 [34/51] +500条
+  写入 [35/51] +500条
+  写入 [36/51] +500条
+  写入 [37/51] +500条
+  写入 [38/51] +500条
+  写入 [39/51] +500条
+  写入 [40/51] +500条
+  写入 [41/51] +500条
+  写入 [42/51] +500条
+  写入 [43/51] +500条
+  写入 [44/51] +500条
+  写入 [45/51] +500条
+  写入 [46/51] +500条
+  写入 [47/51] +500条
+  写入 [48/51] +500条
+  写入 [49/51] +500条
+  写入 [50/51] +500条
+  写入 [51/51] +361条
+[2026-03-27 06:00:00] 完成！成功 5073 只，失败 423 只，写入 25361 条
+  📲 微信通知已入队: ✅ 【A股数据更新完成】
+日期：2026-03-27
+成功：...
+
+==================================================
+  🌅 定时任务：每日A股数据更新
+==================================================
+[2026-03-28 06:00:00] 🚀 启动每日A股数据更新（10线程并发）...
+  📲 微信通知已入队: 📡 【A股数据更新开始】
+日期：2026-03-28
+状态：...
+  共 5496 只股票，开始并发抓取...
+  抓取进度: 500/5496
+  抓取进度: 1000/5496
+  抓取进度: 1500/5496
+  抓取进度: 2000/5496
+  抓取进度: 2500/5496
+  抓取进度: 3000/5496
+  抓取进度: 3500/5496
+  抓取进度: 4000/5496
+  抓取进度: 4500/5496
+  抓取进度: 5000/5496
+  抓取完成 ✅ 成功 5073，失败 423，共 25360 条记录
+  开始写入数据库...
+  写入 [1/51] +500条
+  写入 [2/51] +500条
+  写入 [3/51] +500条
+  写入 [4/51] +500条
+  写入 [5/51] +500条
+  写入 [6/51] +500条
+  写入 [7/51] +500条
+  写入 [8/51] +500条
+  写入 [9/51] +500条
+  写入 [10/51] +500条
+  写入 [11/51] +500条
+  写入 [12/51] +500条
+  写入 [13/51] +500条
+  写入 [14/51] +500条
+  写入 [15/51] +500条
+  写入 [16/51] +500条
+  写入 [17/51] +500条
+  写入 [18/51] +500条
+  写入 [19/51] +500条
+  写入 [20/51] +500条
+  写入 [21/51] +500条
+  写入 [22/51] +500条
+  写入 [23/51] +500条
+  写入 [24/51] +500条
+  写入 [25/51] +500条
+  写入 [26/51] +500条
+  写入 [27/51] +500条
+  写入 [28/51] +500条
+  写入 [29/51] +500条
+  写入 [30/51] +500条
+  写入 [31/51] +500条
+  写入 [32/51] +500条
+  写入 [33/51] +500条
+  写入 [34/51] +500条
+  写入 [35/51] +500条
+  写入 [36/51] +500条
+  写入 [37/51] +500条
+  写入 [38/51] +500条
+  写入 [39/51] +500条
+  写入 [40/51] +500条
+  写入 [41/51] +500条
+  写入 [42/51] +500条
+  写入 [43/51] +500条
+  写入 [44/51] +500条
+  写入 [45/51] +500条
+  写入 [46/51] +500条
+  写入 [47/51] +500条
+  写入 [48/51] +500条
+  写入 [49/51] +500条
+  写入 [50/51] +500条
+  写入 [51/51] +360条
+[2026-03-28 06:00:00] 完成！成功 5073 只，失败 423 只，写入 25360 条
+  📲 微信通知已入队: ✅ 【A股数据更新完成】
+日期：2026-03-28
+成功：...
+
+==================================================
+  🌅 定时任务：每日A股数据更新
+==================================================
+[2026-03-29 06:00:00] 🚀 启动每日A股数据更新（10线程并发）...
+  📲 微信通知已入队: 📡 【A股数据更新开始】
+日期：2026-03-29
+状态：...
+  共 5496 只股票，开始并发抓取...
+  抓取进度: 500/5496
+  抓取进度: 1000/5496
+  抓取进度: 1500/5496
+  抓取进度: 2000/5496
+  抓取进度: 2500/5496
+  抓取进度: 3000/5496
+  抓取进度: 3500/5496
+  抓取进度: 4000/5496
+  抓取进度: 4500/5496
+  抓取进度: 5000/5496
+  抓取完成 ✅ 成功 5073，失败 423，共 25356 条记录
+  开始写入数据库...
+  写入 [1/51] +500条
+  写入 [2/51] +500条
+  写入 [3/51] +500条
+  写入 [4/51] +500条
+  写入 [5/51] +500条
+  写入 [6/51] +500条
+  写入 [7/51] +500条
+  写入 [8/51] +500条
+  写入 [9/51] +500条
+  写入 [10/51] +500条
+  写入 [11/51] +500条
+  写入 [12/51] +500条
+  写入 [13/51] +500条
+  写入 [14/51] +500条
+  写入 [15/51] +500条
+  写入 [16/51] +500条
+  写入 [17/51] +500条
+  写入 [18/51] +500条
+  写入 [19/51] +500条
+  写入 [20/51] +500条
+  写入 [21/51] +500条
+  写入 [22/51] +500条
+  写入 [23/51] +500条
+  写入 [24/51] +500条
+  写入 [25/51] +500条
+  写入 [26/51] +500条
+  写入 [27/51] +500条
+  写入 [28/51] +500条
+  写入 [29/51] +500条
+  写入 [30/51] +500条
+  写入 [31/51] +500条
+  写入 [32/51] +500条
+  写入 [33/51] +500条
+  写入 [34/51] +500条
+  写入 [35/51] +500条
+  写入 [36/51] +500条
+  写入 [37/51] +500条
+  写入 [38/51] +500条
+  写入 [39/51] +500条
+  写入 [40/51] +500条
+  写入 [41/51] +500条
+  写入 [42/51] +500条
+  写入 [43/51] +500条
+  写入 [44/51] +500条
+  写入 [45/51] +500条
+  写入 [46/51] +500条
+  写入 [47/51] +500条
+  写入 [48/51] +500条
+  写入 [49/51] +500条
+  写入 [50/51] +500条
+  写入 [51/51] +356条
+[2026-03-29 06:00:00] 完成！成功 5073 只，失败 423 只，写入 25356 条
+  📲 微信通知已入队: ✅ 【A股数据更新完成】
+日期：2026-03-29
+成功：...
+
+==================================================
+  🌅 定时任务：每日A股数据更新
+==================================================
+[2026-03-30 06:00:00] 🚀 启动每日A股数据更新（10线程并发）...
+  📲 微信通知已入队: 📡 【A股数据更新开始】
+日期：2026-03-30
+状态：...
+  共 5496 只股票，开始并发抓取...
+  抓取进度: 500/5496
+  抓取进度: 1000/5496
+  抓取进度: 1500/5496
+  抓取进度: 2000/5496
+  抓取进度: 2500/5496
+  抓取进度: 3000/5496
+  抓取进度: 3500/5496
+  抓取进度: 4000/5496
+  抓取进度: 4500/5496
+  抓取进度: 5000/5496
+  抓取完成 ✅ 成功 5073，失败 423，共 25350 条记录
+  开始写入数据库...
+  写入 [1/51] +500条
+  写入 [2/51] +500条
+  写入 [3/51] +500条
+  写入 [4/51] +500条
+  写入 [5/51] +500条
+  写入 [6/51] +500条
+  写入 [7/51] +500条
+  写入 [8/51] +500条
+  写入 [9/51] +500条
+  写入 [10/51] +500条
+  写入 [11/51] +500条
+  写入 [12/51] +500条
+  写入 [13/51] +500条
+  写入 [14/51] +500条
+  写入 [15/51] +500条
+  写入 [16/51] +500条
+  写入 [17/51] +500条
+  写入 [18/51] +500条
+  写入 [19/51] +500条
+  写入 [20/51] +500条
+  写入 [21/51] +500条
+  写入 [22/51] +500条
+  写入 [23/51] +500条
+  写入 [24/51] +500条
+  写入 [25/51] +500条
+  写入 [26/51] +500条
+  写入 [27/51] +500条
+  写入 [28/51] +500条
+  写入 [29/51] +500条
+  写入 [30/51] +500条
+  写入 [31/51] +500条
+  写入 [32/51] +500条
+  写入 [33/51] +500条
+  写入 [34/51] +500条
+  写入 [35/51] +500条
+  写入 [36/51] +500条
+  写入 [37/51] +500条
+  写入 [38/51] +500条
+  写入 [39/51] +500条
+  写入 [40/51] +500条
+  写入 [41/51] +500条
+  写入 [42/51] +500条
+  写入 [43/51] +500条
+  写入 [44/51] +500条
+  写入 [45/51] +500条
+  写入 [46/51] +500条
+  写入 [47/51] +500条
+  写入 [48/51] +500条
+  写入 [49/51] +500条
+  写入 [50/51] +500条
+  写入 [51/51] +350条
+[2026-03-30 06:00:00] 完成！成功 5073 只，失败 423 只，写入 25350 条
+  📲 微信通知已入队: ✅ 【A股数据更新完成】
+日期：2026-03-30
+成功：...
+
+==================================================
+  🌅 定时任务：每日A股数据更新
+==================================================
+[2026-03-31 06:00:00] 🚀 启动每日A股数据更新（10线程并发）...
+  📲 微信通知已入队: 📡 【A股数据更新开始】
+日期：2026-03-31
+状态：...
+  共 5496 只股票，开始并发抓取...
+  抓取进度: 500/5496
+  抓取进度: 1000/5496
+  抓取进度: 1500/5496
+  抓取进度: 2000/5496
+  抓取进度: 2500/5496
+  抓取进度: 3000/5496
+  抓取进度: 3500/5496
+  抓取进度: 4000/5496
+  抓取进度: 4500/5496
+  抓取进度: 5000/5496
+  抓取完成 ✅ 成功 5074，失败 422，共 25343 条记录
+  开始写入数据库...
+  写入 [1/51] +500条
+  写入 [2/51] +500条
+  写入 [3/51] +500条
+  写入 [4/51] +500条
+  写入 [5/51] +500条
+  写入 [6/51] +500条
+  写入 [7/51] +500条
+  写入 [8/51] +500条
+  写入 [9/51] +500条
+  写入 [10/51] +500条
+  写入 [11/51] +500条
+  写入 [12/51] +500条
+  写入 [13/51] +500条
+  写入 [14/51] +500条
+  写入 [15/51] +500条
+  写入 [16/51] +500条
+  写入 [17/51] +500条
+  写入 [18/51] +500条
+  写入 [19/51] +500条
+  写入 [20/51] +500条
+  写入 [21/51] +500条
+  写入 [22/51] +500条
+  写入 [23/51] +500条
+  写入 [24/51] +500条
+  写入 [25/51] +500条
+  写入 [26/51] +500条
+  写入 [27/51] +500条
+  写入 [28/51] +500条
+  写入 [29/51] +500条
+  写入 [30/51] +500条
+  写入 [31/51] +500条
+  写入 [32/51] +500条
+  写入 [33/51] +500条
+  写入 [34/51] +500条
+  写入 [35/51] +500条
+  写入 [36/51] +500条
+  写入 [37/51] +500条
+  写入 [38/51] +500条
+  写入 [39/51] +500条
+  写入 [40/51] +500条
+  写入 [41/51] +500条
+  写入 [42/51] +500条
+  写入 [43/51] +500条
+  写入 [44/51] +500条
+  写入 [45/51] +500条
+  写入 [46/51] +500条
+  写入 [47/51] +500条
+  写入 [48/51] +500条
+  写入 [49/51] +500条
+  写入 [50/51] +500条
+  写入 [51/51] +343条
+[2026-03-31 06:00:00] 完成！成功 5074 只，失败 422 只，写入 25343 条
+  📲 微信通知已入队: ✅ 【A股数据更新完成】
+日期：2026-03-31
+成功：...

@@ -1,0 +1,259 @@
+{
+  "status": 0,
+  "message": "ok",
+  "data": {
+    "requestId": null,
+    "message": "OK",
+    "status": 0,
+    "code": 0,
+    "data": {
+      "protocolType": "SEARCH_DATA",
+      "id": "74666379-cfeb-4f54-91c1-c7ad0a46ba0a",
+      "refSeq": null,
+      "keyEntityList": null,
+      "searchDataResultDTO": {
+        "questionId": "24ba1542-f0ea-455b-b0e3-2d001759a5d3",
+        "dataTableDTOList": [
+          {
+            "code": "300087.SZ",
+            "entityName": "荃银高科(300087.SZ)",
+            "table": {
+              "100000000017981": [
+                "-1.405",
+                "-1.157",
+                "-3.03",
+                "-3.78",
+                "2.434",
+                "1.345",
+                "-0.9989",
+                "0.558",
+                "0",
+                "-2.183",
+                "1.44",
+                "-9.88",
+                "7.396",
+                "3.667",
+                "1.01"
+              ],
+              "headName": [
+                "2026-03-20",
+                "2026-03-19",
+                "2026-03-18",
+                "2026-03-17",
+                "2026-03-16",
+                "2026-03-13",
+                "2026-03-12",
+                "2026-03-11",
+                "2026-03-10",
+                "2026-03-09",
+                "2026-03-06",
+                "2026-03-05",
+                "2026-03-04",
+                "2026-03-03",
+                "2026-03-02"
+              ]
+            },
+            "rawTable": {
+              "100000000017981": [
+                "-1.4052",
+                "-1.1574",
+                "-3.0303",
+                "-3.7797",
+                "2.4336",
+                "1.3453",
+                "-0.9989",
+                "0.558",
+                "0.0",
+                "-2.1834",
+                "1.4396",
+                "-9.8802",
+                "7.3955",
+                "3.6667",
+                "1.0101"
+              ],
+              "headName": [
+                "2026-03-20",
+                "2026-03-19",
+                "2026-03-18",
+                "2026-03-17",
+                "2026-03-16",
+                "2026-03-13",
+                "2026-03-12",
+                "2026-03-11",
+                "2026-03-10",
+                "2026-03-09",
+                "2026-03-06",
+                "2026-03-05",
+                "2026-03-04",
+                "2026-03-03",
+                "2026-03-02"
+              ]
+            },
+            "truncateRawTable": {},
+            "nameMap": {
+              "100000000017981": "涨跌幅",
+              "headNameSub": "数据来源"
+            },
+            "headNameMap": {},
+            "field": {
+              "returnCode": "100000000017981",
+              "returnName": "涨跌幅",
+              "classCode": "007102",
+              "checkedRelatedIndicators": false,
+              "startDate": "2026-03-02 00:00:00",
+              "endDate": "2026-03-22 00:00:00",
+              "fuzzy": false,
+              "dateGranularity": "DAY",
+              "defineType": -1,
+              "isLoopN": false,
+              "fixedParamValue": "Period=1,CurType=2",
+              "quantType": "2",
+              "isGroup": false,
+              "returnSourceCode": "PCTCHANGE",
+              "returnSourceName": "涨跌幅",
+              "graph": "2",
+              "unit": "1",
+              "tableType": "1"
+            },
+            "macroAttributeExcelMap": {},
+            "fieldSet": [
+              {
+                "returnCode": "100000000017981",
+                "returnName": "涨跌幅",
+                "classCode": "007102",
+                "checkedRelatedIndicators": false,
+                "startDate": "2026-03-02 00:00:00",
+                "endDate": "2026-03-22 00:00:00",
+                "fuzzy": false,
+                "dateGranularity": "DAY",
+                "defineType": -1,
+                "isLoopN": false,
+                "fixedParamValue": "Period=1,CurType=2",
+                "quantType": "2",
+                "isGroup": false,
+                "returnSourceCode": "PCTCHANGE",
+                "returnSourceName": "涨跌幅",
+                "graph": "2",
+                "unit": "1",
+                "tableType": "1"
+              }
+            ],
+            "dataTableType": "NORM_TABLE",
+            "rowInfo": {},
+            "colInfo": {},
+            "indicatorOrder": [
+              "100000000017981"
+            ],
+            "tipFlags": [],
+            "dataType": "数据浏览器",
+            "title": "荃银高科(300087.SZ)的涨跌幅",
+            "hasThumbnail": true,
+            "indicatorLimited": false,
+            "dataPositionEnum": "MetricLeftTimeTop",
+            "orderCol": {},
+            "jumpUrlList": [
+              {
+                "choiceUrl": "EM://stockdatacenter?type=browser&modType=STOCK&code=300087.SZ&indId=100000000001097",
+                "typeName": "股票数据浏览器"
+              }
+            ],
+            "dataTypeEnum": "DATA_BROWSER",
+            "dateRuleSet": [],
+            "freqConvert": false,
+            "deleteInfo": [],
+            "macroCodeMap": {},
+            "entityTagDTO": {
+              "entityId": "1000009050",
+              "entityType": "SEC",
+              "entityTypeCode": "058001001",
+              "entityTypeName": "A股",
+              "classCode": "002001",
+              "className": "沪深京股票",
+              "publishCode": "",
+              "fullName": "荃银高科",
+              "shortName": "",
+              "secuCode": "300087",
+              "market": "0",
+              "marketChar": ".SZ",
+              "correct": false,
+              "securityName": "荃银高科",
+              "hasKLine": false,
+              "valuation": false
+            },
+            "entityTagDTOList": [
+              {
+                "entityId": "1000009050",
+                "entityType": "SEC",
+                "entityTypeCode": "058001001",
+                "entityTypeName": "A股",
+                "classCode": "002001",
+                "className": "沪深京股票",
+                "publishCode": "",
+                "fullName": "荃银高科",
+                "shortName": "",
+                "secuCode": "300087",
+                "market": "0",
+                "marketChar": ".SZ",
+                "correct": false,
+                "securityName": "荃银高科",
+                "hasKLine": true,
+                "valuation": false
+              }
+            ],
+            "indexTable": false,
+            "edbThirdData": false,
+            "dataUpdate": {
+              "2026-03-20": false
+            },
+            "supportsTimeSeries": false,
+            "estimatedTokens": 0,
+            "summaryTips": {
+              "periodicalReport": null
+            },
+            "nestEntityListMap": {},
+            "excelTimeTruncate": false,
+            "frontendEntityName": "",
+            "frontendEntityCode": "",
+            "frontendTitle": "",
+            "frontendDesc": "",
+            "indicatorCount": 0,
+            "fieldParameterStr": "",
+            "tdayEnum": "NORMAL"
+          }
+        ],
+        "condition": {
+          "search_data_task_0": [
+            "荃银高科",
+            "涨跌幅",
+            "2026-03-02至2026-03-22"
+          ]
+        },
+        "entityTagDTOList": [
+          {
+            "entityId": "1000009050",
+            "entityType": "SEC",
+            "entityTypeCode": "058001001",
+            "entityTypeName": "A股",
+            "classCode": "002001",
+            "className": "沪深京股票",
+            "publishCode": "",
+            "fullName": "荃银高科",
+            "shortName": "",
+            "secuCode": "300087",
+            "market": "0",
+            "marketChar": ".SZ",
+            "correct": false,
+            "securityName": "荃银高科",
+            "hasKLine": false,
+            "valuation": false
+          }
+        ]
+      },
+      "entityName": null,
+      "message": null,
+      "tableTruncated": false
+    },
+    "stack": null
+  },
+  "requestId": "b7f1bf921bf84ea69d6d9bfafa5ce94c"
+}
