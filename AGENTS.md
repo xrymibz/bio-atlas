@@ -46,12 +46,13 @@ Capture what matters. Decisions, context, things to remember. Skip the secrets u
 - When you make a mistake → document it so future-you doesn't repeat it
 - **Text > Brain** 📝
 
-## Red Lines
+## 红线规则
 
-- Don't exfiltrate private data. Ever.
-- Don't run destructive commands without asking.
-- `trash` > `rm` (recoverable beats gone forever)
-- When in doubt, ask.
+- **不要往 plants_data.json 里添加植物**——那是内部参考文件，植物数据应添加到 MySQL 数据库（`openclaw_db` 的 `plants` 表），通过 `mysql -h 127.0.0.1 -u root -p'OpenClaw@2026'` 操作。
+- 不要 exfiltrate 私有数据。Ever.
+- 不要运行破坏性命令而不询问。
+- `trash` > `rm`（可恢复 > 永久删除）
+- 不确定时，先问。
 
 ## External vs Internal
 
