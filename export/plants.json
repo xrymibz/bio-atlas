@@ -1,0 +1,569 @@
+[
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "1\t苏铁\tSago Palm\tCycas revoluta\t植物界\t苏铁门\t苏铁纲\t苏铁目\t苏铁科\t苏铁属\t苏铁\t\t裸子植物\t常绿乔木，羽状复叶，雌雄异株，种子红色\t0\t中国南方各省区\t古老的活化石植物，树形美观，生长缓慢。\t\t常绿\t种子\t山坡、林地"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "2\t银杏\tGinkgo\tGinkgo biloba\t植物界\t银杏门\t银杏纲\t银杏目\t银杏科\t银杏属\t银杏\t\t裸子植物\t落叶乔木，叶扇形，秋叶金黄，雌雄异株\t0\t中国各地栽培\t著名活化石，寿命可达千年以上，秋色极为壮观。\t\t落叶\t种子\t寺庙、园林"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "3\t油松\tChinese Pine\tPinus tabuliformis\t植物界\t松柏门\t松柏纲\t松目\t松科\t松属\t油松\t\t裸子植物\t常绿乔木，树皮龟裂，红褐色，针叶2-3枚一束\t0\t中国华北、西北\t北方荒山造林先锋树种，适应性极强。\t\t常绿\t球果\t山坡、岩石地"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "4\t马尾松\tMasson Pine\tPinus massoniana\t植物界\t松柏门\t松柏纲\t松目\t松科\t松属\t马尾松\t\t裸子植物\t常绿乔木，树皮红褐色，针叶细长2枚一束\t0\t中国秦岭-淮河以南\t南方重要用材和采脂树种，松脂产量高。\t\t常绿\t球果\t山地、丘陵"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "5\t水杉\tDawn Redwood\tMetasequoia glyptostroboides\t植物界\t松柏门\t松柏纲\t松目\t杉科\t水杉属\t水杉\t\t裸子植物\t落叶乔木，树干笔直，落叶前叶变红褐色\t1\t中国中部（湖北、重庆）\t活化石，1940年代被发现，现各地均有栽培。\t\t落叶\t球果\t山谷、水边"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "6\t侧柏\tChinese Arborvitae\tPlatycladus orientalis\t植物界\t松柏门\t松柏纲\t松目\t柏科\t侧柏属\t侧柏\t\t裸子植物\t常绿乔木，鳞叶交互对生，球果成熟开裂\t0\t中国各地\t寺庙古树常见，寿命极长，材用及观赏兼备。\t\t常绿\t球果\t山坡、寺庙"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "7\t圆柏\tChinese Juniper\tJuniperus chinensis\t植物界\t松柏门\t松柏纲\t松目\t柏科\t刺柏属\t圆柏\t\t裸子植物\t常绿乔木或灌木，幼枝刺形叶，老枝鳞形叶\t0\t中国华北、西北\t适应性强，寿命长，常见于寺庙和园林。\t\t常绿\t球果\t山坡、石灰岩"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "8\t雪松\tDeodar Cedar\tCedrus deodara\t植物界\t松柏门\t松柏纲\t松目\t松科\t雪松属\t雪松\t\t裸子植物\t常绿乔木，塔形树冠，蓝绿色针叶下垂\t0\t中国西部高原\t世界著名观赏树，树干笔直，材用价值高。\t\t常绿\t球果\t高海拔山地"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "9\t梧桐\tChinese Parasol Tree\tFirmiana simplex\t植物界\t被子植物门\t双子叶纲\t锦葵目\t梧桐科\t梧桐属\t梧桐\t\t被子植物·乔木\t落叶乔木，叶掌状裂，花黄绿色，树皮青绿色\t0\t中国黄河以南\t古代被视为祥瑞之树，速生，木材轻软。\t黄绿色\t落叶\t蓇葖果\t村边、山谷"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "10\t垂柳\tWeeping Willow\tSalix babylonica\t植物界\t被子植物门\t双子叶纲\t杨柳目\t杨柳科\t柳属\t垂柳\t\t被子植物·乔木\t落叶乔木，枝条细长下垂，叶狭长披针形\t0\t中国各地\t著名观赏树，宜植于水边，枝条婆娑。\t黄绿色\t落叶\t蒴果\t水边、河岸"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "11\t毛白杨\tChinese White Poplar\tPopulus tomentosa\t植物界\t被子植物门\t双子叶纲\t杨柳目\t杨柳科\t杨属\t毛白杨\t\t被子植物·乔木\t落叶乔木，树干高大通直，叶三角状卵形，背面密被绒毛\t0\t中国华北、西北\t北方重要行道树，生长快，材质好。\t黄绿色\t落叶\t蒴果\t平原、山地"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "12\t榆树\tSiberian Elm\tUlmus pumila\t植物界\t被子植物门\t双子叶纲\t荨麻目\t榆科\t榆属\t榆树\t\t被子植物·乔木\t落叶乔木，叶椭圆形，边缘重锯齿，翅果\t0\t中国各地\t耐寒耐旱，寿命长，榆钱可食，木材坚硬。\t黄绿色\t落叶\t翅果\t平原、山地"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "13\t槐树\tJapanese Pagoda Tree\tSophora japonica\t植物界\t被子植物门\t双子叶纲\t豆目\t豆科\t槐属\t槐\t\t被子植物·乔木\t落叶乔木，奇数羽状复叶，圆锥花序白色\t0\t中国各地\t著名庭荫树和蜜源树，花可入药，木材耐腐。\t白色\t落叶\t荚果\t村边、路边"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "14\t樟树\tCamphor Tree\tCinnamomum camphora\t植物界\t被子植物门\t双子叶纲\t樟目\t樟科\t樟属\t樟树\t\t被子植物·乔木\t常绿乔木，叶互生有樟脑气味，圆锥花序\t0\t中国长江以南\t著名用材树，全株含樟脑，气味芬芳。\t黄白色\t常绿\t核果\t山坡、谷地"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "15\t楠木\tZhennan\tPhoebe zhennan\t植物界\t被子植物门\t双子叶纲\t樟目\t樟科\t楠属\t楠木\t\t被子植物·乔木\t常绿乔木，叶长椭圆形，花小，圆锥花序\t1\t中国贵州、四川、云南\t珍贵用材，有木中之金之称，生长缓慢。\t黄绿色\t常绿\t核果\t山谷、溪边"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "16\t桂花\tSweet Olive\tOsmanthus fragrans\t植物界\t被子植物门\t双子叶纲\t唇形目\t木犀科\t木犀属\t桂花\t\t被子植物·乔木\t常绿乔木或灌木，叶对生，花小而香，有金桂银桂丹桂等\t0\t中国秦岭以南\t著名芳香植物，花可制糕点、酿酒，香气馥郁。\t金黄色/白色\t常绿\t核果\t园林、庭院"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "17\t白玉兰\tYulan Magnolia\tMagnolia denudata\t植物界\t被子植物门\t双子叶纲\t木兰目\t木兰科\t木兰属\t白玉兰\t\t被子植物·乔木\t落叶乔木，花大白色先叶开放，芳香，花被片9枚\t0\t中国中部、东部\t著名观赏花木，早春开花如雪，香气袭人。\t白色\t落叶\t聚合蓇葖果\t园林、寺庙"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "18\t枫杨\tChinese Wingnut\tPterocarya stenoptera\t植物界\t被子植物门\t双子叶纲\t胡桃目\t胡桃科\t枫杨属\t枫杨\t\t被子植物·乔木\t落叶乔木，羽状复叶，小叶长椭圆形，翅果成串\t0\t中国华北以南\t常见行道树和护堤树种，寿命长。\t黄绿色\t落叶\t翅果\t水边、平原"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "19\t朴树\tChinese Hackberry\tCeltis sinensis\t植物界\t被子植物门\t双子叶纲\t蔷薇目\t大麻科\t朴属\t朴树\t\t被子植物·乔木\t落叶乔木，叶卵形，基部偏斜，核果橙红色\t0\t中国中部、南方\t优良庭荫树，树形优美，寿命长。\t黄绿色\t落叶\t核果\t村边、山坡"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "20\t杜仲\tHard Rubber Tree\tEucommia ulmoides\t植物界\t被子植物门\t双子叶纲\t榆目\t杜仲科\t杜仲属\t杜仲\t\t被子植物·乔木\t落叶乔木，叶椭圆形，折断有银白色胶丝\t1\t中国中部（湖南、湖北、四川）\t中国特有经济树种，树皮入药，胶丝工业用途广。\t黄绿色\t落叶\t翅果\t山谷、山坡"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "21\t鹅掌楸\tChinese Tulip Tree\tLiriodendron chinense\t植物界\t被子植物门\t双子叶纲\t木兰目\t木兰科\t鹅掌楸属\t鹅掌楸\t\t被子植物·乔木\t落叶乔木，叶马褂形（两侧各1裂），花黄绿色杯状\t1\t中国长江以南\t活化石孑遗植物，叶形奇特如清代马褂。\t黄绿色\t落叶\t聚合果\t山地、沟谷"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "22\t杜鹃\tAzalea\tRhododendron simsii\t植物界\t被子植物门\t双子叶纲\t杜鹃花目\t杜鹃花科\t杜鹃花属\t杜鹃\t\t被子植物·灌木\t常绿或落叶灌木，花漏斗形，2-6朵簇生，红紫色为主\t0\t中国长江以南\t著名观赏花卉，春夏之交漫山红艳，品种繁多。\t红色/紫色/白色\t常绿/落叶\t蒴果\t山地、林缘"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "23\t山茶\tCamellia\tCamellia japonica\t植物界\t被子植物门\t双子叶纲\t侧膜胎座目\t山茶科\t山茶属\t山茶\t\t被子植物·灌木\t常绿灌木或小乔木，叶深绿色有光泽，花大红色\t0\t中国东部、南部\t著名观赏花卉，与梅花、水仙并称雪中四友。\t红色/白色/粉色\t常绿\t蒴果\t山地、园林"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "24\t茉莉\tArabian Jasmine\tJasminum sambac\t植物界\t被子植物门\t双子叶纲\t唇形目\t木犀科\t素馨属\t茉莉\t\t被子植物·灌木\t常绿缠绕灌木，叶对生，花白色芳香，单瓣或重瓣\t0\t中国南方各省\t著名芳香植物，花可窨茶，香气世界著名。\t白色\t常绿\t浆果\t园林、庭院"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "25\t紫薇\tCrape Myrtle\tLagerstroemia indica\t植物界\t被子植物门\t双子叶纲\t桃金娘目\t千屈菜科\t紫薇属\t紫薇\t\t被子植物·灌木\t落叶灌木或小乔木，树皮光滑，花序顶生，有柄\t0\t中国华东、华中\t著名观赏树，树龄长，有痒痒树之称。\t紫色/粉色/白色\t落叶\t蒴果\t园林、路边"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "26\t绣球\tBigleaf Hydrangea\tHydrangea macrophylla\t植物界\t被子植物门\t双子叶纲\t山茱萸目\t绣球科\t绣球属\t绣球\t\t被子植物·灌木\t落叶灌木，叶对生，花序球形不育花组成，蓝紫粉白\t0\t中国华东\t著名观赏花卉，花序大而艳，雨天更蓝。\t蓝色/紫色/粉色/白色\t落叶\t蒴果\t林下、园林"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "27\t枸杞\tWolfberry\tLycium barbarum\t植物界\t被子植物门\t双子叶纲\t茄目\t茄科\t枸杞属\t枸杞\t\t被子植物·灌木\t落叶多分枝灌木，枝条常俯垂，有刺，叶披针形\t0\t中国西北、华北\t著名药用植物，果实枸杞子滋补肝肾。\t紫色\t落叶\t浆果\t干旱山坡、盐碱地"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "28\t木槿\tRose of Sharon\tHibiscus syriacus\t植物界\t被子植物门\t双子叶纲\t锦葵目\t锦葵科\t木槿属\t木槿\t\t被子植物·灌木\t落叶灌木，叶菱形，花大单生，有单瓣重瓣，花期长\t0\t中国各地\t著名观赏花卉，朝开幕落，花期整个夏季。\t紫红/粉/白\t落叶\t蒴果\t园林、路边"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "29\t连翘\tGolden Bell\tForsythia suspensa\t植物界\t被子植物门\t双子叶纲\t唇形目\t木犀科\t连翘属\t连翘\t\t被子植物·灌木\t落叶灌木，枝条中空或片状髓，花金黄色先叶开放\t0\t中国中部、北方\t早春开花植物，花金黄灿烂，迎春而生。\t金黄色\t落叶\t蒴果\t山坡、林缘"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "30\t迎春\tWinter Jasmine\tJasminum nudiflorum\t植物界\t被子植物门\t双子叶纲\t唇形目\t木犀科\t素馨属\t迎春\t\t被子植物·灌木\t落叶灌木，枝条绿色四棱，花小黄色先叶开放\t0\t中国中部、西北\t著名早春花卉，与梅花、水仙并称雪中三友。\t黄色\t落叶\t浆果\t山坡、墙垣"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "31\t红继木\tHongka Muhly\tLoropetalum chinense\t植物界\t被子植物门\t双子叶纲\t山茱萸目\t金缕梅科\t继木属\t红继木\t\t被子植物·灌木\t常绿灌木，叶紫红色，花丝状红色\t0\t中国南方\t著名彩叶植物，红叶紫花，园林中广泛应用。\t红色/白色\t常绿\t蒴果\t山地、林缘"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "32\t紫玉兰\tLily Magnolia\tMagnolia liliiflora\t植物界\t被子植物门\t双子叶纲\t木兰目\t木兰科\t木兰属\t紫玉兰\t\t被子植物·灌木\t落叶灌木，花紫色先叶开放，花被片9枚，外层较小\t0\t中国中部\t观赏花卉，花大色艳，与白玉兰齐名。\t紫色\t落叶\t聚合蓇葖果\t园林"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "33\t兰草\tChinese Orchid\tCymbidium goeringii\t植物界\t被子植物门\t单子叶纲\t兰目\t兰科\t兰属\t春兰\t\t被子植物·草本\t多年生草本，叶线形基生，花清香，通常一茎一花\t1\t中国中部、西南\t中国十大名花之首，有王者之香美誉，文化底蕴深厚。\t绿色/黄绿色\t常绿\t蒴果\t林下、石壁"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "34\t菊花\tChrysanthemum\tChrysanthemum morifolium\t植物界\t被子植物门\t双子叶纲\t菊目\t菊科\t菊属\t菊花\t\t被子植物·草本\t多年生草本，叶互生有锯齿，头状花序，品种极多\t0\t中国各地栽培\t中国十大名花之一，品种逾千，秋菊傲霜。\t黄/白/红/紫\t落叶\t瘦果\t园林、庭院"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "35\t荷花\tLotus\tNelumbo nucifera\t植物界\t被子植物门\t双子叶纲\t山龙眼目\t莲科\t莲属\t莲\t\t被子植物·草本\t多年生水生草本，根茎膨大成莲藕，叶盾圆形，花大艳丽\t0\t中国各地\t中国著名花卉，出淤泥而不染，根茎花叶均有用。\t粉红色/白色\t常绿\t坚果\t池塘、湖泊"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "36\t毛竹\tMoso Bamboo\tPhyllostachys edulis\t植物界\t被子植物门\t单子叶纲\t禾本目\t禾本科\t毛竹属\t毛竹\t\t被子植物·草本\t大型禾草，茎木质化中空有节，叶披针形，笋可食\t0\t中国长江以南\t世界上最重要的经济竹种，竹材用途极广，春笋味美。\t\t常绿\t颖果\t山地、丘陵"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "37\t鸢尾\tIris\tIris tectorum\t植物界\t被子植物门\t单子叶纲\t百合目\t鸢尾科\t鸢尾属\t鸢尾\t\t被子植物·草本\t多年生草本，叶基生剑形，蓝紫色花，外轮3枚下垂\t0\t中国中部、西南\t著名观赏花卉，园林中广泛应用，根茎入药。\t蓝紫色\t常绿\t蒴果\t林下、水边"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "38\t君子兰\tScarlet Kaffir Lily\tClivia miniata\t植物界\t被子植物门\t单子叶纲\t百合目\t石蒜科\t君子兰属\t君子兰\t\t被子植物·草本\t多年生草本，叶带状基生，伞形花序，橙红色花\t0\t中国各地栽培\t著名温室花卉，春节前后开花，增添喜庆气氛。\t橙红色\t常绿\t浆果\t室内、园林"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "39\t水仙\tNarcissus\tNarcissus tazetta\t植物界\t被子植物门\t单子叶纲\t百合目\t石蒜科\t水仙属\t水仙\t\t被子植物·草本\t多年生草本，鳞茎，叶带状，伞形花序，白色副花冠黄色\t0\t中国东南沿海\t中国十大名花之一，凌波仙子，清香淡雅。\t白色/黄色\t常绿\t蒴果\t水田、园林"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "40\t芍药\tChinese Peony\tPaeonia lactiflora\t植物界\t被子植物门\t双子叶纲\t虎耳草目\t芍药科\t芍药属\t芍药\t\t被子植物·草本\t多年生草本，茎丛生，叶二回三出复叶，花大艳丽\t0\t中国北方、华东\t著名花卉，与牡丹齐名，花期5-6月，品种繁多。\t粉红/白/紫\t落叶\t蓇葖果\t园林、山坡"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "41\t梅花\tJapanese Apricot\tPrunus mume\t植物界\t被子植物门\t双子叶纲\t蔷薇目\t蔷薇科\t李属\t梅\t\t被子植物·乔木\t落叶乔木或灌木，叶卵形，花先叶开放，有香气\t0\t中国各地\t中国十大名花之首，松竹梅岁寒三友，耐寒清香。\t白/粉/红\t落叶\t核果\t山地、园林"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "42\t桃花\tPeach\tPrunus persica\t植物界\t被子植物门\t双子叶纲\t蔷薇目\t蔷薇科\t李属\t桃\t\t被子植物·乔木\t落叶乔木，叶披针形，花粉红色，先叶开放\t0\t中国各地\t著名观赏树，春暖花开，桃花灼灼，果实甘甜。\t粉红色\t落叶\t核果\t山地、园林"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "43\t樱花\tCherry Blossom\tPrunus serrulata\t植物界\t被子植物门\t双子叶纲\t蔷薇目\t蔷薇科\t李属\t樱花\t\t被子植物·乔木\t落叶乔木，叶椭圆形，花白色或粉红色，伞形花序\t0\t中国各地栽培\t著名观赏花卉，花期短暂，绚烂夺目，浪漫象征。\t白色/粉红色\t落叶\t核果\t园林、山地"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "44\t海棠\tFlowering Crabapple\tMalus spectabilis\t植物界\t被子植物门\t双子叶纲\t蔷薇目\t蔷薇科\t苹果属\t海棠\t\t被子植物·乔木\t落叶小乔木，叶椭圆形，花粉红色，果实玲珑\t0\t中国北部\t著名观赏花卉，花姿潇洒，有花贵妃之称。\t粉红色\t落叶\t苹果\t园林、庭院"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "45\t富贵竹\tLucky Bamboo\tDracaena sanderiana\t植物界\t被子植物门\t单子叶纲\t百合目\t龙舌兰科\t龙血树属\tDracaena sanderiana\t\t被子植物·灌木\t常绿灌木或亚灌木，株高1-2米，茎节明显，叶片宽披针形，绿色有光泽。因名字寓意吉祥，常作观赏植物和年宵花。\t0\t原产西非热带地区，现广泛栽培于全球亚热带及温带室内\t中国传统文化中寓意富贵吉祥，是常见的室内绿植和年宵花卉。\t淡绿色\t宽披针形，常绿\t浆果\t室内盆栽或庭院阴蔽处"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "46\t万年青\tSnake Plant\tDracaena trifasciata\t植物界\t被子植物门\t单子叶纲\t百合目\t天门冬科\t龙血树属\tDracaena trifasciata\t\t被子植物·草本\t常绿草本植物，叶片剑形，绿色有黄白色斑纹，质地坚硬。适应性强，耐阴耐旱。\t0\t原产热带非洲，现广泛栽培于全球室内\t叶色清雅，常用于室内观叶植物，寓意吉祥长寿。\t白色\t剑形，基生\t浆果\t室内阴蔽处"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "47\t鸭掌绿\tUmbrella Tree\tHeptapleurum heptaphyllum\t植物界\t被子植物门\t双子叶纲\t伞形目\t五加科\t鹅掌柴属\tHeptapleurum heptaphyllum\t\t被子植物·灌木\t常绿灌木或小乔木，掌状复叶，小叶5-8枚，绿色有光泽。生长快速，适应性强。\t0\t原产大洋洲、东南亚热带地区，中国南方广泛栽培\t叶片形似鸭掌，四季常绿，是常见的室内外观赏植物。\t淡黄色\t掌状复叶，椭圆形\t浆果球形\t半阴环境，适合室内客厅或庭院"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "95\t女贞\tChinese Privet\tLigustrum lucidum\t植物界\t被子植物门\t双子叶纲\t唇形目\t木犀科\t女贞属\tLigustrum lucidum\t\t被子植物·乔木\t常绿乔木或灌木，叶对生卵形，圆锥花序白色。\t0\t中国黄河以南\t著名观赏和绿篱树种，果可入药。\t白色\t卵形对生\t浆果\t平原、山地"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "96\t枫香树\tChinese Sweetgum\tLiquidambar formosana\t植物界\t被子植物门\t双子叶纲\t虎耳草目\t枫香树科\t枫香树属\tLiquidambar formosana\t\t被子植物·乔木\t落叶大乔木，叶掌状3裂，秋叶红黄色。\t0\t中国黄河以南\t著名观赏树，秋叶艳丽。\t黄绿色\t掌状3裂\t聚合头状果\t山地、丘陵"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "97\t无患子树\tSoapberry\tSapindus saponaria\t植物界\t被子植物门\t双子叶纲\t无患子目\t无患子科\t无患子属\tSapindus saponaria\t\t被子植物·乔木\t落叶乔木，羽状复叶，果实球形有肥皂般泡沫。\t0\t中国长江以南\t行道树，果皮可代肥皂。\t白色\t羽状复叶\t浆果\t平原、山地"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "98\t楝树\tChinaberry\tMelia azedarach\t植物界\t被子植物门\t双子叶纲\t无患子目\t楝科\t楝属\tMelia azedarach\t\t被子植物·乔木\t落叶乔木，羽状复叶，花淡紫色。\t0\t中国黄河以南\t著名速生行道树，花开时节芳香。\t淡紫色\t羽状复叶\t核果\t平原、山地"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "99\t臭椿\tTree of Heaven\tAilanthus altissima\t植物界\t被子植物门\t双子叶纲\t无患子目\t苦木科\t臭椿属\tAilanthus altissima\t\t被子植物·乔木\t落叶大乔木，羽状复叶，大型圆锥花序。\t0\t中国南北广泛分布\t著名速生树种，适应性强。\t黄绿色\t羽状复叶\t翅果\t平原、山地"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "100\t乌桕\tChinese Tallow Tree\tTriadica sebifera\t植物界\t被子植物门\t双子叶纲\t金虎尾目\t大戟科\t乌桕属\tTriadica sebifera\t\t被子植物·乔木\t落叶乔木，叶菱形，秋季叶变红，种子白色。\t0\t中国黄河以南\t著名观赏树，秋叶红艳，种子白色如棉。\t黄绿色\t菱形\t蒴果\t平原、山地"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "101\t三角枫\tTrident Maple\tAcer buergerianum\t植物界\t被子植物门\t双子叶纲\t无患子目\t无患子科\t槭属\tAcer buergerianum\t\t被子植物·乔木\t落叶小乔木，叶3裂，秋叶红橙色。\t0\t中国长江流域\t著名盆景和观赏树。\t黄绿色\t3裂\t翅果\t山地、丘陵"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "102\t鸡爪槭\tJapanese Maple\tAcer palmatum\t植物界\t被子植物门\t双子叶纲\t无患子目\t无患子科\t槭属\tAcer palmatum\t\t被子植物·乔木\t落叶小乔木，叶掌状7裂，秋叶鲜红色。\t0\t中国长江流域及日本\t著名观赏和盆景树。\t红紫色\t掌状7裂\t翅果\t山地、庭院"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "103\t五角枫\tMono Maple\tAcer mono\t植物界\t被子植物门\t双子叶纲\t无患子目\t无患子科\t槭属\tAcer mono\t\t被子植物·乔木\t落叶大乔木，叶5裂，秋叶橙黄色。\t0\t中国东北至华中\t著名观赏和用材树。\t黄绿色\t5裂\t翅果\t山地"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "104\t黄连木\tPistache\tPistacia chinensis\t植物界\t被子植物门\t双子叶纲\t漆树目\t漆树科\t黄连木属\tPistacia chinensis\t\t被子植物·乔木\t落叶乔木，羽状复叶，秋叶橙红色。\t0\t中国黄河以南\t著名观赏和用材树，秋叶艳丽。\t黄绿色\t羽状复叶\t核果\t山地、丘陵"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "105\t腊梅\tWintersweet\tChimonanthus praecox\t植物界\t被子植物门\t双子叶纲\t樟目\t腊梅科\t腊梅属\tChimonanthus praecox\t\t被子植物·灌木\t落叶灌木，冬季早春开花，花黄色极芳香。\t0\t中国黄河以南\t著名观赏花木，冬日飘香。\t黄色\t卵状披针形\t蒴果\t山地、庭院"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "106\t瑞香\tWinter Daphne\tDaphne odora\t植物界\t被子植物门\t双子叶纲\t锦葵目\t瑞香科\t瑞香属\tDaphne odora\t\t被子植物·灌木\t常绿灌木，叶对生椭圆形，花簇生白色或粉红色，芳香。\t0\t中国长江以南\t著名观赏花木，芳香四溢。\t白色、粉红色\t椭圆形对生\t浆果\t山地、林下"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "107\t紫荆\tRedbud\tCercis chinensis\t植物界\t被子植物门\t双子叶纲\t豆目\t豆科\t紫荆属\tCercis chinensis\t\t被子植物·灌木\t落叶灌木或小乔木，先叶开放粉紫色花，簇生老干上。\t0\t中国黄河以南\t著名观赏树，花开满枝。\t粉紫色\t圆形\t荚果\t平原、山地"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "108\t月季\tRose\tRosa chinensis\t植物界\t被子植物门\t双子叶纲\t蔷薇目\t蔷薇科\t蔷薇属\tRosa chinensis\t\t被子植物·灌木\t常绿或落叶灌木，有刺，羽状复叶，花色繁多，四季开花。\t0\t中国南北广泛栽培\t花中之王，世界最著名观赏花卉。\t红、粉、白、黄等\t羽状复叶\t蔷薇果\t平原、庭院"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "109\t玫瑰\tRugosa Rose\tRosa rugosa\t植物界\t被子植物门\t双子叶纲\t蔷薇目\t蔷薇科\t蔷薇属\tRosa rugosa\t\t被子植物·灌木\t落叶灌木，有刺，羽状复叶，花玫瑰红色，芳香。\t0\t中国东北、华北\t著名观赏和香料植物，可制玫瑰精油。\t玫瑰红色\t羽状复叶\t蔷薇果\t平原、海岸"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "110\t黄刺玫\tYellow Rose\tRosa xanthina\t植物界\t被子植物门\t双子叶纲\t蔷薇目\t蔷薇科\t蔷薇属\tRosa xanthina\t\t被子植物·灌木\t落叶灌木，多刺，羽状复叶，花黄色单瓣。\t0\t中国北方\t著名观赏灌木，春日金黄。\t黄色\t羽状复叶\t蔷薇果\t山地、庭院"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "111\t锦带花\tWeigela\tWeigela florida\t植物界\t被子植物门\t双子叶纲\t川续断目\t忍冬科\t锦带花属\tWeigela florida\t\t被子植物·灌木\t落叶灌木，叶对生椭圆形，花漏斗状粉红色或白色。\t0\t中国北方至东北\t著名观赏灌木，花期长。\t粉红色、白色\t椭圆形对生\t蒴果\t山地、庭院"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "112\t金银花\tHoneysuckle\tLonicera japonica\t植物界\t被子植物门\t双子叶纲\t川续断目\t忍冬科\t忍冬属\tLonicera japonica\t\t被子植物·灌木\t半常绿缠绕灌木，叶对生卵形，花白色转黄色，芳香。\t0\t中国南北广泛分布\t著名观赏和药用植物，花可泡茶。\t白色、黄色\t卵形对生\t浆果\t山地、林下"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "113\t海桐\tPitdecision\tPittosporum tobira\t植物界\t被子植物门\t双子叶纲\t伞形目\t海桐科\t海桐属\tPittosporum tobira\t\t被子植物·灌木\t常绿灌木，叶互生倒卵形，伞形花序白色，芳香。\t0\t中国长江以南\t著名观赏和绿篱树种。\t白色\t倒卵形\t蒴果\t平原、海岸"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "114\t大叶黄杨\tJapanese Box\tBuxus megistophylla\t植物界\t被子植物门\t双子叶纲\t卫矛目\t黄杨科\t黄杨属\tBuxus megistophylla\t\t被子植物·灌木\t常绿灌木，叶对生椭圆形，革质有光泽。\t0\t中国长江以北\t著名观赏和绿篱树种。\t淡黄色\t椭圆形对生\t蒴果\t平原、丘陵"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "115\t小叶黄杨\tChinese Box\tBuxus sinica\t植物界\t被子植物门\t双子叶纲\t卫矛目\t黄杨科\t黄杨属\tBuxus sinica\t\t被子植物·灌木\t常绿灌木，叶对生倒卵形，株型紧密。\t0\t中国黄河以南\t著名观赏和盆景树种。\t淡黄色\t倒卵形对生\t蒴果\t山地、丘陵"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "116\t红叶石楠\tRed Tip Photinia\tPhotinia x fraseri\t植物界\t被子植物门\t双子叶纲\t蔷薇目\t蔷薇科\t石楠属\tPhotinia x fraseri\t\t被子植物·灌木\t常绿灌木，新叶红色，伞形花序白色。\t0\t中国长江以南广泛栽培\t著名观赏灌木，新叶鲜红。\t白色\t椭圆形\t梨果\t平原、丘陵"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "117\t火棘\tFirethorn\tPyracantha fortuneana\t植物界\t被子植物门\t双子叶纲\t蔷薇目\t蔷薇科\t火棘属\tPyracantha fortuneana\t\t被子植物·灌木\t常绿灌木，有刺，叶椭圆形，花白色，果实橙红色经久不落。\t0\t中国黄河以南\t著名观赏和绿篱树种，果期观果。\t白色\t椭圆形\t梨果\t山地、丘陵"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "118\t枸骨\tChinese Holly\tIlex cornuta\t植物界\t被子植物门\t双子叶纲\t冬青目\t冬青科\t冬青属\tIlex cornuta\t\t被子植物·灌木\t常绿灌木，叶硬革质，4-5个硬刺，果实红色。\t0\t中国黄河以南\t著名观赏和绿篱树种，冬日红果。\t黄绿色\t硬革质，倒卵形\t核果\t山地、丘陵"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "119\t凤尾兰\tYucca\tYucca gloriosa\t植物界\t被子植物门\t单子叶纲\t天门冬目\t天门冬科\t丝兰属\tYucca gloriosa\t\t被子植物·灌木\t常绿灌木，茎短，叶剑形密生，圆锥花序白色下垂。\t0\t中国长江以北广泛栽培\t著名观赏和庭园绿植。\t白色\t剑形\t蒴果\t平原、丘陵"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "120\t八角金盘\tFatsia\tFatsia japonica\t植物界\t被子植物门\t双子叶纲\t伞形目\t五加科\t八角金盘属\tFatsia japonica\t\t被子植物·灌木\t常绿灌木，掌状裂叶7-9裂，圆锥花序白色。\t0\t中国长江以南\t著名观赏和室内绿植。\t白色\t掌状7-9裂\t浆果\t林下、庭院"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "121\t洒金珊瑚\tJapanese Aucuba\tAucuba japonica\t植物界\t被子植物门\t双子叶纲\t烂木耳耳目\t烂木耳耳科\t烂木耳耳属\tAucuba japonica\t\t被子植物·灌木\t常绿灌木，叶对生椭圆形，绿色叶片上洒有金黄色斑点。\t0\t中国长江以南\t著名观赏和室内绿植，叶色独特。\t紫色\t椭圆形对生\t浆果\t林下、阴地"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "122\t南天竹\tHeavenly Bamboo\tNandina domestica\t植物界\t被子植物门\t双子叶纲\t毛茛目\t小檗科\t南天竹属\tNandina domestica\t\t被子植物·灌木\t常绿灌木，2-3回羽状复叶，秋叶变红，果实白色或红色。\t0\t中国黄河以南\t著名观赏和盆景树种，四季皆美。\t白色\t2-3回羽状复叶\t浆果\t山地、林下"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "123\t十大功劳\tMahonia\tMahonia fortunei\t植物界\t被子植物门\t双子叶纲\t毛茛目\t小檗科\t十大功劳属\tMahonia fortunei\t\t被子植物·灌木\t常绿灌木，奇数羽状复叶，小叶有刺，花黄色。\t0\t中国长江以南\t著名观赏和药用植物。\t黄色\t奇数羽状复叶\t浆果\t林下、阴地"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "124\t阔叶十大功劳\tLeather Leaf Mahonia\tMahonia bealei\t植物界\t被子植物门\t双子叶纲\t毛茛目\t小檗科\t十大功劳属\tMahonia bealei\t\t被子植物·灌木\t常绿灌木，奇数羽状复叶，小叶宽大，花黄色芳香。\t0\t中国黄河以南\t著名观赏和药用植物。\t黄色\t奇数羽状复叶\t浆果\t林下、阴地"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "125\t紫金牛\tJapanese Ardisia\tArdisia japonica\t植物界\t被子植物门\t双子叶纲\t报春花目\t紫金牛科\t紫金牛属\tArdisia japonica\t\t被子植物·灌木\t常绿亚灌木，叶对生椭圆形，边缘有细齿，花粉色，果实红色。\t0\t中国长江以南\t著名观赏和盆景树种，红果经久不落。\t粉色\t椭圆形对生\t浆果\t林下、阴地"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "126\t朱蕉\tCordyline\tCordyline terminalis\t植物界\t被子植物门\t单子叶纲\t天门冬目\t天门冬科\t朱蕉属\tCordyline terminalis\t\t被子植物·灌木\t常绿灌木，茎单生或分枝，叶剑形绿色或紫红色。\t0\t中国南方\t著名观赏和室内绿植。\t淡红色\t剑形\t浆果\t热带、亚热带"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "127\t鹅掌柴\tUmbrella Tree\tHeptapleurum heptaphyllum\t植物界\t被子植物门\t双子叶纲\t伞形目\t五加科\t鹅掌柴属\tHeptapleurum heptaphyllum\t\t被子植物·灌木\t常绿灌木或小乔木，掌状复叶，小叶5-8枚，绿色有光泽。\t0\t中国南方\t著名室内绿植，四季常绿。\t淡黄色\t掌状复叶\t浆果\t半阴环境"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "128\t散尾葵\tAreca Palm\tDypsis lutescens\t植物界\t被子植物门\t单子叶纲\t棕榈目\t棕榈科\t散尾葵属\tDypsis lutescens\t\t被子植物·灌木\t丛生灌木，羽状复叶，茎杆金黄色。\t0\t中国南方室内栽培\t著名室内观赏棕榈。\t淡黄色\t羽状复叶\t浆果\t热带室内"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "129\t鱼尾葵\tFish Tail Palm\tCaryota ochlandra\t植物界\t被子植物门\t单子叶纲\t棕榈目\t棕榈科\t鱼尾葵属\tCaryota ochlandra\t\t被子植物·灌木\t丛生灌木，羽状复叶，小叶鱼尾状。\t0\t中国南方\t著名观赏棕榈。\t淡黄色\t鱼尾状羽状复叶\t浆果\t热带、亚热带"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "130\t蒲葵\tChinese Fan Palm\tLivistona chinensis\t植物界\t被子植物门\t单子叶纲\t棕榈目\t棕榈科\t蒲葵属\tLivistona chinensis\t\t被子植物·乔木\t常绿乔木，叶大掌状分裂，扇形。\t0\t中国南方\t著名观赏棕榈，可制蒲扇。\t黄绿色\t掌状扇形\t浆果\t热带、亚热带"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "131\t假槟榔\tAlexander Palm\tArchontophoenix alexandrae\t植物界\t被子植物门\t单子叶纲\t棕榈目\t棕榈科\t假槟榔属\tArchontophoenix alexandrae\t\t被子植物·乔木\t常绿乔木，单干直立，羽状复叶，茎杆灰白色。\t0\t中国南方\t著名观赏行道树。\t淡紫色\t羽状复叶\t浆果\t热带"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "132\t棕竹\tLady Palm\tRhapis excelsa\t植物界\t被子植物门\t单子叶纲\t棕榈目\t棕榈科\t棕竹属\tRhapis excelsa\t\t被子植物·灌木\t丛生灌木，掌状分裂叶，株型紧密。\t0\t中国南方\t著名室内观赏棕榈。\t淡黄色\t掌状分裂\t浆果\t热带、亚热带"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "133\t龟背竹\tMonstera\tMonstera deliciosa\t植物界\t被子植物门\t单子叶纲\t泽泻目\t天南星科\t龟背竹属\tMonstera deliciosa\t\t被子植物·灌木\t常绿缠绕灌木，叶大心形，羽状深裂，有孔洞。\t0\t中国南方\t著名室内观叶植物。\t淡绿色\t大心形羽状深裂\t浆果\t热带林下"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "134\t绿萝\tPothos\tEpipremnum aureum\t植物界\t被子植物门\t单子叶纲\t泽泻目\t天南星科\t绿萝属\tEpipremnum aureum\t\t被子植物·灌木\t常绿缠绕草本，叶心形，绿色有黄色斑纹。\t0\t中国南方广泛栽培\t最著名室内观叶植物之一。\t淡绿色\t心形\t浆果\t热带林下"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "135\t吊兰\tSpider Plant\tChlorophytum comosum\t植物界\t被子植物门\t单子叶纲\t天门冬目\t天门冬科\t吊兰属\tChlorophytum comosum\t\t被子植物·草本\t多年生草本，叶线形，基生，悬挂时有走茎。\t0\t中国南北广泛栽培\t最常见室内观叶植物。\t白色\t线形基生\t蒴果\t室内"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "143\t百合\tLily\tLilium brownii\t植物界\t被子植物门\t单子叶纲\t百合目\t百合科\t百合属\tLilium brownii\t\t被子植物·草本\t多年生草本，鳞茎球形，叶散生，花大白色芳香。\t0\t中国南北广泛分布\t著名观赏和食用花卉。\t白色\t披针形散生\t蒴果\t山地"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "144\t郁金香\tTulip\tTulipa gesneriana\t植物界\t被子植物门\t单子叶纲\t百合目\t百合科\t郁金香属\tTulipa gesneriana\t\t被子植物·草本\t多年生草本，鳞茎卵圆形，花杯状有红、黄、粉、紫等色。\t0\t中国北方大量栽培\t世界著名观赏花卉。\t红、黄、粉、紫\t带状\t蒴果\t温带"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "145\t风信子\tHyacinth\tHyacinthus orientalis\t植物界\t被子植物门\t单子叶纲\t百合目\t百合科\t风信子属\tHyacinthus orientalis\t\t被子植物·草本\t多年生草本，鳞茎球形，叶基生线形，花序总状有红、蓝、白等色，芳香。\t0\t原产地中海沿岸\t著名春季球根花卉。\t红、蓝、白等\t线形基生\t蒴果\t温带"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "146\t马蹄莲\tCalla Lily\tZantedeschia aethiopica\t植物界\t被子植物门\t单子叶纲\t泽泻目\t天南星科\t马蹄莲属\tZantedeschia aethiopica\t\t被子植物·草本\t多年生草本，块茎，叶基生戟形，佛焰苞白色似马蹄。\t0\t原产非洲，中国南方栽培\t著名切花和观赏花卉。\t白色\t戟形基生\t浆果\t亚热带"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "147\t大丽花\tDahlia\tDahlia pinnata\t植物界\t被子植物门\t双子叶纲\t菊目\t菊科\t大丽花属\tDahlia pinnata\t\t被子植物·草本\t多年生草本，块根，羽状复叶，头状花序有红、黄、橙、紫等色。\t0\t原产墨西哥，世界广泛栽培\t世界著名观赏花卉，品种繁多。\t红、黄、橙、紫\t羽状复叶\t瘦果\t温带"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "148\t美人蕉\tCanna\tCanna indica\t植物界\t被子植物门\t单子叶纲\t姜目\t美人蕉科\t美人蕉属\tCanna indica\t\t被子植物·草本\t多年生草本，块茎，茎粗壮，叶大互生椭圆形，总状花序有红、黄、橙等色。\t0\t原产热带美洲，中国南方栽培\t著名观赏花卉，适合群植。\t红、黄、橙\t大椭圆形互生\t蒴果\t热带"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "149\t唐菖蒲\tGladiolus\tGladiolus gandavensis\t植物界\t被子植物门\t单子叶纲\t百合目\t鸢尾科\t唐菖蒲属\tGladiolus gandavensis\t\t被子植物·草本\t多年生草本，球茎，叶剑形，花茎粗壮，总状花序有红、粉、黄、白等色。\t0\t世界著名切花，中国广泛栽培\t著名切花之王。\t红、粉、黄、白\t剑形\t蒴果\t温带"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "150\t晚香玉\tTuberose\tPolianthes tuberosa\t植物界\t被子植物门\t单子叶纲\t天门冬目\t石蒜科\t晚香玉属\tPolianthes tuberosa\t\t被子植物·草本\t多年生草本，鳞茎，叶线形基生，花白色，夜晚芳香浓郁。\t0\t原产墨西哥，世界广泛栽培\t著名夜间芳香花卉。\t白色\t线形基生\t蒴果\t温带"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "151\t报春花\tPrimrose\tPrimula malacoides\t植物界\t被子植物门\t双子叶纲\t报春花目\t报春花科\t报春花属\tPrimula malacoides\t\t被子植物·草本\t多年生草本，叶基生卵圆形，伞形花序有红、粉、白等色，早春开放。\t0\t中国西南著名花卉\t著名早春观赏花卉。\t红、粉、白\t卵圆形基生\t蒴果\t亚热带"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "152\t仙客来\tCyclamen\tCyclamen persicum\t植物界\t被子植物门\t双子叶纲\t报春花目\t报春花科\t仙客来属\tCyclamen persicum\t\t被子植物·草本\t多年生草本，块茎，叶心状圆形，上面有斑纹，花下垂有红、粉、白等色。\t0\t原产地中海，世界著名室内花卉\t著名室内观赏花卉。\t红、粉、白\t心状圆形\t蒴果\t温带"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "153\t黑松\tJapanese Black Pine\tPinus thunbergii\t植物界\t被子植物门\t松柏纲\t松目\t松科\t松属\tPinus thunbergii\t\t裸子植物\t常绿乔木，树皮灰褐色，叶针形两针一束，粗硬。\t0\t中国北方至华东沿海\t著名观赏和防护林树种。\t灰褐色\t针形两针一束\t球果\t沿海"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "154\t湿地松\tSlash Pine\tPinus elliottii\t植物界\t被子植物门\t松柏纲\t松目\t松科\t松属\tPinus elliottii\t\t裸子植物\t常绿乔木，叶针形两针一束或三针一束，生长快速。\t0\t中国南方大量引种栽培\t重要用材和松脂树种。\t灰褐色\t针形\t球果\t亚热带"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "155\t杉木\tChinese Fir\tCunninghamia lanceolata\t植物界\t被子植物门\t松柏纲\t松目\t杉科\t杉木属\tCunninghamia lanceolata\t\t裸子植物\t常绿乔木，叶披针形。\t0\t中国长江以南重要用材树种\t最重要用材树种之一。\t褐色\t披针形\t球果\t亚热带"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "156\t柳杉\tJapanese Cedar\tCryptomeria japonica\t植物界\t被子植物门\t松柏纲\t松目\t杉科\t柳杉属\tCryptomeria japonica\t\t裸子植物\t常绿大乔木，树冠尖塔形，叶小钻形缠绕小枝。\t0\t中国长江以南山地\t著名观赏和用材树种。\t红褐色\t钻形\t球果\t亚热带"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "157\t紫藤\tChinese Wisteria\tWisteria sinensis\t植物界\t被子植物门\t双子叶纲\t豆目\t豆科\t紫藤属\tWisteria sinensis\t\t被子植物·灌木\t落叶缠绕藤本，奇数羽状复叶，总状花序下垂有紫蓝色或白色，芳香。\t0\t中国黄河以南\t著名观赏藤本，花开如瀑。\t紫蓝、白色\t奇数羽状复叶\t荚果\t平原"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "158\t凌霄\tChinese Trumpet Creeper\tCampsis grandiflora\t植物界\t被子植物门\t双子叶纲\t唇形目\t紫葳科\t凌霄属\tCampsis grandiflora\t\t被子植物·灌木\t落叶攀援藤本，奇数羽状复叶，聚伞花序，花漏斗状橙红色。\t0\t中国黄河以南\t著名观赏藤本，夏日花开。\t橙红色\t奇数羽状复叶\t蒴果\t平原"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "159\t葡萄\tGrape\tVitis vinifera\t植物界\t被子植物门\t双子叶纲\t鼠李目\t葡萄科\t葡萄属\tVitis vinifera\t\t被子植物·灌木\t落叶缠绕藤本，卷须与叶对生，叶掌状5浅裂，圆锥花序，花黄绿色。\t0\t中国北方大量栽培\t世界著名水果。\t黄绿色\t掌状5浅裂\t浆果\t温带"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "160\t爬山虎\tBoston Ivy\tParthenocissus tricuspidata\t植物界\t被子植物门\t双子叶纲\t鼠李目\t葡萄科\t爬山虎属\tParthenocissus tricuspidata\t\t被子植物·灌木\t落叶藤本，卷须顶端有吸盘，叶3裂，秋叶红黄色。\t0\t中国南北广泛分布\t著名垂直绿化植物。\t黄绿色\t3裂，秋红\t浆果\t平原"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "161\t牵牛花\tMorning Glory\tIpomoea nil\t植物界\t被子植物门\t双子叶纲\t茄目\t旋花科\t番薯属\tIpomoea nil\t\t被子植物·草本\t一年生缠绕草本，叶心形，花漏斗状有蓝、紫、红、白等色，晨开午合。\t0\t中国南北广泛分布\t著名观赏草本花卉。\t蓝、紫、红、白\t心形\t蒴果\t田野"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "162\t茑萝\tStar Jasmine\tIpomoea quamoclit\t植物界\t被子植物门\t双子叶纲\t茄目\t旋花科\t番薯属\tIpomoea quamoclit\t\t被子植物·草本\t一年生缠绕草本，叶羽状细裂，花高脚碟状鲜红色。\t0\t原产热带美洲\t著名观赏藤本。\t鲜红色\t羽状细裂\t蒴果\t热带"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "163\t藤本月季\tClimbing Rose\tRosa chinensis\t植物界\t被子植物门\t双子叶纲\t蔷薇目\t蔷薇科\t蔷薇属\tRosa chinensis\t\t被子植物·灌木\t落叶攀援灌木，枝条蔓性，有刺，羽状复叶，花色繁多。\t0\t中国南北广泛栽培\t著名观赏藤本。\t红、粉、白等\t羽状复叶\t蔷薇果\t平原"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "164\t芦苇\tCommon Reed\tPhragmites australis\t植物界\t被子植物门\t单子叶纲\t禾本目\t禾本科\t芦苇属\tPhragmites australis\t\t被子植物·草本\t多年生水生草本，茎粗壮中空，叶片广披针形，圆锥花序银褐色。\t0\t中国各地水域广泛分布\t重要护岸植物和造纸原料。\t银褐色\t广披针形\t颖果\t淡水"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "165\t香蒲\tCattail\tTypha orientalis\t植物界\t被子植物门\t单子叶纲\t露兜树目\t香蒲科\t香蒲属\tTypha orientalis\t\t被子植物·草本\t多年生水生草本，叶长线形，茎圆柱形，穗状花序蜡烛状褐色。\t0\t中国各地淡水水域\t重要水生植物，可做工艺品。\t褐色\t长线形\t瘦果\t淡水"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "166\t菖蒲\tSweet Flag\tAcorus calamus\t植物界\t被子植物门\t单子叶纲\t菖蒲目\t菖蒲科\t菖蒲属\tAcorus calamus\t\t被子植物·草本\t多年生湿生草本，根茎粗壮横走，叶剑形直立，有香气。\t0\t中国南北各地\t著名水生观赏和药用植物。\t黄绿色\t剑形\t浆果\t浅水"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "167\t千屈菜\tPurple Loosestrife\tLythrum salicaria\t植物界\t被子植物门\t双子叶纲\t桃金娘目\t千屈菜科\t千屈菜属\tLythrum salicaria\t\t被子植物·草本\t多年生草本，茎直立，叶对生或轮生披针形，穗状花序紫红色。\t0\t中国北方至中部\t著名湿地观赏花卉。\t紫红色\t披针形\t蒴果\t湿地"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "168\t花菖蒲\tJapanese Iris\tIris ensata\t植物界\t被子植物门\t单子叶纲\t百合目\t鸢尾科\t鸢尾属\tIris ensata\t\t被子植物·草本\t多年生草本，根茎粗壮，叶剑形，花大有蓝、白、紫等色。\t0\t原产日本，中国北方有栽培\t著名水生观赏花卉。\t蓝、白、紫\t剑形\t蒴果\t湿地"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "169\t建兰\tSword-Leaf Cymbidium\tCymbidium ensifolium\t植物界\t被子植物门\t单子叶纲\t天门冬目\t兰科\t兰属\tCymbidium ensifolium\t\t被子植物·草本\t多年生草本，假鳞茎较小，叶线形较窄，花序有3-9朵，黄绿色有紫斑，芳香。\t0\t中国南方山地\t著名兰属品种，花期夏秋。\t黄绿有紫斑\t线形\t蒴果\t山地"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "170\t墨兰\tMoth Orchid\tCymbidium sinense\t植物界\t被子植物门\t单子叶纲\t天门冬目\t兰科\t兰属\tCymbidium sinense\t\t被子植物·草本\t多年生草本，假鳞茎，叶暗绿色线形，花序有10-20朵，紫褐色，芳香。\t0\t中国南方\t著名兰属品种，花期冬春。\t紫褐色\t暗绿线形\t蒴果\t山地"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "171\t寒兰\tWinter Cymbidium\tCymbidium kanran\t植物界\t被子植物门\t单子叶纲\t天门冬目\t兰科\t兰属\tCymbidium kanran\t\t被子植物·草本\t多年生草本，假鳞茎，叶线形直立，花茎细长，花有黄绿、紫红等色，芳香。\t0\t中国南方山地\t著名兰属品种，花期冬季。\t黄绿、紫红\t线形\t蒴果\t山地"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "172\t蝴蝶兰\tMoth Orchid\tPhalaenopsis aphrodite\t植物界\t被子植物门\t单子叶纲\t天门冬目\t兰科\t蝴蝶兰属\tPhalaenopsis aphrodite\t\t被子植物·草本\t多年生附生草本，茎短叶大，肉质椭圆形，花序总状下垂，花似蝴蝶。\t0\t原产热带亚洲\t著名室内观赏花卉。\t白、粉等\t肉质椭圆形\t蒴果\t热带"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "173\t大花蕙兰\tCymbidium Hybrid\tCymbidium hybridum\t植物界\t被子植物门\t单子叶纲\t天门冬目\t兰科\t兰属\tCymbidium hybridum\t\t被子植物·草本\t多年生草本，叶长线形，花茎粗壮下垂，花大色艳。\t0\t世界著名年宵花卉，中国大量栽培\t著名室内观赏花卉。\t红、黄、绿等\t长线形\t蒴果\t温带"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "174\t芦荟\tAloe\tAloe vera\t植物界\t被子植物门\t单子叶纲\t天门冬目\t日光兰科\t芦荟属\tAloe vera\t\t被子植物·草本\t多年生肉质草本，叶肥厚莲座状，边缘有刺状齿，花黄色。\t0\t原产非洲热带，中国有栽培\t著名药用和观赏多肉植物。\t黄色\t肥厚莲座状\t蒴果\t热带"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "175\t龙舌兰\tAgave\tAgave americana\t植物界\t被子植物门\t单子叶纲\t天门冬目\t石蒜科\t龙舌兰属\tAgave americana\t\t被子植物·草本\t多年生肉质草本，叶大肥厚剑形，莲座状，边缘有钩刺。\t0\t原产美洲热带，世界广泛栽培\t著名观赏和纤维植物。\t黄绿色\t大剑形莲座状\t蒴果\t热带"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "176\t玉树\tJade Plant\tCrassula ovata\t植物界\t被子植物门\t双子叶纲\t虎耳草目\t景天科\t青锁龙属\tCrassula ovata\t\t被子植物·草本\t多年生肉质灌木，茎粗壮，叶卵圆形肉质，绿色有光泽。\t0\t原产南非，世界著名室内观叶植物\t著名观赏多肉植物。\t白、粉色\t卵圆形肉质\t蓇葖果\t热带"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "177\t长寿花\tKalanchoe\tKalanchoe blossfeldiana\t植物界\t被子植物门\t双子叶纲\t虎耳草目\t景天科\t伽蓝菜属\tKalanchoe blossfeldiana\t\t被子植物·草本\t多年生肉质草本，叶对生椭圆形，伞形花序有红、黄、橙、粉等色。\t0\t原产马达加斯加，世界著名室内花卉\t著名冬春季盆花。\t红、黄、橙、粉\t椭圆形对生\t蓇葖果\t温带"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "178\t令箭荷花\tOrchid Cactus\tEpiphyllum oxypetalum\t植物界\t被子植物门\t双子叶纲\t石竹目\t仙人掌科\t令箭荷花属\tEpiphyllum oxypetalum\t\t被子植物·草本\t附生多肉植物，茎扁平如令箭，花大漏斗形，白色夜晚开放，芳香。\t0\t原产热带美洲\t著名观赏花卉，夜开。\t白色\t扁平茎节\t浆果\t热带"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "179\t紫竹\tBlack Bamboo\tPhyllostachys nigra\t植物界\t被子植物门\t单子叶纲\t禾本目\t禾本科\t刚竹属\tPhyllostachys nigra\t\t被子植物·草本\t中型散生竹，竿初为绿色后变为紫黑色。\t0\t中国黄河以南\t著名观赏竹种。\t紫黑色\t披针形\t颖果\t亚热带"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "180\t刚竹\tHard Bamboo\tPhyllostachys sulphurea\t植物界\t被子植物门\t单子叶纲\t禾本目\t禾本科\t刚竹属\tPhyllostachys sulphurea\t\t被子植物·草本\t中型散生竹，竿黄色，节下有绿色纵带。\t0\t中国黄河以南\t重要用材竹种。\t黄绿色\t披针形\t颖果\t亚热带"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "181\t淡竹\tHue Bamboo\tPhyllostachys glauca\t植物界\t被子植物门\t单子叶纲\t禾本目\t禾本科\t刚竹属\tPhyllostachys glauca\t\t被子植物·草本\t中型散生竹，竿灰蓝色。\t0\t中国黄河以南\t著名用材和笋用竹种。\t灰蓝色\t披针形\t颖果\t亚热带"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "182\t佛肚竹\tBuddha Belly Bamboo\tBambusa ventricosa\t植物界\t被子植物门\t单子叶纲\t禾本目\t禾本科\t簕竹属\tBambusa ventricosa\t\t被子植物·草本\t丛生竹，竿下部节间膨大成瓶状，姿态奇特。\t0\t中国南方\t著名观赏竹种。\t绿色\t披针形\t颖果\t亚热带"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "183\t凤尾竹\tFemileaf Bamboo\tBambusa multiplex\t植物界\t被子植物门\t单子叶纲\t禾本目\t禾本科\t簕竹属\tBambusa multiplex\t\t被子植物·草本\t丛生竹，竿细弱，枝叶细小稠密，姿态优美。\t0\t中国南方\t著名观赏竹种，常植于庭园。\t绿色\t细披针形\t颖果\t亚热带"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "184\t石榴\tPomegranate\tPunica granatum\t植物界\t被子植物门\t双子叶纲\t桃金娘目\t石榴科\t石榴属\tPunica granatum\t\t被子植物·乔木\t落叶灌木或小乔木，叶对生长椭圆形，花红色，果实球形内有众多种子。\t0\t中国南北广泛栽培\t著名水果和观赏树。\t红色\t长椭圆形对生\t浆果\t温带"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "185\t枣树\tJujube\tZiziphus jujuba\t植物界\t被子植物门\t双子叶纲\t鼠李目\t鼠李科\t枣属\tZiziphus jujuba\t\t被子植物·乔木\t落叶小乔木，枝条有刺，叶卵状长圆形，花小黄绿色，果实椭圆形红色。\t0\t中国北方\t著名干果和水果。\t黄绿色\t卵状长圆形\t核果\t温带"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "186\t核桃\tWalnut\tJuglans regia\t植物界\t被子植物门\t双子叶纲\t壳斗目\t胡桃科\t胡桃属\tJuglans regia\t\t被子植物·乔木\t落叶大乔木，羽状复叶，花雌雄同株，果实球形。\t0\t中国北方重要坚果\t著名坚果和油料树种。\t黄绿色\t羽状复叶\t核果\t温带"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "187\t板栗\tChinese Chestnut\tCastanea mollissima\t植物界\t被子植物门\t双子叶纲\t壳斗目\t壳斗科\t栗属\tCastanea mollissima\t\t被子植物·乔木\t落叶乔木，叶椭圆形边缘有刺，果实包于多刺的壳斗内。\t0\t中国北方重要坚果\t著名干果和用材树种。\t黄绿色\t椭圆形\t坚果\t温带"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "188\t杨梅\tChinese Bayberry\tMyrica rubra\t植物界\t被子植物门\t双子叶纲\t杨梅目\t杨梅科\t杨梅属\tMyrica rubra\t\t被子植物·乔木\t常绿乔木，叶倒卵状长圆形，果实球形红色或紫红色。\t0\t中国长江以南\t著名水果，果酸甜可口。\t红、紫红\t倒卵状长圆形\t核果\t亚热带"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "189\t李\tPlum\tPrunus salicina\t植物界\t被子植物门\t双子叶纲\t蔷薇目\t蔷薇科\t李属\tPrunus salicina\t\t被子植物·乔木\t落叶小乔木，叶长圆形，花白色，果实球形有沟。\t0\t中国南北广泛栽培\t著名水果。\t白色\t长圆形\t核果\t温带"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "190\t柿树\tPersimmon\tDiospyros kaki\t植物界\t被子植物门\t双子叶纲\t柿目\t柿科\t柿属\tDiospyros kaki\t\t被子植物·乔木\t落叶乔木，叶椭圆形深绿色，果实橙红色。\t0\t中国南北广泛栽培\t著名水果，秋冬季成熟。\t淡黄色\t椭圆形\t浆果\t温带"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "191\t猕猴桃\tKiwifruit\tActinidia chinensis\t植物界\t被子植物门\t双子叶纲\t山茶目\t猕猴桃科\t猕猴桃属\tActinidia chinensis\t\t被子植物·灌木\t落叶缠绕藤本，叶圆形有毛，果实椭圆形棕绿色有毛。\t0\t中国特有水果，世界广泛栽培\t著名水果，维C之王。\t棕绿\t圆形有毛\t浆果\t亚热带"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "192\t无花果\tFig\tFicus carica\t植物界\t被子植物门\t双子叶纲\t荨麻目\t桑科\t榕属\tFicus carica\t\t被子植物·乔木\t落叶灌木或小乔木，叶掌状裂，花序托梨形。\t0\t原产地中海，中国有栽培\t著名水果。\t黄绿色\t掌状裂\t隐头花序\t亚热带"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "193\t番石榴\tGuava\tPsidium guajava\t植物界\t被子植物门\t双子叶纲\t桃金娘目\t桃金娘科\t番石榴属\tPsidium guajava\t\t被子植物·乔木\t常绿小乔木，叶对生椭圆形，花白色，果实球形或梨形。\t0\t原产热带美洲，中国南方有栽培\t著名热带水果。\t白色\t椭圆形对生\t浆果\t热带"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "194\t菠萝\tPineapple\tAnanas comosus\t植物界\t被子植物门\t单子叶纲\t禾本目\t凤梨科\t凤梨属\tAnanas comosus\t\t被子植物·草本\t多年生草本，叶剑形莲座状，果实由多数子房和花序轴集合而成。\t0\t原产热带美洲，中国南方有栽培\t著名热带水果。\t紫红色\t剑形莲座状\t复果\t热带"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "195\t香蕉\tBanana\tMusa nana\t植物界\t被子植物门\t单子叶纲\t禾本目\t芭蕉科\t芭蕉属\tMusa nana\t\t被子植物·草本\t多年生草本，假茎粗壮，叶大长椭圆形，果实长柱形。\t0\t原产热带，中国南方大量栽培\t著名热带水果。\t黄绿色\t大长椭圆形\t浆果\t热带"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "196\t八角\tStar Anise\tIllicium verum\t植物界\t被子植物门\t双子叶纲\t木兰目\t八角科\t八角属\tIllicium verum\t\t被子植物·乔木\t常绿小乔木，叶长椭圆形，花被粉红色，果实八角形。\t0\t中国南方特有香料树种\t著名香料和药用植物。\t粉红色\t长椭圆形\t蓇葖果\t亚热带"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "197\t花椒\tSichuan Pepper\tZanthoxylum bungeanum\t植物界\t被子植物门\t双子叶纲\t无患子目\t芸香科\t花椒属\tZanthoxylum bungeanum\t\t被子植物·灌木\t落叶灌木或小乔木，枝有刺，羽状复叶，花被黄绿色，果实红色。\t0\t中国北方特有香料\t著名香料和药用植物。\t黄绿色\t羽状复叶\t蓇葖果\t温带"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "198\t香樟\tCamphor Tree\tCinnamomum camphora\t植物界\t被子植物门\t双子叶纲\t樟目\t樟科\t樟属\tCinnamomum camphora\t\t被子植物·乔木\t常绿大乔木，全株有樟脑气味，叶互生卵状椭圆形。\t0\t中国长江以南\t著名观赏树和用材树，可提取樟脑。\t淡绿色\t卵状椭圆形\t浆果\t亚热带"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "199\t沉香\tAgarwood\tAquilaria sinensis\t植物界\t被子植物门\t双子叶纲\t锦葵目\t瑞香科\t沉香属\tAquilaria sinensis\t\t被子植物·乔木\t常绿乔木，叶互生椭圆形，花小黄绿色。\t1\t中国南方特有\t著名珍贵用材和香料树种。\t黄绿色\t椭圆形\t蒴果\t亚热带"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "200\t白皮松\tLacebark Pine\tPinus bungeana\t植物界\t被子植物门\t松柏纲\t松目\t松科\t松属\tPinus bungeana\t\t裸子植物\t常绿乔木，树皮白色斑驳，叶三针一束。\t0\t中国特有（西北、华北）\t著名观赏树，树皮白色为其最大特征。\t灰褐色\t针形三针一束\t球果\t山地"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "201\t罗汉松\tYew Podocarpus\tPodocarpus macroophyllus\t植物界\t被子植物门\t罗汉松纲\t罗汉松目\t罗汉松科\t罗汉松属\tPodocarpus macroophyllus\t\t被子植物·灌木\t常绿乔木或灌木，叶线状披针形，种子具红色假种皮。\t0\t中国长江以南\t著名观赏和盆景树种。\t绿色\t线状披针形\t种子\t亚热带"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "202\t三尖杉\tPlum Yew\tCephalotaxus fortunei\t植物界\t被子植物门\t红豆杉纲\t三尖杉目\t三尖杉科\t三尖杉属\tCephalotaxus fortunei\t\t被子植物·灌木\t常绿灌木或小乔木，叶线形，种子核果状。\t0\t中国特有\t著名观赏和药用树种。\t绿色\t线形\t核果\t山地"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "203\t南洋杉\tNorfolk Island Pine\tAraucaria heterophylla\t植物界\t被子植物门\t南洋杉纲\t南洋杉目\t南洋杉科\t南洋杉属\tAraucaria heterophylla\t\t被子植物·乔木\t常绿大乔木，树冠尖塔形，枝条轮生平展。\t0\t原产澳大利亚，中国南方有栽培\t著名观赏和行道树。\t淡绿色\t钻形鳞片状\t球果\t热带"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "204\t金桔\tKumquat\tFortunella margarita\t植物界\t被子植物门\t双子叶纲\t无患子目\t芸香科\t金桔属\tFortunella margarita\t\t被子植物·灌木\t常绿灌木，叶椭圆形，花白色，果实金黄色椭圆形。\t0\t中国南方著名年宵水果\t著名年宵花卉和水果。\t白色\t椭圆形\t柑果\t亚热带"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "205\t代代\tBitter Orange\tCitrus aurantium\t植物界\t被子植物门\t双子叶纲\t无患子目\t芸香科\t柑橘属\tCitrus aurantium\t\t被子植物·灌木\t常绿灌木，叶卵状椭圆形，花白色芳香，果实扁圆形。\t0\t中国南方\t著名观赏和药用植物。\t白色\t卵状椭圆形\t柑果\t亚热带"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "206\t佛手\tBergamot\tCitrus medica\t植物界\t被子植物门\t双子叶纲\t无患子目\t芸香科\t柑橘属\tCitrus medica\t\t被子植物·灌木\t常绿灌木，叶卵状椭圆形，花瓣白色，果实拳状或开裂如手指。\t0\t中国南方\t著名观赏和药用植物。\t白色\t卵状椭圆形\t柑果\t亚热带"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "207\t木瓜\tPapaya\tChaenomeles sinensis\t植物界\t被子植物门\t双子叶纲\t蔷薇目\t蔷薇科\t木瓜属\tChaenomeles sinensis\t\t被子植物·乔木\t落叶小乔木，叶卵形，花淡粉红色，果实椭圆形。\t0\t中国长江以南\t著名水果和观赏树。\t淡粉红\t卵形\t梨果\t亚热带"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "214\t睡莲\tWater Lily\tNymphaea tetragona\t植物界\t被子植物门\t单子叶纲\t睡莲目\t睡莲科\t睡莲属\tNymphaea tetragona\t\t被子植物·草本\t多年生水生草本，叶圆形基部有裂口，浮于水面，花有白、黄、粉、红等色。\t0\t中国各地水生栽培\t著名水生观赏花卉。\t白、黄、粉、红\t圆形浮叶\t浆果\t淡水"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "215\t慈姑\tChinese Arrowhead\tSagittaria trifolia\t植物界\t被子植物门\t单子叶纲\t泽泻目\t泽泻科\t慈姑属\tSagittaria trifolia\t\t被子植物·草本\t多年生水生草本，叶箭形，块茎球形可食。\t0\t中国南方浅水中\t著名水生蔬菜。\t白色\t箭形\t瘦果\t淡水"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "216\t水葱\tBulrush\tSchoenoplectus tabernaemontani\t植物界\t被子植物门\t单子叶纲\t禾本目\t莎草科\t水葱属\tSchoenoplectus tabernaemontani\t\t被子植物·草本\t多年生湿生草本，茎杆圆柱形直立，叶退化成鞘。\t0\t中国各地淡水水域\t著名水生观赏植物。\t褐色\t叶退化成鞘\t瘦果\t淡水"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "217\t再力花\tFalse Forget-Me-Not\tThalia dealbata\t植物界\t被子植物门\t单子叶纲\t姜目\t竹芋科\t再力花属\tThalia dealbata\t\t被子植物·草本\t多年生湿生草本，叶卵状披针形，总状花序紫蓝色。\t0\t原产美洲热带，中国南方有栽培\t著名水生观赏花卉。\t紫蓝色\t卵状披针形\t蒴果\t湿地"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "218\t梭鱼草\tPickerelweed\tPontederia cordata\t植物界\t被子植物门\t单子叶纲\t鸭跖草目\t雨久花科\t梭鱼草属\tPontederia cordata\t\t被子植物·草本\t多年生水生草本，叶心形基生，穗状花序蓝紫色。\t0\t原产美洲热带，中国有栽培\t著名水生观赏花卉。\t蓝紫色\t心形基生\t蒴果\t淡水"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "219\t盐肤木\tChinese Sumac\tRhus chinensis\t植物界\t被子植物门\t双子叶纲\t漆树目\t漆树科\t盐麸木属\tRhus chinensis\t\t被子植物·灌木\t落叶灌木或小乔木，羽状复叶，秋叶红色，果实密生毛状物。\t0\t中国黄河以南\t著名野果和药用植物。\t黄绿色\t羽状复叶\t核果\t山地"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "220\t丝棉木\tWinterberry Euonymus\tEuonymus maackii\t植物界\t被子植物门\t双子叶纲\t卫矛目\t卫矛科\t卫矛属\tEuonymus maackii\t\t被子植物·乔木\t落叶小乔木，叶卵状椭圆形，花绿白色，果实粉红色。\t0\t中国北方\t著名观赏树，冬季观果。\t绿白色\t卵状椭圆形\t蒴果\t温带"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "221\t南蛇藤\tCelastrus\tCelastrus orbiculatus\t植物界\t被子植物门\t双子叶纲\t卫矛目\t卫矛科\t南蛇藤属\tCelastrus orbiculatus\t\t被子植物·灌木\t落叶缠绕藤本，叶圆形，蒴果黄色开裂露红色假种皮。\t0\t中国黄河以南\t著名垂直绿化和药用植物。\t黄绿色\t圆形\t蒴果\t山地"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "222\t扶芳藤\tCreeping Euonymus\tEuonymus fortunei\t植物界\t被子植物门\t双子叶纲\t卫矛目\t卫矛科\t卫矛属\tEuonymus fortunei\t\t被子植物·灌木\t常绿藤本，茎匍匐或攀援，叶对生椭圆形。\t0\t中国黄河以南\t著名垂直绿化植物。\t绿白色\t椭圆形对生\t蒴果\t平原"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "223\t常春藤\tEnglish Ivy\tHedera helix\t植物界\t被子植物门\t双子叶纲\t伞形目\t五加科\t常春藤属\tHedera helix\t\t被子植物·灌木\t常绿攀援藤本，茎生气根，叶掌状裂。\t0\t原产欧洲，中国有栽培\t著名垂直绿化植物。\t黄绿色\t掌状裂\t浆果\t温带"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "224\t五加\tAcanthopanax\tEleutherococcus nodiflorus\t植物界\t被子植物门\t双子叶纲\t伞形目\t五加科\t五加属\tEleutherococcus nodiflorus\t\t被子植物·灌木\t落叶灌木，掌状复叶，枝有刺，伞形花序黄色。\t0\t中国黄河以南\t著名药用和观赏植物。\t黄色\t掌状复叶\t浆果\t山地"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "225\t桃叶珊瑚\tSpotted Laurel\tAucuba chinensis\t植物界\t被子植物门\t双子叶纲\t烂木耳耳目\t烂木耳耳科\t烂木耳耳属\tAucuba chinensis\t\t被子植物·灌木\t常绿灌木，叶对生椭圆状披针形，绿色。\t0\t中国长江以南\t著名观赏和绿篱树种。\t紫色\t椭圆状披针形对生\t浆果\t林下"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "226\t海枣\tDate Palm\tPhoenix dactylifera\t植物界\t被子植物门\t单子叶纲\t棕榈目\t棕榈科\t刺葵属\tPhoenix dactylifera\t\t被子植物·乔木\t常绿大乔木，羽状复叶，花序下垂，果实椭圆形。\t0\t原产西亚和北非，中国南方有栽培\t著名观赏和果树。\t淡黄色\t羽状复叶\t浆果\t热带"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "227\t龙血树\tDragon Tree\tDracaena draco\t植物界\t被子植物门\t单子叶纲\t天门冬目\t天门冬科\t龙血树属\tDracaena draco\t\t被子植物·乔木\t常绿乔木，单干或分枝，叶剑形灰绿色，受伤有红色树脂。\t0\t原产热带非洲和亚洲\t著名观赏树和药用植物。\t淡绿色\t剑形\t浆果\t热带"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "228\t菜豆树\tFlowering Maple\tRadermachera sinica\t植物界\t被子植物门\t双子叶纲\t管状花目\t紫葳科\t菜豆树属\tRadermachera sinica\t\t被子植物·乔木\t常绿小乔木，2回羽状复叶，花钟状淡黄色。\t0\t中国南方\t著名室内观赏植物。\t淡黄色\t2回羽状复叶\t蒴果\t亚热带"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "229\t茶梅\tSasanqua\tCamellia sasanqua\t植物界\t被子植物门\t双子叶纲\t杜鹃花目\t山茶科\t山茶属\tCamellia sasanqua\t\t被子植物·灌木\t常绿灌木，叶椭圆形较小，花玫瑰红色或白色。\t0\t中国长江以南\t著名观赏花木，花期早。\t玫瑰红、白\t椭圆形\t蒴果\t山地"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "230\t小蜡\tLittle Flower Privet\tLigustrum sinense\t植物界\t被子植物门\t双子叶纲\t唇形目\t木犀科\t女贞属\tLigustrum sinense\t\t被子植物·灌木\t常绿灌木或小乔木，叶对生卵形，圆锥花序白色。\t0\t中国黄河以南\t著名绿篱树种。\t白色\t卵形对生\t浆果\t平原"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "231\t白蜡\tChinese Ash\tFraxinus chinensis\t植物界\t被子植物门\t双子叶纲\t唇形目\t木犀科\t白蜡属\tFraxinus chinensis\t\t被子植物·乔木\t落叶乔木，羽状复叶，圆锥花序，花先叶开放。\t0\t中国南北广泛分布\t重要用材和绿化树种。\t黄绿色\t羽状复叶\t翅果\t温带"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "232\t丁香\tLilac\tSyringa oblata\t植物界\t被子植物门\t双子叶纲\t唇形目\t木犀科\t丁香属\tSyringa oblata\t\t被子植物·灌木\t落叶灌木或小乔木，叶对生心形，圆锥花序有紫、白等色，芳香。\t0\t中国北方\t著名观赏花木，花香浓郁。\t紫、白\t心形对生\t蒴果\t温带"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "233\t木芙蓉\tCotton Rose\tHibiscus mutabilis\t植物界\t被子植物门\t双子叶纲\t锦葵目\t锦葵科\t木槿属\tHibiscus mutabilis\t\t被子植物·灌木\t落叶灌木或小乔木，叶掌状心形，花大一日三变有白、粉、红色。\t0\t中国长江以南\t著名观赏花木，一日三变。\t白、粉、红\t掌状心形\t蒴果\t平原"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "234\t扶桑\tChinese Hibiscus\tHibiscus rosa-sinensis\t植物界\t被子植物门\t双子叶纲\t锦葵目\t锦葵科\t木槿属\tHibiscus rosa-sinensis\t\t被子植物·灌木\t常绿灌木，叶卵形，花大漏斗状有红、橙、粉、黄等色。\t0\t中国南方\t著名观赏花卉，花色丰富。\t红、橙、粉、黄\t卵形\t蒴果\t热带"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "235\t吊灯花\tFrangipani\tPlumeria rubra\t植物界\t被子植物门\t双子叶纲\t龙胆目\t夹竹桃科\t鸡蛋花属\tPlumeria rubra\t\t被子植物·灌木\t落叶小乔木，枝粗壮肉质，叶披针形，花瓣5枚螺旋状排列，有香气。\t0\t原产热带美洲，中国南方栽培\t著名观赏花木，花有香气。\t红、白、黄\t披针形\t蓇葖果\t热带"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "236\t橉木\tChinese Myrica\tMyrica rubra\t植物界\t被子植物门\t双子叶纲\t杨梅目\t杨梅科\t杨梅属\tMyrica rubra\t\t被子植物·乔木\t常绿乔木，叶倒卵状长圆形，果实球形红色或紫红色。\t0\t中国长江以南\t著名水果，果酸甜可口。\t红、紫红\t倒卵状长圆形\t核果\t亚热带"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "237\t金边黄杨\tGolden Edge Box\tEuonymus japonicus\t植物界\t被子植物门\t双子叶纲\t卫矛目\t卫矛科\t卫矛属\tEuonymus japonicus\t\t被子植物·灌木\t常绿灌木，叶对生椭圆形，边缘金黄色。\t0\t中国长江以南\t著名观赏和绿篱树种。\t淡黄色\t椭圆形对生\t蒴果\t平原"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "238\t龟甲冬青\tHolly Leaf Box\tIlex crenata\t植物界\t被子植物门\t双子叶纲\t卫矛目\t冬青科\t冬青属\tIlex crenata\t\t被子植物·灌木\t常绿小灌木，叶小椭圆形，边缘有细齿。\t0\t中国长江以南\t著名盆景和绿篱树种。\t白色\t小椭圆形\t核果\t山地"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "239\t雀舌黄杨\tBirds Tongue Box\tBuxus boddartii\t植物界\t被子植物门\t双子叶纲\t卫矛目\t黄杨科\t黄杨属\tBuxus boddartii\t\t被子植物·灌木\t常绿灌木，叶极小倒卵形，株型紧凑。\t0\t中国南方\t著名盆景和观赏树种。\t淡黄色\t极小倒卵形\t蒴果\t山地"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "240\t珊瑚树\tJapanese Viburnum\tViburnum awabuki\t植物界\t被子植物门\t双子叶纲\t川续断目\t忍冬科\t荚蒾属\tViburnum awabuki\t\t被子植物·灌木\t常绿灌木或小乔木，叶对生椭圆形，有光泽。\t0\t中国长江以南\t著名观赏和绿篱树种。\t白色\t椭圆形对生\t核果\t平原"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "241\t枇杷\tLoquat\tEriobotrya japonica\t植物界\t被子植物门\t双子叶纲\t蔷薇目\t蔷薇科\t枇杷属\tEriobotrya japonica\t\t被子植物·乔木\t常绿小乔木，叶大椭圆形深绿色，花白色芳香，果实梨形橙黄色。\t0\t中国南方\t著名水果和观赏树，叶入药。\t白色\t大椭圆形革质\t梨果\t亚热带"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "245\t日本黄杨\tJapanese Boxwood\tBuxus microphylla\t植物界\t被子植物门\t双子叶纲\t卫矛目\t黄杨科\t黄杨属\t日本黄杨\t\t被子植物·灌木\t常绿灌木或小乔木，叶倒卵形或椭圆形，对生，革质有光泽\t0\t原产日本、中国\t著名常绿绿篱和盆景植物，耐修剪，寿命长，四季常青。\t黄绿色\t常绿\t蒴果\t园林、绿篱"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "246\t桃树\tPeach Tree\tPrunus persica\t植物界\t被子植物门\t双子叶纲\t蔷薇目\t蔷薇科\t李属\t桃\t\t被子植物·乔木\t落叶乔木，叶披针形，花粉红色，先叶开放，果实球形，外被绒毛\t0\t中国各地均有分布，以北方为多\t中国原产传统果树，花可观赏，果可食用，品种繁多。桃胶可入药。\t粉红色\t落叶\t核果\t山地、丘陵、平原园林"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "247\t叉子圆柏\tSavin Juniper\tJuniperus sabina\t植物界\t松柏门\t松柏纲\t松柏目\t柏科\t圆柏属\t叉子圆柏\t\t裸子植物\t常绿灌木或小乔木，叶刺形或鳞形，雌雄异株，球果蓝黑色\t0\t中国西北至西南分布\t防风固沙、水土保持树种，也可作园林观赏\t无明显花\t常绿\t球果\t荒山、沙地、园林"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "248\t金银忍冬\tJapanese Honeysuckle\tLonicera japonica\t植物界\t被子植物门\t双子叶纲\t川续断目\t忍冬科\t忍冬属\tLonicera japonica\t\t被子植物·灌木\t半常绿缠绕藤本，叶对生卵形，花白色转黄色成对而生，芳香，浆果球形黑色\t0\t中国南北广泛分布\t著名观赏藤本，也称金银花，耐寒耐热，适应性强，春夏开花，花香怡人。\t白色、黄色\t半常绿\t浆果\t山地、林缘、篱垣"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "249\t樱桃李\tCherry Plum\tPrunus cerasifera\t植物界\t被子植物门\t双子叶纲\t蔷薇目\t蔷薇科\t李属\t樱桃李\t\t被子植物·乔木\t落叶小乔木或灌木，枝条紫红色或绿色，叶椭圆形或卵形，花粉白色或淡红色，单生或两朵并生，果实球形红色或黄色，直径约2-3厘米\t0\t原产中亚和西亚，中国新疆、陕西等地有栽培\t著名观赏和果树，观赏价值高，常用于园林、行道树，也可作砧木嫁接李、杏等。\t粉白色、淡红色\t落叶\t核果\t山坡、园林"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "250\t冬青卫矛\tJapanese Spindle\tEuonymus japonicus\t植物界\t被子植物门\t双子叶纲\t卫矛目\t卫矛科\t卫矛属\tEuonymus japonicus\t\t被子植物·灌木\t常绿灌木或小乔木，叶对生椭圆形，边缘有细齿，花淡黄色。\t0\t中国长江以南\t著名观赏和绿篱树种，适应性强，耐修剪。\t淡黄色\t椭圆形对生\t蒴果\t平原、山地"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "251\t西府海棠\tMidget Crabapple\tMalus micromalus\t植物界\t被子植物门\t双子叶纲\t蔷薇目\t蔷薇科\t苹果属\t西府海棠\t\t被子植物·乔木\t落叶小乔木，枝干直立性强，叶长椭圆形，嫩叶有毛，花淡红色或白色，果实球形红色\t0\t中国北方、西南\t著名观赏花木，花姿潇洒，有花贵妃之称，与垂丝海棠并称海棠双姝。\t淡红色、白色\t落叶\t苹果\t园林、庭院"
+  },
+  {
+    "id\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass_name\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat": "252\t碧桃\tOrnamental Peach\tPrunus persica\t植物界\t被子植物门\t双子叶纲\t蔷薇目\t蔷薇科\t李属\t碧桃\t\t被子植物·乔木\t落叶小乔木，叶披针形，花重瓣粉红色或白色，栽培品种极多\t0\t中国各地栽培\t著名观赏花木，重瓣艳丽，春季开花如霞，常植于庭院公园。\t粉红色、白色\t落叶\t核果\t园林、庭院"
+  }
+]

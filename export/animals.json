@@ -1,0 +1,503 @@
+[
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "1\tanimal\t大熊猫\tAiluropoda melanoleuca\tAiluropoda melanoleuca\t动物界\t脊索动物门\t哺乳纲\t食肉目\t熊科\t大熊猫属\t大熊猫属种\t华北亚种/四川亚种\t哺乳动物\t体型似熊，黑白相间，竹子为主食\t1\t四川、陕西、甘肃\t中国特有物种，国家一级保护动物，世界自然基金会标志\tNULL\tNULL\tNULL\tNULL\t2026-03-22 20:36:26"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "3\tanimal\t华南虎\tSouth China Tiger\tPanthera tigris amoyensis\t动物界\t脊索动物门\t哺乳纲\t食肉目\t猫科\t豹属\t虎种\t华南虎亚种\t哺乳动物\t体型较小，条纹狭窄，体色较深\t1\t已野外灭绝，仅存人工饲养\t中国特有虎亚种，已野外灭绝，被列为世界最濒危虎种\tNULL\tNULL\tNULL\tNULL\t2026-03-22 20:36:26"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "4\tanimal\t朱鹮\tNipponia nippon\tNipponia Nippon\t动物界\t脊索动物门\t鸟纲\t鹮形目\t朱鹮科\t朱鹮属\t朱鹮种\t无亚种分化\t鸟类\t白色羽毛，繁殖期脸颈沾灰黑色\t1\t陕西、浙江、河南\t曾一度被认为已灭绝，1981年重新发现，国家一级保护\tNULL\tNULL\tNULL\tNULL\t2026-03-22 20:36:26"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "5\tanimal\t白鳍豚\tYangtze River Dolphin\tLipotes vexillifer\t动物界\t脊索动物门\t哺乳纲\t鲸目\t白鳍豚科\t白鳍豚属\t白鳍豚种\t无亚种\t哺乳动物\t体呈纺锤形，背部青灰色，腹部白色\t1\t长江中下游\t中国特有淡水鲸，已功能性灭绝，有活化石之称\tNULL\tNULL\tNULL\tNULL\t2026-03-22 20:36:26"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "6\tanimal\t扬子鳄\tAlligator sinensis\tAlligator sinensis\t动物界\t脊索动物门\t爬行纲\t鳄目\t鼍科\t扬子鳄属\t扬子鳄种\t无亚种\t爬行动物\t体型为鳄类中最小，成年约1.5-2米\t1\t安徽、浙江、江苏\t中国特有，是鳄类中较原始的种类，对研究恐龙有参考价值\tNULL\tNULL\tNULL\tNULL\t2026-03-22 20:36:26"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "7\tanimal\t黑颈鹤\tGrus nigricollis\tGrus nigricollis\t动物界\t脊索动物门\t鸟纲\t鹤形目\t鹤科\t鹤属\t黑颈鹤种\t无亚种分化\t鸟类\t全身大部分灰白色，颈部和头部黑色\t1\t西藏、青海、四川、云南\t世界唯一生长繁殖在高原的鹤类，一夫一妻制\tNULL\tNULL\tNULL\tNULL\t2026-03-22 20:36:26"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "8\tanimal\t藏羚羊\tTibetan Antelope\tPantholops hodgsonii\t动物界\t脊索动物门\t哺乳纲\t偶蹄目\t牛科\t藏羚属\t藏羚种\t无亚种分化\t哺乳动物\t毛绒轻柔，角形笔直，浅红棕色调\t1\t西藏、青海、新疆\t青藏高原特有，绒毛（沙吐司）极其珍贵，曾遭大规模盗猎\tNULL\tNULL\tNULL\tNULL\t2026-03-22 20:36:26"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "9\tanimal\t扭角羚\tBudorcas taxicolor\tBudorcas taxicolor\t动物界\t脊索动物门\t哺乳纲\t偶蹄目\t牛科\t扭角羚属\t扭角羚种\t4个亚种\t哺乳动物\t体型似牛又似羊，雌雄均有角\t0\t四川、陕西、甘肃、云南\t又称羚牛，不丹国兽，高海拔分布\tNULL\tNULL\tNULL\tNULL\t2026-03-22 20:36:26"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "10\tanimal\t斑海豹\tSpotted Seal\tPhoca largha\t动物界\t脊索动物门\t哺乳纲\t鳍足目\t海豹科\t斑海豹属\t斑海豹种\t无亚种分化\t哺乳动物\t身体呈纺锤形，全身被毛，斑点花纹\t1\t渤海、黄海\t中国北方海域唯一的鳍足类\tNULL\tNULL\tNULL\tNULL\t2026-03-22 20:36:26"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "11\tanimal\t中华白海豚\tChinese White Dolphin\tSousa chinensis\t动物界\t脊索动物门\t哺乳纲\t鲸目\t海豚科\t白海豚属\t中华白海豚种\t无亚种\t哺乳动物\t成熟个体呈粉红色，背鳍灰色\t1\t南海、珠江口\t华南沿海常见，被视为吉祥象征，素有海上大熊猫之称\tNULL\tNULL\tNULL\tNULL\t2026-03-22 20:36:26"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "12\tanimal\t麋鹿\tPere David Deer\tElaphurus davidianus\t动物界\t脊索动物门\t哺乳纲\t偶蹄目\t鹿科\t麋鹿属\t麋鹿种\t无亚种\t哺乳动物\t角似鹿，颈似骆驼，蹄似牛，尾似驴，称四不像\t1\t江苏、北京\t中国特有，原分布长江黄河流域，已野外灭绝后重新引入\tNULL\tNULL\tNULL\tNULL\t2026-03-22 20:36:26"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "13\tanimal\t东北虎\tSiberian Tiger\tPanthera tigris altaica\t动物界\t脊索动物门\t哺乳纲\t食肉目\t猫科\t豹属\t虎种\t东北虎亚种\t哺乳动物\t体型最大的虎亚种，夏毛棕黄色，冬毛淡黄色\t1\t黑龙江、吉林\t又称阿穆尔虎，曾分布广泛，现仅存于俄罗斯远东和中国东北\tNULL\tNULL\tNULL\tNULL\t2026-03-22 20:36:26"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "14\tanimal\t丹顶鹤\tGrus japonensis\tGrus japonensis\t动物界\t脊索动物门\t鸟纲\t鹤形目\t鹤科\t鹤属\t丹顶鹤种\t2个亚种(独立种群)\t鸟类\t全身大部分白色，头顶红色，飞行时呈V字\t1\t黑龙江、吉林、江苏\t中国传统文化吉祥象征，寿命可达50-60年\tNULL\tNULL\tNULL\tNULL\t2026-03-22 20:36:26"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "15\tanimal\t孔雀\tIndian Peafowl\tPavo cristatus\t动物界\t脊索动物门\t鸟纲\t鸡形目\t雉科\t孔雀属\t绿孔雀种/蓝孔雀种\t绿孔雀3亚种\t鸟类\t雄性有华丽尾屏，可展开成扇形\t0\t云南(绿孔雀)\t绿孔雀为中国原生，蓝孔雀为引进\tNULL\tNULL\tNULL\tNULL\t2026-03-22 20:36:26"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "16\tanimal\t眼镜蛇\tChinese Cobra\tNaja atra\t动物界\t脊索动物门\t爬行纲\t有鳞目\t眼镜蛇科\t眼镜蛇属\t舟山眼镜蛇种\t多亚种\t爬行动物\t颈部可膨胀呈眼镜状花纹，剧毒\t0\t南方各省\t毒性强烈，紧急情况可喷射毒液\tNULL\tNULL\tNULL\tNULL\t2026-03-22 20:36:26"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "17\tanimal\t中华鲟\tAcipenser sinensis\tAcipenser sinensis\t动物界\t脊索动物门\t鱼纲\t鲟形目\t鲟科\t鲟属\t中华鲟种\t无亚种\t鱼类\t体长可达5米，寿命可达40年\t1\t长江、沿海\t长江中最大的鱼，有水中大熊猫之称\tNULL\tNULL\tNULL\tNULL\t2026-03-22 20:36:26"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "18\tanimal\t大鲵\tAndrias davidianus\tAndrias davidianus\t动物界\t脊索动物门\t两栖纲\t有尾目\t隐鳃鲵科\t大鲵属\t大鲵种\t5-8个地理种群\t两栖动物\t世界最大两栖动物，体长可达1.8米\t1\t长江、珠江流域\t叫声似婴儿啼哭，故称娃娃鱼，国家二级保护\tNULL\tNULL\tNULL\tNULL\t2026-03-22 20:36:26"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "19\tanimal\t穿山甲\tManis pentadactyla\tManis pentadactyla\t动物界\t脊索动物门\t哺乳纲\t鳞甲目\t穿山甲科\t穿山甲属\t穿山甲种\t4个亚种\t哺乳动物\t体披角质鳞片，能缩卷成球\t1\t南方各省\t特化程度高，大量被盗猎用于食用和入药\tNULL\tNULL\tNULL\tNULL\t2026-03-22 20:36:26"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "20\tanimal\t梅花鹿\tCervus nippon\tCervus nippon\t动物界\t脊索动物门\t哺乳纲\t偶蹄目\t鹿科\t鹿属\t梅花鹿种\t7-8个亚种\t哺乳动物\t夏毛红棕色有白斑，冬毛棕褐色\t0\t东北、华北、华东、华南\t中国特产观赏动物，鹿茸来源\tNULL\tNULL\tNULL\tNULL\t2026-03-22 20:36:26"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "22\tanimal\t棕熊\tUrsus arctos\tUrsus arctos\t动物界\t脊索动物门\t哺乳纲\t食肉目\t熊科\t熊属\t熊属种\t天山亚种/东北亚种\t哺乳动物\t体型最大的陆地食肉动物之一，毛色从深褐到金色不等\t0\t东北、西北、西南\t中国有3个亚种，主要分布在新疆、青海、甘肃、四川等地\tNULL\tNULL\tNULL\tNULL\t2026-03-22 21:40:28"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "23\tanimal\t黑熊\tUrsus thibetanus\tUrsus thibetanus\t动物界\t脊索动物门\t哺乳纲\t食肉目\t熊科\t熊属\t熊属种\t四川亚种/西藏亚种\t哺乳动物\t胸部有白色V形斑纹，又称月熊\t1\t四川、陕西、甘肃、云南、西藏\t中国分布最广的熊类，常在海拔1000-3000m山林活动\tNULL\tNULL\tNULL\tNULL\t2026-03-22 21:40:28"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "24\tanimal\t马来熊\tHelarctos malayanus\tHelarctos malayanus\t动物界\t脊索动物门\t哺乳纲\t食肉目\t熊科\t马来熊属\t马来熊属种\t无亚种\t哺乳动物\t体型最小的熊，胸部有橙色马蹄形斑纹，舌头很长\t1\t云南南部、西藏\t主要生活在热带雨林中，数量稀少\tNULL\tNULL\tNULL\tNULL\t2026-03-22 21:40:28"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "25\tanimal\t懒熊\tSloth Bear\tMelursus ursinus\t动物界\t脊索动物门\t哺乳纲\t食肉目\t熊科\t懒熊属\t懒熊属种\t无亚种\t哺乳动物\t毛长而乱，胸部有独特的浅色斑纹，以白蚁为主食\t1\t云南\t主要分布于南亚，在中国极为罕见\tNULL\tNULL\tNULL\tNULL\t2026-03-22 21:40:28"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "26\tanimal\t猕猴\tRhesus Macaque\tMacaca mulatta\t动物界\t脊索动物门\t哺乳纲\t灵长目\t猴科\t猕猴属\t猕猴种\t7个亚种\t哺乳动物\t体型较小，面部裸露，臀部有胼胝\t0\t全国大部分地区\t中国分布最广的猴类，适应能力强\tNULL\tNULL\tNULL\tNULL\t2026-03-22 21:40:28"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "27\tanimal\t川金丝猴\tRhinopithecus roxellana\tRhinopithecus roxellana\t动物界\t脊索动物门\t哺乳纲\t灵长目\t猴科\t仰鼻猴属\t川金丝猴种\t3个亚种\t哺乳动物\t金色长毛，鼻梁极短，面部蓝色\t1\t四川、甘肃、陕西、湖北\t中国特有种，高海拔分布最广的灵长类\tNULL\tNULL\tNULL\tNULL\t2026-03-22 21:40:28"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "28\tanimal\t黔金丝猴\tRhinopithecus brelichi\tRhinopithecus brelichi\t动物界\t脊索动物门\t哺乳纲\t灵长目\t猴科\t仰鼻猴属\t黔金丝猴种\t无亚种\t哺乳动物\t体型似川金丝猴但毛色不同，头顶灰褐色\t1\t贵州梵净山\t中国特有，仅分布于贵州梵净山\tNULL\tNULL\tNULL\tNULL\t2026-03-22 21:40:28"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "29\tanimal\t滇金丝猴\tRhinopithecus bieti\tRhinopithecus bieti\t动物界\t脊索动物门\t哺乳纲\t灵长目\t猴科\t仰鼻猴属\t滇金丝猴种\t3个亚种\t哺乳动物\t毛色以黑白为主，面部粉红，分布海拔最高\t1\t云南、西藏、四川\t分布海拔最高的灵长类动物\tNULL\tNULL\tNULL\tNULL\t2026-03-22 21:40:28"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "30\tanimal\t菲氏叶猴\tPhayres Langur\tTrachypithecus phayrei\t动物界\t脊索动物门\t哺乳纲\t灵长目\t猴科\t乌叶猴属\t菲氏叶猴种\t无亚种\t哺乳动物\t全身银灰色，眼唇周围色浅\t1\t云南\t中国有分布但数量稀少\tNULL\tNULL\tNULL\tNULL\t2026-03-22 21:40:28"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "31\tanimal\t黑叶猴\tTrachypithecus francoisi\tTrachypithecus francoisi\t动物界\t脊索动物门\t哺乳纲\t灵长目\t猴科\t乌叶猴属\t黑叶猴种\t4个亚种\t哺乳动物\t通体黑色，面部周围有白毛\t1\t广西、贵州\t中国特有石山叶猴\tNULL\tNULL\tNULL\tNULL\t2026-03-22 21:40:28"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "32\tanimal\t白头叶猴\tTrachypithecus leucocephalus\tTrachypithecus leucocephalus\t动物界\t脊索动物门\t哺乳纲\t灵长目\t猴科\t乌叶猴属\t白头叶猴种\t无亚种\t哺乳动物\t头部白色，身体黑色\t1\t广西\t中国特有，全球仅存约1000只\tNULL\tNULL\tNULL\tNULL\t2026-03-22 21:40:28"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "33\tanimal\t长臂猿\tGibbon\tNomascus\t动物界\t脊索动物门\t哺乳纲\t灵长目\t长臂猿科\t长臂猿属\t多种\t多亚种\t哺乳动物\t前臂极长，无尾，树栖性强，鸣叫声响亮\t1\t云南、海南、广西\t中国有6种，全部濒危\tNULL\tNULL\tNULL\tNULL\t2026-03-22 21:40:28"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "34\tanimal\t藏酋猴\tMacaca thibetana\tMacaca thibetana\t动物界\t脊索动物门\t哺乳纲\t灵长目\t猴科\t猕猴属\t藏酋猴种\t无亚种\t哺乳动物\t体型较大，面部深色，体型粗壮\t0\t四川、西藏、云南、贵州\t中国特有猕猴属动物\tNULL\tNULL\tNULL\tNULL\t2026-03-22 21:40:28"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "35\tanimal\t鸿雁\tSwan Goose\tAnser cygnoides\t动物界\t脊索动物门\t鸟纲\t雁形目\t鸭科\t雁属\t鸿雁种\t无亚种\t鸟类\t体型较大，喙黑色，鸣声响亮\t0\t东北、华北、西北\t中国北方常见的迁徙鸟类\tNULL\tNULL\tNULL\tNULL\t2026-03-22 21:44:53"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "36\tanimal\t豆雁\tBean Goose\tAnser fabalis\t动物界\t脊索动物门\t鸟纲\t雁形目\t鸭科\t雁属\t豆雁种\t3亚种\t鸟类\t体型似鸿雁但喙橙黄色\t0\t东北、华东、华中\t冬季迁徙到中国东部和中部\tNULL\tNULL\tNULL\tNULL\t2026-03-22 21:44:53"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "37\tanimal\t白额雁\tWhite-fronted Goose\tAnser albifrons\t动物界\t脊索动物门\t鸟纲\t雁形目\t鸭科\t雁属\t白额雁种\t5亚种\t鸟类\t额部有白斑，腹部有黑色横斑\t0\t华东、华中\t迁徙鸟类\tNULL\tNULL\tNULL\tNULL\t2026-03-22 21:44:53"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "38\tanimal\t小天鹅\tTundra Swan\tCygnus columbianus\t动物界\t脊索动物门\t鸟纲\t雁形目\t鸭科\t天鹅属\t小天鹅种\t无亚种\t鸟类\t通体白色，喙基部黄色，体型较小\t0\t东北、华东\t冬季迁徙鸟类\tNULL\tNULL\tNULL\tNULL\t2026-03-22 21:44:53"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "39\tanimal\t大天鹅\tCygnus cygnus\tCygnus cygnus\t动物界\t脊索动物门\t鸟纲\t雁形目\t鸭科\t天鹅属\t大天鹅种\t无亚种\t鸟类\t通体白色，喙基部黄色超过鼻孔，体型大\t0\t东北、西北、西南\t繁殖于北方，冬季南迁\tNULL\tNULL\tNULL\tNULL\t2026-03-22 21:44:53"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "40\tanimal\t绿头鸭\tMallard\tAnas platyrhynchos\t动物界\t脊索动物门\t鸟纲\t雁形目\t鸭科\t鸭属\t绿头鸭种\t无亚种\t鸟类\t雄鸟头颈绿色，具金属光泽\t0\t全国\t最常见的野鸭，适应性强\tNULL\tNULL\tNULL\tNULL\t2026-03-22 21:44:53"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "41\tanimal\t斑嘴鸭\tChinese Spot-billed Duck\tAnas zonorhyncha\t动物界\t脊索动物门\t鸟纲\t雁形目\t鸭科\t鸭属\t斑嘴鸭种\t无亚种\t鸟类\t喙端黑色，具黄色斑纹\t0\t全国\t中国特有的常见野鸭\tNULL\tNULL\tNULL\tNULL\t2026-03-22 21:44:53"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "42\tanimal\t普通秋沙鸭\tCommon Merganser\tMergus merganser\t动物界\t脊索动物门\t鸟纲\t雁形目\t鸭科\t秋沙鸭属\t普通秋沙鸭种\t3亚种\t鸟类\t喙狭长而具钩，潜水捕鱼\t0\t东北、华北、西北\t冬季迁徙鸟类\tNULL\tNULL\tNULL\tNULL\t2026-03-22 21:44:53"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "43\tanimal\t环颈雉\tRing-necked Pheasant\tPhasianus colchicus\t动物界\t脊索动物门\t鸟纲\t鸡形目\t雉科\t雉属\t环颈雉种\t30+亚种\t鸟类\t雄鸟色彩艳丽，具白色颈环\t0\t全国\t分布最广的雉类\tNULL\tNULL\tNULL\tNULL\t2026-03-22 21:44:53"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "44\tanimal\t白鹇\tLophura nycthemera\tLophura nycthemera\t动物界\t脊索动物门\t鸟纲\t鸡形目\t雉科\t鹇属\t白鹇种\t15亚种\t鸟类\t雄鸟上体白色，具细密黑纹\t0\t华南、西南\t中国特有鸟类\tNULL\tNULL\tNULL\tNULL\t2026-03-22 21:44:53"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "45\tanimal\t黑鹇\tSwinhoes Pheasant\tLophura swinhoii\t动物界\t脊索动物门\t鸟纲\t鸡形目\t雉科\t鹇属\t黑鹇种\t无亚种\t鸟类\t雄鸟全身黑色，具金属光泽\t1\t华南\t中国特有\tNULL\tNULL\tNULL\tNULL\t2026-03-22 21:44:53"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "46\tanimal\t红腹锦鸡\tGolden Pheasant\tChrysolophus pictus\t动物界\t脊索动物门\t鸟纲\t鸡形目\t雉科\t锦鸡属\t红腹锦鸡种\t无亚种\t鸟类\t雄鸟头胸金黄色，腹部红色，极为艳丽\t0\t西南、华中\t中国特有，常作为国鸟候选\tNULL\tNULL\tNULL\tNULL\t2026-03-22 21:44:53"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "47\tanimal\t白腹锦鸡\tLady Amherst Pheasant\tChrysolophus amherstiae\t动物界\t脊索动物门\t鸟纲\t鸡形目\t雉科\t锦鸡属\t白腹锦鸡种\t无亚种\t鸟类\t雄鸟色彩艳丽，头顶铜绿，腹部白色\t0\t西南\t中国特有\tNULL\tNULL\tNULL\tNULL\t2026-03-22 21:44:53"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "48\tanimal\t原鸡\tRed Junglefowl\tGallus gallus\t动物界\t脊索动物门\t鸟纲\t鸡形目\t雉科\t原鸡属\t原鸡种\t5亚种\t鸟类\t家鸡的野生祖先，雄鸟啼声嘹亮\t0\t华南、云南\t家鸡的祖先\tNULL\tNULL\tNULL\tNULL\t2026-03-22 21:44:53"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "49\tanimal\t勺鸡\tLady Amhersts Pheasant\tPucrasia macrolopha\t动物界\t脊索动物门\t鸟纲\t鸡形目\t雉科\t勺鸡属\t勺鸡种\t9亚种\t鸟类\t雄鸟具显著的耳羽束，棕黄色羽冠\t0\t华北、华东、西南\t栖息于山地林区\tNULL\tNULL\tNULL\tNULL\t2026-03-22 21:44:53"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "50\tanimal\t鹌鹑\tJapanese Quail\tCoturnix japonica\t动物界\t脊索动物门\t鸟纲\t鸡形目\t雉科\t鹌鹑属\t鹌鹑种\t无亚种\t鸟类\t体型小，羽色暗淡，迁徙性强\t0\t全国\t经济价值高，常见鸟类\tNULL\tNULL\tNULL\tNULL\t2026-03-22 21:44:53"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "51\tanimal\t石鸡\tRock Partridge\tAlectoris chukar\t动物界\t脊索动物门\t鸟纲\t鸡形目\t雉科\t石鸡属\t石鸡种\t9亚种\t鸟类\t眉纹显著，鸣声嘹亮\t0\t华北、西北、西南\t栖息于岩石山坡\tNULL\tNULL\tNULL\tNULL\t2026-03-22 21:44:53"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "52\tanimal\t灰鹤\tCommon Crane\tGrus grus\t动物界\t脊索动物门\t鸟纲\t鹤形目\t鹤科\t鹤属\t灰鹤种\t无亚种\t鸟类\t全身灰色，头颈黑色，具红色肉冠\t0\t东北、华北、西北、西南\t迁徙鸟类\tNULL\tNULL\tNULL\tNULL\t2026-03-22 21:44:53"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "53\tanimal\t白鹤\tGrus leucogeranus\tLeucogeranus leucogeranus\t动物界\t脊索动物门\t鸟纲\t鹤形目\t鹤科\t白鹤属\t白鹤种\t无亚种\t鸟类\t通体白色，喙红色，极优雅\t1\t东北、华东\t世界极危物种\tNULL\tNULL\tNULL\tNULL\t2026-03-22 21:44:53"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "54\tanimal\t蓑羽鹤\tDemoiselle Crane\tAnthropoides virgo\t动物界\t脊索动物门\t鸟纲\t鹤形目\t鹤科\t蓑羽鹤属\t蓑羽鹤种\t无亚种\t鸟类\t体型最小鹤类，眼后有白色耳羽\t0\t西北、西南\t繁殖于高原地区\tNULL\tNULL\tNULL\tNULL\t2026-03-22 21:44:53"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "55\tanimal\t凤头麦鸡\tNorthern Lapwing\tVanellus vanellus\t动物界\t脊索动物门\t鸟纲\t鹤形目\t鸻科\t麦鸡属\t凤头麦鸡种\t无亚种\t鸟类\t具显著凤头，飞行时白色翼斑明显\t0\t华东、华中\t湿地鸟类\tNULL\tNULL\tNULL\tNULL\t2026-03-22 21:44:53"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "56\tanimal\t普通鸬鹚\tGreat Cormorant\tPhalacrocorax carbo\t动物界\t脊索动物门\t鸟纲\t鹈形目\t鸬鹚科\t鸬鹚属\t普通鸬鹚种\t6亚种\t鸟类\t通体黑色，喙长而具钩，潜水捕鱼\t0\t全国\t常被驯养捕鱼\tNULL\tNULL\tNULL\tNULL\t2026-03-22 21:44:53"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "57\tanimal\t白鹭\tLittle Egret\tEgretta garzetta\t动物界\t脊索动物门\t鸟纲\t鹈形目\t鹭科\t白鹭属\t白鹭种\t无亚种\t鸟类\t通体雪白，繁殖期有丝状羽冠\t0\t全国\t湿地常见\tNULL\tNULL\tNULL\tNULL\t2026-03-22 21:44:53"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "58\tanimal\t苍鹭\tGrey Heron\tArdea cinerea\t动物界\t脊索动物门\t鸟纲\t鹈形目\t鹭科\t鹭属\t苍鹭种\t无亚种\t鸟类\t体型较大，颈长，站立时呈灰白色\t0\t全国\t湿地鸟类\tNULL\tNULL\tNULL\tNULL\t2026-03-22 21:44:53"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "59\tanimal\t大白鹭\tGreat Egret\tArdea alba\t动物界\t脊索动物门\t鸟纲\t鹈形目\t鹭科\t鹭属\t大白鹭种\t无亚种\t鸟类\t体型大白鹭，喙黄色\t0\t全国\t湿地鸟类\tNULL\tNULL\tNULL\tNULL\t2026-03-22 21:44:53"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "60\tanimal\t夜鹭\tBlack-crowned Night Heron\tNycticorax nycticorax\t动物界\t脊索动物门\t鸟纲\t鹈形目\t鹭科\t夜鹭属\t夜鹭种\t4亚种\t鸟类\t夜行性，眼红色\t0\t全国\t夜行性鹭类\tNULL\tNULL\tNULL\tNULL\t2026-03-22 21:44:53"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "61\tanimal\t黄嘴白鹭\tChinese Egret\tEgretta eulophotes\t动物界\t脊索动物门\t鸟纲\t鹈形目\t鹭科\t白鹭属\t黄嘴白鹭种\t无亚种\t鸟类\t通体白色，喙黄色\t1\t沿海\t世界濒危物种\tNULL\tNULL\tNULL\tNULL\t2026-03-22 21:44:53"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "62\tanimal\t金雕\tAquila chrysaetos\tAquila chrysaetos\t动物界\t脊索动物门\t鸟纲\t鹰形目\t鹰科\t雕属\t金雕种\t无亚种\t鸟类\t体型最大雕类，具显著金黄色羽冠\t1\t东北、华北、西北\t国家一级保护\tNULL\tNULL\tNULL\tNULL\t2026-03-22 21:44:53"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "63\tanimal\t白肩雕\tAquila heliaca\tAquila heliaca\t动物界\t脊索动物门\t鸟纲\t鹰形目\t鹰科\t雕属\t白肩雕种\t无亚种\t鸟类\t肩部白色，体型大\t1\t东北、华东\t世界易危\tNULL\tNULL\tNULL\tNULL\t2026-03-22 21:44:53"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "64\tanimal\t草原雕\tSteppe Eagle\tAquila nipalensis\t动物界\t脊索动物门\t鸟纲\t鹰形目\t鹰科\t雕属\t草原雕种\t无亚种\t鸟类\t体型较大，羽色变化大\t1\t西北\t迁徙鸟类\tNULL\tNULL\tNULL\tNULL\t2026-03-22 21:44:53"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "65\tanimal\t白尾鹞\tHen Harrier\tCircus cyaneus\t动物界\t脊索动物门\t鸟纲\t鹰形目\t鹰科\t鹞属\t白尾鹞种\t无亚种\t鸟类\t雄鸟灰蓝色，白色腰明显\t0\t东北、西北\t迁徙鸟类\tNULL\tNULL\tNULL\tNULL\t2026-03-22 21:44:53"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "66\tanimal\t雀鹰\tEurasian Sparrowhawk\tAccipiter nisus\t动物界\t脊索动物门\t鸟纲\t鹰形目\t鹰科\t鹰属\t雀鹰种\t无亚种\t鸟类\t体型较小，雌雄羽色差异大\t0\t全国\t森林鸟类\tNULL\tNULL\tNULL\tNULL\t2026-03-22 21:44:53"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "67\tanimal\t苍鹰\tAccipiter gentilis\tAccipiter gentilis\t动物界\t脊索动物门\t鸟纲\t鹰形目\t鹰科\t鹰属\t苍鹰种\t无亚种\t鸟类\t体型较大，飞行迅速\t0\t东北、华北\t森林猛禽\tNULL\tNULL\tNULL\tNULL\t2026-03-22 21:44:53"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "68\tanimal\t普通鵟\tCommon Buzzard\tButeo buteo\t动物界\t脊索动物门\t鸟纲\t鹰形目\t鹰科\t鵟属\t普通鵟种\t无亚种\t鸟类\t体型中等，翅宽，尾羽扇形\t0\t全国\t常见猛禽\tNULL\tNULL\tNULL\tNULL\t2026-03-22 21:44:53"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "69\tanimal\t猎隼\tFalco cherrug\tFalco cherrug\t动物界\t脊索动物门\t鸟纲\t隼形目\t隼科\t隼属\t猎隼种\t无亚种\t鸟类\t体型较大，飞行极快\t1\t西北\t国家一级保护\tNULL\tNULL\tNULL\tNULL\t2026-03-22 21:44:53"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "70\tanimal\t游隼\tFalco peregrinus\tFalco peregrinus\t动物界\t脊索动物门\t鸟纲\t隼形目\t隼科\t隼属\t游隼种\t无亚种\t鸟类\t飞行速度最快的动物之一\t0\t全国\t分布最广的隼类\tNULL\tNULL\tNULL\tNULL\t2026-03-22 21:44:53"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "71\tanimal\t红隼\tFalco tinnunculus\tFalco tinnunculus\t动物界\t脊索动物门\t鸟纲\t隼形目\t隼科\t隼属\t红隼种\t无亚种\t鸟类\t小型隼类，常悬停空中\t0\t全国\t常见猛禽\tNULL\tNULL\tNULL\tNULL\t2026-03-22 21:44:53"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "72\tanimal\t雕鸮\tEurasian Eagle Owl\tBubo bubo\t动物界\t脊索动物门\t鸟纲\t鸮形目\t鸱鸮科\t雕鸮属\t雕鸮种\t无亚种\t鸟类\t体型最大鸮类，耳羽显著\t0\t全国\t夜行性猛禽\tNULL\tNULL\tNULL\tNULL\t2026-03-22 21:44:53"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "73\tanimal\t长耳鸮\tLong-eared Owl\tAsio otus\t动物界\t脊索动物门\t鸟纲\t鸮形目\t鸱鸮科\t耳鸮属\t长耳鸮种\t无亚种\t鸟类\t具显著耳羽束\t0\t全国\t夜行性\tNULL\tNULL\tNULL\tNULL\t2026-03-22 21:44:53"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "74\tanimal\t短耳鸮\tShort-eared Owl\tAsio flammeus\t动物界\t脊索动物门\t鸟纲\t鸮形目\t鸱鸮科\t耳鸮属\t短耳鸮种\t无亚种\t鸟类\t面盘显著，眼黄色\t0\t全国\t晨昏活动\tNULL\tNULL\tNULL\tNULL\t2026-03-22 21:44:53"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "75\tanimal\t草鸮\tBarn Owl\tTyto alba\t动物界\t脊索动物门\t鸟纲\t鸮形目\t草鸮科\t草鸮属\t草鸮种\t无亚种\t鸟类\t心形面盘，白色羽毛\t0\t华南、西南\t栖息于草丛\tNULL\tNULL\tNULL\tNULL\t2026-03-22 21:44:53"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "76\tanimal\t领角鸮\tCollared Scops Owl\tOtus lettia\t动物界\t脊索动物门\t鸟纲\t鸮形目\t鸱鸮科\t角鸮属\t领角鸮种\t无亚种\t鸟类\t小型鸮类，具显著角羽\t0\t华南、西南\t夜行性\tNULL\tNULL\tNULL\tNULL\t2026-03-22 21:44:53"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "77\tanimal\t普通翠鸟\tCommon Kingfisher\tAlcedo atthis\t动物界\t脊索动物门\t鸟纲\t佛法僧目\t翠鸟科\t翠鸟属\t普通翠鸟种\t无亚种\t鸟类\t体型小，羽色艳丽，喙长\t0\t全国\t常见于水域\tNULL\tNULL\tNULL\tNULL\t2026-03-22 21:44:53"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "78\tanimal\t蓝翡翠\tBlack-capped Kingfisher\tHalcyon pileata\t动物界\t脊索动物门\t鸟纲\t佛法僧目\t翠鸟科\t翡翠属\t蓝翡翠种\t无亚种\t鸟类\t头胸黑色，腹面橙色\t0\t华东、华南\t沿海和内陆水域\tNULL\tNULL\tNULL\tNULL\t2026-03-22 21:44:53"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "79\tanimal\t冠鱼狗\tCrested Kingfisher\tMegaceryle lugubris\t动物界\t脊索动物门\t鸟纲\t佛法僧目\t翠鸟科\t大鱼狗属\t冠鱼狗种\t无亚种\t鸟类\t体型大，黑白相间羽色\t0\t华东、华南、西南\t山涧溪流\tNULL\tNULL\tNULL\tNULL\t2026-03-22 21:44:53"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "80\tanimal\t戴胜\tEurasian Hoopoe\tUpupa epops\t动物界\t脊索动物门\t鸟纲\t佛法僧目\t戴胜科\t戴胜属\t戴胜种\t无亚种\t鸟类\t羽冠显著，喙细长下弯\t0\t全国\t常见留鸟\tNULL\tNULL\tNULL\tNULL\t2026-03-22 21:44:53"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "81\tanimal\t斑鸠\tOriental Turtle Dove\tStreptopelia orientalis\t动物界\t脊索动物门\t鸟纲\t鸽形目\t鸠鸽科\t斑鸠属\t斑鸠种\t6亚种\t鸟类\t颈侧有黑白斑纹\t0\t全国\t常见鸟类\tNULL\tNULL\tNULL\tNULL\t2026-03-22 21:44:53"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "82\tanimal\t大斑啄木鸟\tGreat Spotted Woodpecker\tDendrocopos major\t动物界\t脊索动物门\t鸟纲\t鴷形目\t啄木鸟科\t啄木鸟属\t大斑啄木鸟种\t无亚种\t鸟类\t肩部有白斑，啄木声清脆\t0\t全国\t森林益鸟\tNULL\tNULL\tNULL\tNULL\t2026-03-22 21:44:53"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "83\tanimal\t白腹黑啄木鸟\tWhite-bellied Black Woodpecker\tDryocopus javensis\t动物界\t脊索动物门\t鸟纲\t鴷形目\t啄木鸟科\t黑啄木鸟属\t白腹黑啄木鸟种\t无亚种\t鸟类\t体型大，黑色为主\t0\t东北、西南\t原始森林鸟类\tNULL\tNULL\tNULL\tNULL\t2026-03-22 21:44:53"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "84\tanimal\t喜鹊\tMagpie\tPica pica\t动物界\t脊索动物门\t鸟纲\t雀形目\t鸦科\t鹊属\t喜鹊种\t无亚种\t鸟类\t黑白相间，长尾，具蓝色光泽\t0\t全国\t常见留鸟\tNULL\tNULL\tNULL\tNULL\t2026-03-22 21:44:53"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "85\tanimal\t灰喜鹊\tAzure-winged Magpie\tCyanopica cyanus\t动物界\t脊索动物门\t鸟纲\t雀形目\t鸦科\t灰喜鹊属\t灰喜鹊种\t无亚种\t鸟类\t头顶灰色，双翼蓝色\t0\t华北、华东\t常见留鸟\tNULL\tNULL\tNULL\tNULL\t2026-03-22 21:44:53"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "86\tanimal\t红嘴蓝鹊\tRed-billed Blue Magpie\tUrocissa erythrorhyncha\t动物界\t脊索动物门\t鸟纲\t雀形目\t鸦科\t蓝鹊属\t红嘴蓝鹊种\t无亚种\t鸟类\t喙红色，尾羽极长，蓝白色\t0\t华北、西南\t常见留鸟\tNULL\tNULL\tNULL\tNULL\t2026-03-22 21:44:53"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "87\tanimal\t大嘴乌鸦\tLarge-billed Crow\tCorvus macrorhynchos\t动物界\t脊索动物门\t鸟纲\t雀形目\t鸦科\t鸦属\t大嘴乌鸦种\t无亚种\t鸟类\t通体黑色，喙粗大\t0\t全国\t常见留鸟\tNULL\tNULL\tNULL\tNULL\t2026-03-22 21:44:53"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "88\tanimal\t画眉\tChinese Hwamei\tGarrulax canorus\t动物界\t脊索动物门\t鸟纲\t雀形目\t噪鹛科\t噪鹛属\t画眉种\t无亚种\t鸟类\t眉纹显著，鸣声悦耳\t0\t华东、华南、西南\t著名笼养鸟\tNULL\tNULL\tNULL\tNULL\t2026-03-22 21:44:53"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "89\tanimal\t黑尾蜡嘴雀\tBlack-tailed Hawfinch\tEophona migratoria\t动物界\t脊索动物门\t鸟纲\t雀形目\t燕雀科\t蜡嘴雀属\t黑尾蜡嘴雀种\t无亚种\t鸟类\t喙粗大呈黄色\t0\t东北、华东\t迁徙鸟类\tNULL\tNULL\tNULL\tNULL\t2026-03-22 21:44:53"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "90\tanimal\t黄雀\tEurasian Siskin\tSpinus spinus\t动物界\t脊索动物门\t鸟纲\t雀形目\t燕雀科\t黄雀属\t黄雀种\t无亚种\t鸟类\t雄鸟金黄色，翅黑色\t0\t全国\t常见笼鸟\tNULL\tNULL\tNULL\tNULL\t2026-03-22 21:44:53"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "91\tanimal\t云雀\tEurasian Skylark\tAlauda arvensis\t动物界\t脊索动物门\t鸟纲\t雀形目\t百灵科\t云雀属\t云雀种\t无亚种\t鸟类\t羽色沙褐，鸣声动听，能悬停飞行时鸣唱\t0\t全国\t著名鸣鸟\tNULL\tNULL\tNULL\tNULL\t2026-03-22 21:44:53"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "92\tanimal\t家燕\tBarn Swallow\tHirundo rustica\t动物界\t脊索动物门\t鸟纲\t雀形目\t燕科\t燕属\t家燕种\t无亚种\t鸟类\t尾羽深叉，飞行轻盈\t0\t全国\t夏候鸟\tNULL\tNULL\tNULL\tNULL\t2026-03-22 21:44:53"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "93\tanimal\t金翅雀\tGrey-capped Greenfinch\tChloris sinica\t动物界\t脊索动物门\t鸟纲\t雀形目\t燕雀科\t金翅雀属\t金翅雀种\t无亚种\t鸟类\t翼有金黄色斑块\t0\t全国\t常见留鸟\tNULL\tNULL\tNULL\tNULL\t2026-03-22 21:44:53"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "94\tanimal\t黑头蜡嘴雀\tJapanese Grosbeak\tEophona personata\t动物界\t脊索动物门\t鸟纲\t雀形目\t燕雀科\t蜡嘴雀属\t黑头蜡嘴雀种\t无亚种\t鸟类\t头部黑色，喙粗大黄色\t0\t东北、华东\t常见笼鸟\tNULL\tNULL\tNULL\tNULL\t2026-03-22 21:44:53"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "95\tanimal\t山麻雀\tRusset Sparrow\tPasser rutilans\t动物界\t脊索动物门\t鸟纲\t雀形目\t雀科\t雀属\t山麻雀种\t无亚种\t鸟类\t雄鸟栗色，雌鸟褐色\t0\t华北、华东、西南\t山地常见\tNULL\tNULL\tNULL\tNULL\t2026-03-22 21:44:53"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "96\tanimal\t白头鹎\tChinese Bulbul\tPycnonotus sinensis\t动物界\t脊索动物门\t鸟纲\t雀形目\t鹎科\t鹎属\t白头鹎种\t无亚种\t鸟类\t头部白色，鸣声清脆\t0\t华东、华南\t常见留鸟\tNULL\tNULL\tNULL\tNULL\t2026-03-22 21:44:53"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "97\tanimal\t红耳鹎\tRed-whiskered Bulbul\tPycnonotus jocosus\t动物界\t脊索动物门\t鸟纲\t雀形目\t鹎科\t鹎属\t红耳鹎种\t无亚种\t鸟类\t耳羽红色，冠羽显著\t0\t华南\t常见留鸟\tNULL\tNULL\tNULL\tNULL\t2026-03-22 21:44:53"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "98\tanimal\t暗绿绣眼鸟\tJapanese White-eye\tZosterops japonicus\t动物界\t脊索动物门\t鸟纲\t雀形目\t绣眼科\t绣眼属\t暗绿绣眼种\t无亚种\t鸟类\t眼周白色，体型极小\t0\t华东、华南、西南\t常见留鸟\tNULL\tNULL\tNULL\tNULL\t2026-03-22 21:44:53"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "99\tanimal\t大山雀\tGreat Tit\tParus major\t动物界\t脊索动物门\t鸟纲\t雀形目\t山雀科\t山雀属\t大山雀种\t无亚种\t鸟类\t腹部黄色，具黑色纵纹\t0\t全国\t常见留鸟\tNULL\tNULL\tNULL\tNULL\t2026-03-22 21:44:53"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "100\tanimal\t煤山雀\tCoal Tit\tPeriparus ater\t动物界\t脊索动物门\t鸟纲\t雀形目\t山雀科\t煤山雀属\t煤山雀种\t无亚种\t鸟类\t体型小，头黑色，具白冠\t0\t东北、华北、西南\t山地常见\tNULL\tNULL\tNULL\tNULL\t2026-03-22 21:44:53"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "156\tanimal\t白颊长臂猿\tNomascus leucogenys\tNomascus leucogenys\t动物界\t脊索动物门\t哺乳纲\t灵长目\t长臂猿科\t白颊长臂猿属\tNULL\tNULL\t哺乳动物\t面部有白斑，前臂极长，无尾，晨鸣\t1\t中国云南（南部）\t国家一级保护动物\tNULL\tNULL\tNULL\tNULL\t2026-03-26 09:55:06"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "157\tanimal\t黑冠长臂猿\tNomascus concolor\tNomascus concolor\t动物界\t脊索动物门\t哺乳纲\t灵长目\t长臂猿科\t黑冠长臂猿属\tNULL\tNULL\t哺乳动物\t雄性全黑，雌性黄褐色，中国特有\t1\t中国云南、四川\t国家一级保护动物\tNULL\tNULL\tNULL\tNULL\t2026-03-26 09:55:06"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "158\tanimal\t老虎\tPanthera tigris\tPanthera tigris\t动物界\t脊索动物门\t哺乳纲\t食肉目\t猫科\t豹属\tNULL\tNULL\t哺乳动物\t体型最大猫科动物，体毛橙黄有黑色横纹，顶级捕食者\t1\t中国东北、华南、西南（野生极少见）\t国家一级保护动物，野生虎濒临灭绝\tNULL\tNULL\tNULL\tNULL\t2026-03-26 09:55:06"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "159\tanimal\t豹\tPanthera pardus\tPanthera pardus\t动物界\t脊索动物门\t哺乳纲\t食肉目\t猫科\t豹属\tNULL\tNULL\t哺乳动物\t体毛金黄具黑色空心斑纹，适应性强\t1\t中国各地山区\t国家一级保护动物\tNULL\tNULL\tNULL\tNULL\t2026-03-26 09:55:06"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "160\tanimal\t雪豹\tPanthera uncia\tPanthera uncia\t动物界\t脊索动物门\t哺乳纲\t食肉目\t猫科\t豹属\tNULL\tNULL\t哺乳动物\t毛色灰白带黑斑，绒毛厚密，生活于高海拔\t1\t中国青藏高原和天山\t国家一级保护动物\tNULL\tNULL\tNULL\tNULL\t2026-03-26 09:55:06"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "161\tanimal\t云豹\tNeofelis nebulosa\tNeofelis nebulosa\t动物界\t脊索动物门\t哺乳纲\t食肉目\t猫科\t云豹属\tNULL\tNULL\t哺乳动物\t体毛灰黄，具大块云状斑纹，犬齿比例最大\t1\t中国西南、东南山地\t国家一级保护动物\tNULL\tNULL\tNULL\tNULL\t2026-03-26 09:55:06"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "162\tanimal\t兔狲\tOtocolobus manul\tOtocolobus manul\t动物界\t脊索动物门\t哺乳纲\t食肉目\t猫科\t兔狲属\tNULL\tNULL\t哺乳动物\t体型矮壮，毛长绒密，耳圆距宽，高原鼠兔天敌\t0\t中国西北高原、青藏\t国家二级保护动物\tNULL\tNULL\tNULL\tNULL\t2026-03-26 09:55:06"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "163\tanimal\t荒漠猫\tFelis bieti\tFelis bieti\t动物界\t脊索动物门\t哺乳纲\t食肉目\t猫科\t猫属\tNULL\tNULL\t哺乳动物\t体毛沙褐色，耳尖有毛丛，足部有毛，中国特有\t1\t中国西北（青海、甘肃、四川）\t中国特有猫科动物，国家二级保护动物\tNULL\tNULL\tNULL\tNULL\t2026-03-26 09:55:06"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "164\tanimal\t豹猫\tPrionailurus bengalensis\tPrionailurus bengalensis\t动物界\t脊索动物门\t哺乳纲\t食肉目\t猫科\t豹猫属\tNULL\tNULL\t哺乳动物\t体型小似家猫，斑纹如豹，适应多种环境\t0\t中国各地\t国家三有保护动物\tNULL\tNULL\tNULL\tNULL\t2026-03-26 09:55:06"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "165\tanimal\t狼\tCanis lupus\tCanis lupus\t动物界\t脊索动物门\t哺乳纲\t食肉目\t犬科\t犬属\tNULL\tNULL\t哺乳动物\t体型中大型，群体生活，社会结构复杂\t0\t中国西北、东北、西南高原\t国家二级保护动物\tNULL\tNULL\tNULL\tNULL\t2026-03-26 09:55:06"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "166\tanimal\t赤狐\tVulpes vulpes\tVulpes vulpes\t动物界\t脊索动物门\t哺乳纲\t食肉目\t犬科\t狐属\tNULL\tNULL\t哺乳动物\t体型最普遍的狐，尾大蓬松，吻尖耳大\t0\t中国各地\t分布最广的犬科动物\tNULL\tNULL\tNULL\tNULL\t2026-03-26 09:55:06"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "167\tanimal\t藏狐\tVulpes ferrilata\tVulpes ferrilata\t动物界\t脊索动物门\t哺乳纲\t食肉目\t犬科\t狐属\tNULL\tNULL\t哺乳动物\t面部宽阔方形，毛色土黄，青藏高原特有\t0\t中国青藏高原\t青藏高原特有狐种\tNULL\tNULL\tNULL\tNULL\t2026-03-26 09:55:06"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "168\tanimal\t貉\tNyctereutes procyonoides\tNyctereutes procyonoides\t动物界\t脊索动物门\t哺乳纲\t食肉目\t犬科\t貉属\tNULL\tNULL\t哺乳动物\t像浣熊，体型矮肥，面部有黑色过眼纹\t0\t中国各地\t东亚特有物种\tNULL\tNULL\tNULL\tNULL\t2026-03-26 09:55:06"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "173\tanimal\t小熊猫\tAilurus fulgens\tAilurus fulgens\t动物界\t脊索动物门\t哺乳纲\t食肉目\t小熊猫科\t小熊猫属\tNULL\tNULL\t哺乳动物\t毛色红褐，面部白斑，尾有环纹，以竹叶为主食\t1\t中国西南（四川、云南、西藏）\t国家二级保护动物\tNULL\tNULL\tNULL\tNULL\t2026-03-26 09:55:06"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "174\tanimal\t黄喉貂\tMartes flavigula\tMartes flavigula\t动物界\t脊索动物门\t哺乳纲\t食肉目\t鼬科\t貂属\tNULL\tNULL\t哺乳动物\t喉部黄色，体型细长，树栖为主\t0\t中国各地山区\t国家三有保护动物\tNULL\tNULL\tNULL\tNULL\t2026-03-26 09:55:06"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "175\tanimal\t紫貂\tMartes zibellina\tMartes zibellina\t动物界\t脊索动物门\t哺乳纲\t食肉目\t鼬科\t貂属\tNULL\tNULL\t哺乳动物\t毛绒柔软，色泽多样，珍贵毛皮兽\t1\t中国东北（黑龙江、大兴安岭）\t国家一级保护动物\tNULL\tNULL\tNULL\tNULL\t2026-03-26 09:55:06"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "176\tanimal\t石貂\tMartes foina\tMartes foina\t动物界\t脊索动物门\t哺乳纲\t食肉目\t鼬科\t貂属\tNULL\tNULL\t哺乳动物\t喉部白斑，身体细长，栖息于岩缝洞穴\t0\t中国西北、西南\t国家三有保护动物\tNULL\tNULL\tNULL\tNULL\t2026-03-26 09:55:06"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "177\tanimal\t狗獾\tMeles meles\tMeles meles\t动物界\t脊索动物门\t哺乳纲\t食肉目\t鼬科\t獾属\tNULL\tNULL\t哺乳动物\t体型肥壮，头部有白色纵纹，夜行性\t0\t中国各地\t国家三有保护动物\tNULL\tNULL\tNULL\tNULL\t2026-03-26 09:55:06"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "178\tanimal\t猪獾\tArctonyx collaris\tArctonyx collaris\t动物界\t脊索动物门\t哺乳纲\t食肉目\t鼬科\t猪獾属\tNULL\tNULL\t哺乳动物\t鼻端裸露似猪，挖掘能力强\t0\t中国华东、华南、西南\t国家三有保护动物\tNULL\tNULL\tNULL\tNULL\t2026-03-26 09:55:06"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "179\tanimal\t水獭\tLutra lutra\tLutra lutra\t动物界\t脊索动物门\t哺乳纲\t食肉目\t鼬科\t水獭属\tNULL\tNULL\t哺乳动物\t体型细长，趾间有蹼，水栖，善游泳\t1\t中国各地水体\t国家二级保护动物\tNULL\tNULL\tNULL\tNULL\t2026-03-26 09:55:06"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "180\tanimal\t小爪水獭\tAonyx cinereus\tAonyx cinereus\t动物界\t脊索动物门\t哺乳纲\t食肉目\t鼬科\t小爪水獭属\tNULL\tNULL\t哺乳动物\t体型最小水獭，爪小而尖，群居\t1\t中国华南、云南\t国家二级保护动物\tNULL\tNULL\tNULL\tNULL\t2026-03-26 09:55:06"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "181\tanimal\t貂熊\tGulo gulo\tGulo gulo\t动物界\t脊索动物门\t哺乳纲\t食肉目\t鼬科\t貂熊属\tNULL\tNULL\t哺乳动物\t体型似熊又似貂，毛色深褐，捕食能力强\t1\t中国东北（大兴安岭）\t国家一级保护动物\tNULL\tNULL\tNULL\tNULL\t2026-03-26 09:55:06"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "182\tanimal\t大灵猫\tViverra zibetha\tViverra zibetha\t动物界\t脊索动物门\t哺乳纲\t食肉目\t灵猫科\t灵猫属\tNULL\tNULL\t哺乳动物\t会阴腺发达能分泌灵猫香，体色灰黄有斑点\t0\t中国华东、华南、西南\t国家三有保护动物\tNULL\tNULL\tNULL\tNULL\t2026-03-26 09:55:06"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "183\tanimal\t小灵猫\tViverricula indica\tViverricula indica\t动物界\t脊索动物门\t哺乳纲\t食肉目\t灵猫科\t小灵猫属\tNULL\tNULL\t哺乳动物\t比大灵猫小，背部有纵向黑色纹\t0\t中国华东、华南、西南\t国家三有保护动物\tNULL\tNULL\tNULL\tNULL\t2026-03-26 09:55:06"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "184\tanimal\t果子狸\tPaguma larvata\tPaguma larvata\t动物界\t脊索动物门\t哺乳纲\t食肉目\t灵猫科\t果子狸属\tNULL\tNULL\t哺乳动物\t面部黑色过眼纹，形似浣熊，夜行性杂食\t0\t中国各地\t国家三有保护动物\tNULL\tNULL\tNULL\tNULL\t2026-03-26 09:55:06"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "185\tanimal\t亚洲象\tElephas maximus\tElephas maximus\t动物界\t脊索动物门\t哺乳纲\t长鼻目\t象科\t亚洲象属\tNULL\tNULL\t哺乳动物\t体型庞大，耳朵相对较小，雌象无长牙\t1\t中国云南（西双版纳）\t国家一级保护动物\tNULL\tNULL\tNULL\tNULL\t2026-03-26 09:55:06"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "186\tanimal\t野牦牛\tBos mutus\tBos mutus\t动物界\t脊索动物门\t哺乳纲\t偶蹄目\t牛科\t牛属\tNULL\tNULL\t哺乳动物\t体型巨大，密生长毛，高原适应能力强\t1\t中国青藏高原\t国家一级保护动物\tNULL\tNULL\tNULL\tNULL\t2026-03-26 09:55:06"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "187\tanimal\t野牛\tBos gaurus\tBos gaurus\t动物界\t脊索动物门\t哺乳纲\t偶蹄目\t牛科\t牛属\tNULL\tNULL\t哺乳动物\t体型最大牛科动物，四肢下部白色，肩峰高耸\t1\t中国云南（西双版纳）\t国家一级保护动物\tNULL\tNULL\tNULL\tNULL\t2026-03-26 09:55:06"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "188\tanimal\t藏羚\tPantholops hodgsonii\tPantholops hodgsonii\t动物界\t脊索动物门\t哺乳纲\t偶蹄目\t牛科\t藏羚属\tNULL\tNULL\t哺乳动物\t雄性有弯曲长角，毛绒柔软，迁徙性强\t1\t中国青藏高原（羌塘-可可西里）\t国家一级保护动物\tNULL\tNULL\tNULL\tNULL\t2026-03-26 09:55:06"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "189\tanimal\t藏原羚\tProcapra picticaudata\tProcapra picticaudata\t动物界\t脊索动物门\t哺乳纲\t偶蹄目\t牛科\t原羚属\tNULL\tNULL\t哺乳动物\t体态优雅，臀部白色心形斑，角短直\t0\t中国青藏高原\t国家二级保护动物\tNULL\tNULL\tNULL\tNULL\t2026-03-26 09:55:06"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "190\tanimal\t普氏原羚\tProcapra przewalshii\tProcapra przewalshii\t动物界\t脊索动物门\t哺乳纲\t偶蹄目\t牛科\t原羚属\tNULL\tNULL\t哺乳动物\t中国特有羚羊，雄性有角，分布极窄\t1\t中国青海（青海湖周边）\t国家一级保护动物\tNULL\tNULL\tNULL\tNULL\t2026-03-26 09:55:06"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "191\tanimal\t鹅喉羚\tGazella subgutturosa\tGazella subgutturosa\t动物界\t脊索动物门\t哺乳纲\t偶蹄目\t牛科\t瞪羚属\tNULL\tNULL\t哺乳动物\t雄性喉部膨大如鹅头，奔跑速度快\t0\t中国西北荒漠\t国家三有保护动物\tNULL\tNULL\tNULL\tNULL\t2026-03-26 09:55:06"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "192\tanimal\t赤斑羚\tNaemorhedus baileyi\tNaemorhedus baileyi\t动物界\t脊索动物门\t哺乳纲\t偶蹄目\t牛科\t斑羚属\tNULL\tNULL\t哺乳动物\t体毛红褐色，攀岩能力强，高黎贡山特有\t1\t中国云南、西藏（高黎贡山）\t国家一级保护动物\tNULL\tNULL\tNULL\tNULL\t2026-03-26 09:55:06"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "193\tanimal\t斑羚\tNaemorhedus goral\tNaemorhedus goral\t动物界\t脊索动物门\t哺乳纲\t偶蹄目\t牛科\t斑羚属\tNULL\tNULL\t哺乳动物\t灰色毛发，喉部白色，善攀岩\t1\t中国东北、华北、华东山区\t国家二级保护动物\tNULL\tNULL\tNULL\tNULL\t2026-03-26 09:55:06"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "194\tanimal\t鬣羚\tCapricornis milneedwardsii\tCapricornis milneedwardsii\t动物界\t脊索动物门\t哺乳纲\t偶蹄目\t牛科\t鬣羚属\tNULL\tNULL\t哺乳动物\t体型似羊又似驴，颈背有鬃毛，栖息于陡峭山崖\t1\t中国西南、秦岭山区\t国家一级保护动物\tNULL\tNULL\tNULL\tNULL\t2026-03-26 09:55:06"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "196\tanimal\t野驴\tEquus kiang\tEquus kiang\t动物界\t脊索动物门\t哺乳纲\t奇蹄目\t马科\t野驴属\tNULL\tNULL\t哺乳动物\t体型似骡，背部浅色纵纹，奔跑时群队形整齐\t1\t中国青藏高原（羌塘）\t国家一级保护动物\tNULL\tNULL\tNULL\tNULL\t2026-03-26 09:55:06"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "197\tanimal\t野猪\tSus scrofa\tSus scrofa\t动物界\t脊索动物门\t哺乳纲\t偶蹄目\t猪科\t猪属\tNULL\tNULL\t哺乳动物\t体型粗壮，犬齿外露成獠牙，毛深褐色\t0\t中国各地\t三有保护动物\tNULL\tNULL\tNULL\tNULL\t2026-03-26 09:55:06"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "198\tanimal\t麝\tMoschus spp.\tMoschus spp.\t动物界\t脊索动物门\t哺乳纲\t偶蹄目\t麝科\t麝属\tNULL\tNULL\t哺乳动物\t无角，雄性有麝香腺，体毛粗糙，无胆囊\t1\t中国东北、西北、西南山区\t国家一级保护动物\tNULL\tNULL\tNULL\tNULL\t2026-03-26 09:55:06"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "199\tanimal\t黑麂\tMuntiacus crinifrons\tMuntiacus crinifrons\t动物界\t脊索动物门\t哺乳纲\t偶蹄目\t鹿科\t麂属\tNULL\tNULL\t哺乳动物\t全身黑褐色，额部有蓬松长毛，中国特有\t1\t中国安徽、浙江、福建山区\t国家一级保护动物\tNULL\tNULL\tNULL\tNULL\t2026-03-26 09:55:06"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "200\tanimal\t坡鹿\tRucervus eldii\tRucervus eldii\t动物界\t脊索动物门\t哺乳纲\t偶蹄目\t鹿科\t豚鹿属\tNULL\tNULL\t哺乳动物\t四肢细长，白色眼圈，雄鹿角特殊弯曲\t1\t中国海南（坝王岭）\t国家一级保护动物\tNULL\tNULL\tNULL\tNULL\t2026-03-26 09:55:06"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "202\tanimal\t马鹿\tCervus elaphus\tCervus elaphus\t动物界\t脊索动物门\t哺乳纲\t偶蹄目\t鹿科\t鹿属\tNULL\tNULL\t哺乳动物\t体型大，角大且多分叉，夏季毛色红褐\t0\t中国东北、西北、四川\t国家二级保护动物\tNULL\tNULL\tNULL\tNULL\t2026-03-26 09:55:06"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "203\tanimal\t水鹿\tRusa unicolor\tRusa unicolor\t动物界\t脊索动物门\t哺乳纲\t偶蹄目\t鹿科\t水鹿属\tNULL\tNULL\t哺乳动物\t体型大善游泳，耳大面宽，夜间活动\t0\t中国华东、华南、西南\t国家二级保护动物\tNULL\tNULL\tNULL\tNULL\t2026-03-26 09:55:06"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "204\tanimal\t白唇鹿\tCervus albirostris\tCervus albirostris\t动物界\t脊索动物门\t哺乳纲\t偶蹄目\t鹿科\t鹿属\tNULL\tNULL\t哺乳动物\t唇周及下颌白色，高原特产，角型优美\t1\t中国青藏高原东部\t国家一级保护动物\tNULL\tNULL\tNULL\tNULL\t2026-03-26 09:55:06"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "206\tanimal\t草兔\tLepus capensis\tLepus capensis\t动物界\t脊索动物门\t哺乳纲\t兔形目\t兔科\t兔属\tNULL\tNULL\t哺乳动物\t耳长后足大，毛色随季节变化\t0\t中国各地\t三有保护动物\tNULL\tNULL\tNULL\tNULL\t2026-03-26 09:55:06"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "207\tanimal\t雪兔\tLepus timidus\tLepus timidus\t动物界\t脊索动物门\t哺乳纲\t兔形目\t兔科\t兔属\tNULL\tNULL\t哺乳动物\t冬季毛色变白，与雪地融为一体\t1\t中国东北、内蒙古\t国家二级保护动物\tNULL\tNULL\tNULL\tNULL\t2026-03-26 09:55:06"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "208\tanimal\t松鼠\tSciurus vulgaris\tSciurus vulgaris\t动物界\t脊索动物门\t哺乳纲\t啮齿目\t松鼠科\t松鼠属\tNULL\tNULL\t哺乳动物\t尾大蓬松，树栖为主，贮粮过冬\t0\t中国东北、华北\t三有保护动物\tNULL\tNULL\tNULL\tNULL\t2026-03-26 09:55:06"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "209\tanimal\t赤腹松鼠\tCallosciurus erythraeus\tCallosciurus erythraeus\t动物界\t脊索动物门\t哺乳纲\t啮齿目\t松鼠科\t丽松鼠属\tNULL\tNULL\t哺乳动物\t腹部红色，树栖，分布广\t0\t中国华东、华南、西南\t三有保护动物\tNULL\tNULL\tNULL\tNULL\t2026-03-26 09:55:06"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "210\tanimal\t河狸\tCastor fiber\tCastor fiber\t动物界\t脊索动物门\t哺乳纲\t啮齿目\t河狸科\t河狸属\tNULL\tNULL\t哺乳动物\t尾扁平宽大，能筑坝营造栖息地\t1\t中国新疆（布尔津）\t国家一级保护动物\tNULL\tNULL\tNULL\tNULL\t2026-03-26 09:55:06"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "211\tanimal\t豪猪\tHystrix brachyura\tHystrix brachyura\t动物界\t脊索动物门\t哺乳纲\t啮齿目\t豪猪科\t豪猪属\tNULL\tNULL\t哺乳动物\t体被长刺，昼伏夜出，植食性\t0\t中国华东、华南、西南\t三有保护动物\tNULL\tNULL\tNULL\tNULL\t2026-03-26 09:55:06"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "213\tanimal\t黑鹳\tCiconia nigra\tCiconia nigra\t动物界\t脊索动物门\t鸟纲\t鹳形目\t鹳科\t鹳属\tNULL\tNULL\t鸟类\t体色黑白对比鲜明，嘴长而红，湿地鸟\t1\t中国东北、西北繁殖，南方越冬\t国家一级保护动物\tNULL\tNULL\tNULL\tNULL\t2026-03-26 09:55:06"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "216\tanimal\t白尾海雕\tHaliaeetus albicilla\tHaliaeetus albicilla\t动物界\t脊索动物门\t鸟纲\t隼形目\t鹰科\t海雕属\tNULL\tNULL\t鸟类\t尾完全白色，头部浅褐色\t1\t中国沿海、长江流域\t国家一级保护动物\tNULL\tNULL\tNULL\tNULL\t2026-03-26 09:55:06"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "217\tanimal\t胡兀鹫\tGypaetus barbatus\tGypaetus barbatus\t动物界\t脊索动物门\t鸟纲\t隼形目\t鹰科\t胡兀鹫属\tNULL\tNULL\t鸟类\t头部有胡须状羽毛，以骨头为食\t1\t中国青藏高原、西北高山\t国家一级保护动物\tNULL\tNULL\tNULL\tNULL\t2026-03-26 09:55:06"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "218\tanimal\t黑鸢\tMilvus migrans\tMilvus migrans\t动物界\t脊索动物门\t鸟纲\t隼形目\t鹰科\t鸢属\tNULL\tNULL\t鸟类\t常见猛禽，尾分叉，适应性广\t0\t中国各地\t国家二级保护动物\tNULL\tNULL\tNULL\tNULL\t2026-03-26 09:55:06"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "226\tanimal\t白头鹤\tGrus monacha\tGrus monacha\t动物界\t脊索动物门\t鸟纲\t鹤形目\t鹤科\t鹤属\tNULL\tNULL\t鸟类\t头部白色，体灰色，繁殖于森林湿地\t1\t中国长江中下游、江西（鄱阳湖）\t国家一级保护动物\tNULL\tNULL\tNULL\tNULL\t2026-03-26 09:55:06"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "228\tanimal\t中华秋沙鸭\tMergus squamatus\tMergus squamatus\t动物界\t脊索动物门\t鸟纲\t雁形目\t鸭科\t秋沙鸭属\tNULL\tNULL\t鸟类\t冠羽独特，潜水捕鱼，中国特有\t1\t中国东北繁殖，长江以南越冬\t国家一级保护动物\tNULL\tNULL\tNULL\tNULL\t2026-03-26 09:55:06"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "230\tanimal\t褐马鸡\tCrossoptilon mantchuricum\tCrossoptilon mantchuricum\t动物界\t脊索动物门\t鸟纲\t鸡形目\t雉科\t马鸡属\tNULL\tNULL\t鸟类\t体羽褐色，尾羽蓝绿，中国特有\t1\t中国山西、河北（庞泉沟）\t国家一级保护动物\tNULL\tNULL\tNULL\tNULL\t2026-03-26 09:55:06"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "231\tanimal\t蓝马鸡\tCrossoptilon auritum\tCrossoptilon auritum\t动物界\t脊索动物门\t鸟纲\t鸡形目\t雉科\t马鸡属\tNULL\tNULL\t鸟类\t体羽蓝灰色，耳羽簇粗壮\t0\t中国青海、甘肃、四川\t国家二级保护动物\tNULL\tNULL\tNULL\tNULL\t2026-03-26 09:55:06"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "232\tanimal\t绿孔雀\tPavo muticus\tPavo muticus\t动物界\t脊索动物门\t鸟纲\t鸡形目\t雉科\t孔雀属\tNULL\tNULL\t鸟类\t雄鸟体羽翠绿，数量稀少\t1\t中国云南（南部）\t国家一级保护动物\tNULL\tNULL\tNULL\tNULL\t2026-03-26 09:55:06"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "233\tanimal\t黄腹角雉\tTragopan caboti\tTragopan caboti\t动物界\t脊索动物门\t鸟纲\t鸡形目\t雉科\t角雉属\tNULL\tNULL\t鸟类\t雄鸟喉部有蓝色肉裙\t1\t中国华东、华南（武夷山）\t国家一级保护动物\tNULL\tNULL\tNULL\tNULL\t2026-03-26 09:55:06"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "234\tanimal\t红腹角雉\tTragopan temminckii\tTragopan temminckii\t动物界\t脊索动物门\t鸟纲\t鸡形目\t雉科\t角雉属\tNULL\tNULL\t鸟类\t雄鸟腹部红色\t1\t中国西南、华中山区\t国家一级保护动物\tNULL\tNULL\tNULL\tNULL\t2026-03-26 09:55:06"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "235\tanimal\t血雉\tIthaginis cruentus\tIthaginis cruentus\t动物界\t脊索动物门\t鸟纲\t鸡形目\t雉科\t血雉属\tNULL\tNULL\t鸟类\t雄鸟脚红色似血，故名\t0\t中国西南、西北高山\t国家二级保护动物\tNULL\tNULL\tNULL\tNULL\t2026-03-26 09:55:06"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "236\tanimal\t大鸨\tOtis tarda\tOtis tarda\t动物界\t脊索动物门\t鸟纲\t鸨形目\t鸨科\t鸨属\tNULL\tNULL\t鸟类\t体型最大飞行鸟类之一，雄鸟喉部有须羽\t1\t中国西北、东北繁殖，南方越冬\t国家一级保护动物\tNULL\tNULL\tNULL\tNULL\t2026-03-26 09:55:06"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "238\tanimal\t新疆大头鱼\tAspiorhynchus laticeps\tAspiorhynchus laticeps\t动物界\t脊索动物门\t鱼纲\t鲤形目\t鲤科\t新疆大头鱼属\tNULL\tNULL\t鱼类\t新疆特有大型鱼类\t1\t中国新疆（塔里木河水系）\t国家一级保护动物\tNULL\tNULL\tNULL\tNULL\t2026-03-26 09:55:06"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "240\tanimal\t白鲟\tPsephurus gladius\tPsephurus gladius\t动物界\t脊索动物门\t鱼纲\t鲟形目\t匙吻鲟科\t白鲟属\tNULL\tNULL\t鱼类\t长江特有巨型鱼类，已功能性灭绝\t1\t中国长江（已罕见）\t国家一级保护动物\tNULL\tNULL\tNULL\tNULL\t2026-03-26 09:55:06"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "242\tanimal\t巨蜥\tVaranus salvator\tVaranus salvator\t动物界\t脊索动物门\t爬行纲\t有鳞目\t巨蜥科\t巨蜥属\tNULL\tNULL\t爬行动物\t体型最大蜥蜴之一，体长可达3米\t1\t中国云南（西双版纳）\t国家一级保护动物\tNULL\tNULL\tNULL\tNULL\t2026-03-26 09:55:06"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "243\tanimal\t圆珠铜蜓\tCuora trifasciata\tCuora trifasciata\t动物界\t脊索动物门\t爬行纲\t龟鳖目\t地龟科\t闭壳龟属\tNULL\tNULL\t爬行动物\t背甲有三纵棱\t1\t中国华南、华东山区\t国家一级保护动物\tNULL\tNULL\tNULL\tNULL\t2026-03-26 09:55:06"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "248\tanimal\t金鱼\tGoldfish\tCarassius auratus\t动物界\t脊索动物门\t硬骨鱼纲\t鲤形目\t鲤科\t鲫属\t金鱼\t\t鱼类\t体形短圆，色彩鲜艳，有背鳍、尾鳍等多种变异，常见红、橙、黄、白等色\t0\t原产中国，世界各地均有饲养\t由野生鲫鱼培育而来，是最常见的观赏鱼之一，品种繁多\tNULL\tNULL\tNULL\tNULL\t2026-03-28 15:22:29"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "249\tanimal\t羊驼\tAlpaca\tVicugna pacos\t动物界\t脊索动物门\t哺乳纲\t偶蹄目\t骆驼科\t羊驼属\t羊驼\t\t哺乳动物\t体型似绵羊，颈部细长，蹄两趾，趾上有爪状的趾枕，性格温顺\t0\t原产南美洲安第斯山脉，现世界广泛饲养\t重要的毛用动物和经济动物，毛质轻柔，保暖性好，也可作为观赏动物\tNULL\tNULL\tNULL\tNULL\t2026-03-28 15:28:05"
+  },
+  {
+    "id\ttype\tname_cn\tname_en\tscientific_name\tkingdom\tphylum\tclass\torder_name\tfamily\tgenus\tspecies\tsubspecies\tcategory\tfeature\tis_endangered\tregion\tdescription\tflower_color\tleaf_type\tfruit_type\thabitat\tcreated_at": "250\tanimal\t珠颈斑鸠\tSpotted Dove\tStreptopelia chinensis\t动物界\t脊索动物门\t鸟纲\t鸽形目\t鸠鸽科\t斑鸠属\t珠颈斑鸠\t\t鸟类\t中型鸟类，体长约30厘米，头灰颈白，颈侧有黑色白色斑点形成的环带，故名珠颈斑鸠，背羽淡褐色，尾羽灰褐色\t0\t中国中部、南部，西至西藏南部\t常见留鸟，性温顺，常在地面觅食，叫声低沉悦耳，三有保护鸟类。\tNULL\tNULL\tNULL\t平原、山地、林缘、村庄\t2026-04-11 15:03:30"
+  }
+]
